@@ -736,18 +736,19 @@ DuckTV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
 时尚购物,http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.172/PLTV/3/224/3221227585/index.m3u8
 
 📡其他,#genre#
-SCTV1,http://wan1.tangwudi.cc:47859/udp/239.94.0.72:5140
-SCTV1,http://171.213.158.177:9008/udp/239.94.0.76:5140&z=1f4e$科教
-SCTV2,http://wan1.tangwudi.cc:47859/udp/239.94.0.70:5140
+
 SCTV2,http://171.213.158.177:9008/udp/239.94.0.70:5140&z=1f4e$经济
-SCTV3,http://wan1.tangwudi.cc:47859/udp/239.94.1.5:5140
+SCTV2,http://wan1.tangwudi.cc:47859/udp/239.94.0.70:5140
 SCTV3,http://171.213.158.177:9008/udp/239.94.0.71:5140&z=1f4e$文化旅游
+SCTV3,http://wan1.tangwudi.cc:47859/udp/239.94.1.5:5140
 SCTV4,http://wan1.tangwudi.cc:47859/udp/239.94.0.74:5140
 SCTV4,http://171.213.158.177:9008/udp/239.94.0.72:5140&z=1f4e$新闻
-SCTV5,http://wan1.tangwudi.cc:47859/udp/239.94.0.73:5140
 SCTV5,http://171.213.158.177:9008/udp/239.94.0.73:5140&z=1f4e$影视文艺
+SCTV5,http://wan1.tangwudi.cc:47859/udp/239.94.0.73:5140
 SCTV6,http://171.213.158.177:9008/udp/239.94.0.74:5140&z=1f4e$购物
 SCTV7,http://171.213.158.177:9008/udp/239.94.0.75:5140&z=1f4e
+SCTV8,http://171.213.158.177:9008/udp/239.94.0.76:5140&z=1f4e$科教
+SCTV8,http://wan1.tangwudi.cc:47859/udp/239.94.0.72:5140
 SCTV9,http://171.213.158.177:9008/udp/239.94.0.77:5140&z=1f4e$乡村
 SCTV9,http://wan1.tangwudi.cc:47859/udp/239.94.0.76:5140
 SCTV9,http://wan1.tangwudi.cc:47859/udp/239.94.1.4:5140
@@ -1621,30 +1622,7 @@ Y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3
 电视剧场九,http://39.153.130.167:35455/huya/21059594
 电视剧场十,http://39.153.130.167:35455/huya/11336592
 电视剧场十一,http://39.153.130.167:35455/huya/11602088
-尘封十三载第01集,https://hd.lz-cdn18.com/20230406/1701_0ba78cf7/index.m3u8
-尘封十三载第02集,https://hd.lz-cdn18.com/20230406/1700_691f2e08/index.m3u8
-尘封十三载第03集,https://hd.lz-cdn18.com/20230406/1699_2f8cac84/index.m3u8
-尘封十三载第04集,https://hd.lz-cdn18.com/20230406/1698_cfd2eac2/index.m3u8
-尘封十三载第05集,https://vip.lzcdn2.com/20230407/25103_b92c794a/index.m3u8
-尘封十三载第06集,https://vip.lzcdn2.com/20230407/25102_05aa2477/index.m3u8
-尘封十三载第07集,https://hd.lz-cdn18.com/20230408/1756_c62d07d8/index.m3u8
-尘封十三载第08集,https://hd.lz-cdn18.com/20230408/1755_d22edf2b/index.m3u8
-尘封十三载第09集,https://vip.lzcdn2.com/20230409/25141_b85f9b8d/index.m3u8
-尘封十三载第10集,https://vip.lzcdn2.com/20230409/25140_584a8930/index.m3u8
-尘封十三载第11集,https://hd.lz-cdn18.com/20230410/1780_d7941636/index.m3u8
-尘封十三载第12集,https://hd.lz-cdn18.com/20230410/1779_4b4740a1/index.m3u8
-尘封十三载第13集,https://vip.lzcdn2.com/20230411/25176_02a2ce33/index.m3u8
-尘封十三载第14集,https://vip.lzcdn2.com/20230411/25175_95075a3c/index.m3u8
-尘封十三载第15集,https://hd.lz-cdn18.com/20230412/1820_28387e68/index.m3u8
-尘封十三载第16集,https://hd.lz-cdn18.com/20230412/1819_1186150c/index.m3u8
-尘封十三载第17集,https://vip.lzcdn2.com/20230413/25210_d63b081b/index.m3u8
-尘封十三载第18集,https://vip.lzcdn2.com/20230413/25209_25921bc5/index.m3u8
-尘封十三载第19集,https://hd.lz-cdn18.com/20230414/1890_56f684b8/index.m3u8
-尘封十三载第20集,https://hd.lz-cdn18.com/20230414/1889_bac26094/index.m3u8
-尘封十三载第21集,https://vip.lzcdn2.com/20230415/25244_a551c726/index.m3u8
-尘封十三载第22集,https://vip.lzcdn2.com/20230415/25243_a2e60486/index.m3u8
-尘封十三载第23集,https://hd.lz-cdn18.com/20230416/1926_6c185945/index.m3u8
-尘封十三载第24集,https://hd.lz-cdn18.com/20230416/1925_64688cb0/index.m3u8
+
 
 
 🧘🏻‍♀️轮播,#genre#
