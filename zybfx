@@ -1117,12 +1117,8 @@ RTHK35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
 
 🌊台湾,#genre#
 Now新闻,https://cdn.163189.xyz/163189/now
-鏡电视新闻,http://80tv.eu.org:8711/live.m3u8?c=24
-鏡电视新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-鏡电视新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
 鏡电视新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 公视,http://211.72.174.95:8116/0.ts
-公视新闻,http://80tv.eu.org:8711/live.m3u8?c=23
 华视,http://211.72.174.95:8114/0.ts
 华视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WC4PV84FqPDdX5aGM2Uh2jv-FMZaOh-fvBiGeHcVSKvxKgnMAi_TSEdkq0GlDYvX0YOdT20uyonxrctqHD39OFdSxYFPV2CjSgX96JI0rcx2D9VifDNgJK5yzYJhsqhdEY2Jhj9BGCrG1njMeRY7BBQtGKuN6F7M7tBZ3fJKeod86PqkIEbu8h1232KWo-ZXaQ.m3u8?u=1756878715
 华视,http://74.91.26.218:82/live/cts.m3u8
@@ -1443,8 +1439,7 @@ CHC动作电影,http://zczb.aylzline.top:8899/rtp/225.1.2.215:11428
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://120.238.5.44:1698/hls/70/index.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
-PopC,http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
-POPc,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20118
+PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 淘电影,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.250:8001
 淘电影,http://route.079915.xyz:4022/rtp/239.3.1.250:8001
 淘电影,http://www.uibehw.cn:4022/rtp/239.3.1.250:8001
