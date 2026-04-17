@@ -1124,6 +1124,7 @@ RTHK35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
 🌊台湾,#genre#
 非凡新闻,rtmp://f13h.mine.nu:1935/sat/tv581
 Now新闻,https://cdn.163189.xyz/163189/now
+镜电视新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 鏡电视新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 公视,http://211.72.174.95:8116/0.ts
 华视,http://211.72.174.95:8114/0.ts
@@ -1305,6 +1306,68 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 新唐人,http://80tv.eu.org:8711/live.m3u8?c=25
 八大精彩,https://t.freetv.fun/live/ba-da-jing-cai.php
 八大综合,https://t.freetv.fun/live/ba-da-zong-yi.php
+
+TOVD,#genre#
+美亚电影台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
+翡翠台4K,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct3
+明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
+明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt2
+华丽翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=huali
+华丽翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=huali2
+TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
+TVB J1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=j1
+TVB J2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=j2
+TVB星河(双语),https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxh
+TVB星河(国语),https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
+千禧经典台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbc
+亚洲武侠,https://php.jdshipin.com:2096/TVOD/iptv.php?id=yzwx
+娱乐新闻台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbylxw
+无线新闻台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
+无线新闻台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=wxxw
+无线新闻台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=wxxwt
+ViuTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv
+ViuTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
+HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv2
+HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
+凤凰中文,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzw
+凤凰资讯,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhzx2
+凤凰香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
+重温经典,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
+澳视澳门,https://php.jdshipin.com:2096/TVOD/iptv.php?id=asam
+澳视卫星,https://php.jdshipin.com:2096/TVOD/iptv.php?id=as
+RTHK31,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk31
+RTHK32,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
+Astro AOD,https://php.jdshipin.com:2096/TVOD/iptv.php?id=aod
+广东珠江,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
+广东体育,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdty
+
+Smart,#genre#
+美亚电影台,https://php.jdshipin.com:2096/smt.php?id=meiyamovie_twn
+天映频道,https://php.jdshipin.com:2096/smt.php?id=Celestial
+翡翠台,https://php.jdshipin.com:2096/smt.php?id=jade_twn
+翡翠台,https://php.jdshipin.com:2096/smt.php?id=jade_xue
+华丽翡翠台,https://php.jdshipin.com:2096/smt.php?id=Tvbjade
+无线新闻台,https://php.jdshipin.com:2096/smt.php?id=inews_twn
+娱乐新闻台,https://php.jdshipin.com:2096/smt.php?id=Tvbentertainment
+千禧经典台,https://php.jdshipin.com:2096/smt.php?id=Tvbclassic
+TVB Plus,https://php.jdshipin.com:2096/smt.php?id=j2_twn
+凤凰中文,https://php.jdshipin.com:2096/smt.php?id=phoenixtv_hd
+凤凰资讯,https://php.jdshipin.com:2096/smt.php?id=phoenixinfo_hd
+ViuTV,https://php.jdshipin.com:2096/smt.php?id=viu1_twn
+ViuTV6,https://php.jdshipin.com:2096/smt.php?id=viusix_twn
+HOY78,https://php.jdshipin.com:2096/smt.php?id=hoycaijing_twn
+RTHK31,https://php.jdshipin.com:2096/smt.php?id=rhk31_twn
+RTHK32,https://php.jdshipin.com:2096/smt.php?id=rhk32_twn
+爱奇艺,https://php.jdshipin.com:2096/smt.php?id=Qiyi
+Astro AOD,https://php.jdshipin.com:2096/smt.php?id=Aodhd
+Astro AEC,https://php.jdshipin.com:2096/smt.php?id=AEC
+Astro QJ,https://php.jdshipin.com:2096/smt.php?id=Quanjia
+纬来电影,https://php.jdshipin.com:2096/smt.php?id=videolandmovie
 
 
 
