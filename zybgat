@@ -53,11 +53,9 @@ http://cdn6.163189.xyz/163189/tvbd
 http://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河
-http://cdn6.163189.xyz/163189/tvbxh
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河
+#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
 http://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河
+#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
 https://cdn10.163189.xyz/stream/163189/xinghe/
 #EXTINF:-1 tvg-name="天映新加坡" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/天映.png" group-title="Juli",天映新加坡
 https://cdn10.163189.xyz/stream/163189/typd/
