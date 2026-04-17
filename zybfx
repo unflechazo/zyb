@@ -609,6 +609,8 @@ CCTV14,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&a
 DuckTV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,http://171.38.107.34:8282/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 
 
 
@@ -1267,6 +1269,9 @@ TVBSNEWS,http://80tv.eu.org:8711/live.m3u8?c=3
 台视财经,http://rihou.cc:555/tv/[mn]台视财经
 靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖洋戲劇,https://stream1.freetv.fun/6fe99a12ac024f6d592a187ef379c9634e4f3b14ac75ebf30a675ca7d8cb454d.ctv
+民视影剧,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
+采昌影剧,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
@@ -1427,22 +1432,10 @@ BesTV4K,http://223.167.125.208:4022/rtp/233.18.204.169:5140
 爱上4K,http://101.wifi98.com:9001/udp/232.0.0.187:1234
 峨眉电影4K,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 绚影4K,http://wan1.tangwudi.cc:47859/udp/239.94.1.150:5140
-民视影剧,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
-公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
-采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
 靖天电影,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 靖洋戏剧,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
-影迷数位电影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
-amc电影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
-CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
-My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
-经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
-CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
-DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
-精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
-金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 CHC影迷电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.174:5140
 CHC影迷电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
@@ -1477,6 +1470,13 @@ PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6
 淘电影,http://route.alexex.fun:4022/rtp/239.3.1.250:8001
 淘电影,http://iptv.chen2912.online:4022/rtp/239.3.1.250:8001
 淘电影,http://gmk.ddns.wangbin.us:4022/rtp/239.3.1.250:8001
+amc,https://stream1.freetv.fun/f78ff1e484b79f13f26a2863929a81959551bbce10c86a293620ec8f19238480.ctv
+amc,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+影迷数位电影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
+经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
 古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
@@ -1607,6 +1607,7 @@ Amc,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUI
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
 林正英影院,http://107.150.60.122/live/lblzy.m3u8
 BesTv,http://111.56.90.5/000000000000/5000000011000288005/index.m3u8
+
 娱乐频道,#group#
 
 🏛电视剧,#genre#
