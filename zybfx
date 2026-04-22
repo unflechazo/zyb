@@ -806,6 +806,10 @@ SCTV9,http://wan1.tangwudi.cc:47859/udp/239.94.1.8:5140
 北京国际,http://183.214.23.27:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
 北京国际,http://www.taoli.website:23234/rtp/239.3.1.235:8000
 北京国际,http://www.xiongnas.top:8888/rtp/239.3.1.235:8000
+朝阳融媒,http://123.114.17.150:4000/udp/239.3.1.163:8001
+通州融媒,http://123.114.17.150:4000/udp/239.3.1.221:8001
+密云电视台,http://123.114.17.150:4000/udp/239.3.1.154:8001
+房山电视台,http://123.114.17.150:4000/udp/239.3.1.96:8001
 天津新闻,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.130:5002
 天津文艺,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.131:5002
 天津影视,http://upload.home.hanxucloud.cn:4022/rtp/225.1.1.149:5002
@@ -1008,6 +1012,8 @@ RTHK35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 亚太卫视,http://play2.one-tv.com/live/onetv.m3u8
+星空卫视,http://183.220.107.138:4022/rtp/239.11.0.156:5140$四川移动
+Channel[V],http://183.220.107.138:4022/rtp/239.11.0.155:5140$四川移动
 
 
 
@@ -1262,7 +1268,7 @@ NewTV超级电影,http://183.214.23.27:2380/ywotttv.bj.chinamobile.com/PLTV/8888
 NewTV超级电影,http://183.214.23.27:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
 NewTV超级电影,http://183.214.23.27:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226949/1.m3u8
 
-🎬iHOT,#genre#
+🎬IHOT,#genre#
 iHOT爱喜剧,http://wan1.tangwudi.cc:47859/udp/239.94.1.129:5140
 iHOT爱喜剧,http://wan1.tangwudi.cc:47859/udp/239.94.2.71:5140
 iHOT爱奇谈,http://wan1.tangwudi.cc:47859/udp/239.94.1.130:5140
@@ -1275,9 +1281,39 @@ iHOT爱科幻,http://wan1.tangwudi.cc:47859/udp/239.94.1.131:5140
 iHOT爱谍战,http://wan1.tangwudi.cc:47859/udp/239.94.1.134:5140
 iHOT爱院线,http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
 
+🎬IPTV,#genre#
+华数4K,http://yuwentao114.x3322.net:4022/udp/239.252.220.212:5140
+IPTV淘电影,http://123.114.17.150:4000/udp/239.3.1.250:8001
+IPTV淘电影,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.250:8001
+IPTV淘电影,http://route.079915.xyz:4022/rtp/239.3.1.250:8001
+IPTV淘电影,http://www.uibehw.cn:4022/rtp/239.3.1.250:8001
+IPTV淘电影,http://route.alexex.fun:4022/rtp/239.3.1.250:8001
+IPTV淘电影,http://iptv.chen2912.online:4022/rtp/239.3.1.250:8001
+IPTV淘电影,http://gmk.ddns.wangbin.us:4022/rtp/239.3.1.250:8001
+IPTV淘剧场,http://123.114.17.150:4000/udp/239.3.1.95:8001
+IPTV淘娱乐,http://123.114.17.150:4000/udp/239.3.1.100:8001
+IPTV谍战剧场,http://yuwentao114.x3322.net:4022/udp/239.252.220.145:5140
+IPTV谍战剧场,http://183.220.107.138:4022/rtp/239.10.0.123:5140$四川移动
+IPTV电影,http://yuwentao114.x3322.net:4022/udp/239.252.220.142:5140
+IPTV经典电影,http://yuwentao114.x3322.net:4022/udp/239.252.220.139:5140
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$四川移动
+IPTV热播剧场,http://yuwentao114.x3322.net:4022/udp/239.252.220.138:5140
+IPTV热播剧场,http://183.220.107.138:4022/rtp/239.10.0.121:5140$四川移动
+IPTV魅力时尚,http://yuwentao114.x3322.net:4022/udp/239.252.220.137:5140
+IPTV光影,http://yuwentao114.x3322.net:4022/udp/239.252.220.200:5140
+IPTV星影,http://yuwentao114.x3322.net:4022/udp/239.252.220.210:5140
+IPTV星影,http://114.244.70.81:4022/rtp/239.3.1.94:4120
+IPTV家庭影院,http://114.244.70.81:4022/rtp/239.3.1.93:4120
+IPTV军旅剧场,http://114.244.70.81:4022/rtp/239.3.1.69:4120
+IPTV动作影院,http://114.244.70.81:4022/rtp/239.3.1.92:4120
+IPTV喜剧剧场,http://114.244.70.81:4022/rtp/239.3.1.91:4120
+IPTV武侠剧场,http://114.244.70.81:4022/rtp/239.3.1.90:4120
+IPTV精选,http://114.244.70.81:4022/rtp/239.3.1.74:4120
+IPTV都市剧场,http://114.244.70.81:4022/rtp/239.3.1.67:4120
+
+
 
 🎬电影,#genre#
-
 新片速递,http://wan1.tangwudi.cc:47859/udp/239.94.1.64:5140
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
@@ -1288,10 +1324,13 @@ BesTV4K,http://woshiysy1.synology.me:4999/rtp/233.18.204.169:5140
 BesTV4K,http://wsc2007123.myds.me:30100/rtp/233.18.204.169:5140
 BesTV4K,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
 BesTV4K,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
+4K超清,http://123.114.17.150:4000/udp/239.3.1.249:8001
 4K乐享超清,http://wan1.tangwudi.cc:47859/udp/239.94.1.162:5140
 4K修复,http://183.214.23.27:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.224/PLTV/4/224/3221228141/index.m3u8
 爱上4K,http://lihetl.com:9527/rtp/232.0.0.104:8632
 爱上4K,http://101.wifi98.com:9001/udp/232.0.0.187:1234
+爱上4K,http://yuwentao114.x3322.net:4022/udp/239.252.220.212:5140
+爱上4K,http://183.220.107.138:4022/rtp/239.11.0.120:5140
 峨眉电影4K,http://183.214.23.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 绚影4K,http://wan1.tangwudi.cc:47859/udp/239.94.1.150:5140
 CHC影迷电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.174:5140
@@ -1322,12 +1361,6 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://120.238.5.44:1698/hls/70/index.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-淘电影,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.250:8001
-淘电影,http://route.079915.xyz:4022/rtp/239.3.1.250:8001
-淘电影,http://www.uibehw.cn:4022/rtp/239.3.1.250:8001
-淘电影,http://route.alexex.fun:4022/rtp/239.3.1.250:8001
-淘电影,http://iptv.chen2912.online:4022/rtp/239.3.1.250:8001
-淘电影,http://gmk.ddns.wangbin.us:4022/rtp/239.3.1.250:8001
 影迷数位电影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
 经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
 古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
@@ -1346,14 +1379,6 @@ PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6
 电影,http://183.214.23.27:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226982/1.m3u8
 风云恐怖电影,http://iptv.4666888.xyz/iptv2A.php?id=59
 中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
-华数4K,http://yuwentao114.x3322.net:4022/udp/239.252.220.212:5140
-华数1,http://yuwentao114.x3322.net:4022/udp/239.252.220.145:5140
-华数2,http://yuwentao114.x3322.net:4022/udp/239.252.220.142:5140
-华数3,http://yuwentao114.x3322.net:4022/udp/239.252.220.139:5140
-华数4,http://yuwentao114.x3322.net:4022/udp/239.252.220.138:5140
-华数5,http://yuwentao114.x3322.net:4022/udp/239.252.220.137:5140
-华数6,http://yuwentao114.x3322.net:4022/udp/239.252.220.200:5140
-华数7,http://yuwentao114.x3322.net:4022/udp/239.252.220.210:5140
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华电影,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20240
