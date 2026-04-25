@@ -10,6 +10,7 @@ EYE TV旅游台,https://t.freetv.fun/live/travel-plus.m3u8
 乐游,http://111.56.121.176/000000001000/5000000011000031112/1.m3u8?fmt=ts2hls
 亲子趣学,http://wan1.tangwudi.cc:47859/udp/239.94.1.156:5140
 生活时尚,http://111.56.121.176/000000001000/5000000002000019634/1.m3u8?fmt=ts2hls
+法治天地,http://liuwenxiaokevin.top:14044/rtp/233.18.204.049:5140
 环球直播,https://live.iill.top/douyu/9036111
 
 🏀体育,#genre#
@@ -97,6 +98,7 @@ BesTV4K纪实,http://wan1.tangwudi.cc:47859/udp/239.94.1.69:5140
 
 第一直播,#group#
 📺央视,#genre#
+CCTV4K,http://liuwenxiaokevin.top:14044/rtp/233.18.204.188:5140
 CCTV4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV4K,http://111.56.121.176:80/050000001888/5000000188800000217/index.m3u8
@@ -314,10 +316,10 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 📡卫视,#genre#
+北京卫视4K,http://nas.yzs10000.com:17777/rtp/239.94.0.111:5140
 北京卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226322/1.m3u8?fmt=ts2hls
 北京卫视4K,http://wan1.tangwudi.cc:47859/udp/239.94.0.111:5140
 北京卫视4K,http://223.167.125.208:4022/udp/233.18.204.209:5140
-北京卫视4K,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视4K(看东方),https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K(看东方),http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226360/1.m3u8?fmt=ts2hls
@@ -520,38 +522,33 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 西藏卫视,http://zczb.aylzline.top:8899/rtp/225.1.2.42:10246
 都市剧场,http://111.56.121.176/000000001000/5000000011000031111/1.m3u8?fmt=ts2hls
 都市剧场,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.48:5140
+东方影视,http://liuwenxiaokevin.top:14044/rtp/233.18.204.055:5140
+新闻综合,http://liuwenxiaokevin.top:14044/rtp/233.18.204.057:5140
 
 -----------------------------------------------------------------------------------
-cdtv1,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-1_4000.m3u8
-cdtv1,http://wan1.tangwudi.cc:47859/udp/239.94.0.154:5140
 cdtv1,http://nas.201606.xyz:4022/rtp/239.10.0.11:5140
-cdtv1,http://183.220.107.138:4022/rtp/239.10.0.11:5140
-cdtv1,http://183.220.20.17:4321/rtp/239.10.0.11:5140
+cdtv1,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-1_4000.m3u8
+cdtv1,http://nas.yzs10000.com:17777/rtp/239.94.0.154:5140
+cdtv1,http://wan1.tangwudi.cc:47859/udp/239.94.0.154:5140
+cdtv2,http://nas.201606.xyz:4022/rtp/239.10.0.12:5140
 cdtv2,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-2_4000.m3u8
 cdtv2,http://wan1.tangwudi.cc:47859/udp/239.94.0.155:5140
-cdtv2,http://nas.201606.xyz:4022/rtp/239.10.0.12:5140
-cdtv2,http://183.220.107.138:4022/rtp/239.10.0.12:5140
-cdtv2,http://183.220.20.17:4321/rtp/239.10.0.12:5140
+cdtv3,http://nas.yzs10000.com:17777/rtp/239.94.0.156:5140
 cdtv3,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-3_4000.m3u8
 cdtv3,http://wan1.tangwudi.cc:47859/udp/239.94.0.156:5140
 cdtv3,http://nas.201606.xyz:4022/rtp/239.10.0.13:5140
-cdtv3,http://183.220.107.138:4022/rtp/239.10.0.13:5140
-cdtv3,http://183.220.20.17:4321/rtp/239.10.0.13:5140
 cdtv4,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-4_4000.m3u8
 cdtv4,http:wan1.tangwudi.cc:47859/udp/239.94.0.157:5140
 cdtv4,http://nas.201606.xyz:4022/rtp/239.10.0.14:5140
-cdtv4,http://183.220.107.138:4022/rtp/239.10.0.14:5140
-cdtv4,http://183.220.20.17:4321/rtp/239.10.0.14:5140
 cdtv5,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-5_4000.m3u8
 cdtv5,http://wan1.tangwudi.cc:47859/udp/239.94.0.158:5140
 cdtv5,http://nas.201606.xyz:4022/rtp/239.10.0.15:5140
-cdtv5,http://183.220.107.138:4022/rtp/239.10.0.15:5140
-cdtv5,http://183.220.20.17:4321/rtp/239.10.0.15:5140
+cdtv6,http://nas.yzs10000.com:17777/rtp/239.94.0.159:5140
 cdtv6,http://wan1.tangwudi.cc:47859/udp/239.94.0.159:5140
 cdtv6,http://nas.201606.xyz:4022/rtp/239.10.0.16:5140
-cdtv6,http://183.220.107.138:4022/rtp/239.10.0.16:5140
-cdtv6,http://183.220.20.17:4321/rtp/239.10.0.16:5140
-CDTV8,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000.m3u8
+cdtv8,http://nas.yzs10000.com:17777/rtp/239.94.0.160:5140
+cdtv8,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000.m3u8
+成都蓉城先锋,http://nas.yzs10000.com:17777/rtp/239.94.1.057:5140
 成都蓉城先锋,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_2000.m3u8
 成都蓉城先锋,http://wan1.tangwudi.cc:47859/udp/239.94.1.57:5140
 
@@ -569,6 +566,7 @@ CDTV8,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000
 
 
 🪁儿童,#genre#
+BesTV4K动画,http://nas.yzs10000.com:17777/rtp/239.94.1.070:5140
 BesTV4K动画,http://wan1.tangwudi.cc:47859/udp/239.94.1.70:5140
 BesTV4K动画,http://223.167.125.208:4022/udp/233.18.204.171:5140
 BesTV4K动画,http://woshiysy1.synology.me:4999/rtp/233.18.204.171:5140
@@ -1245,6 +1243,7 @@ iHOT爱体育,http://nas.yzs10000.com:17777/udp/239.94.1.143:5140
 
 
 🎬IPTV,#genre#
+华数4K,http://nas.yzs10000.com:17777/rtp/239.94.0.021:5140
 华数4K,http://yuwentao114.x3322.net:4022/udp/239.252.220.212:5140
 北京IPTV4K,http://123.114.17.150:4000/udp/239.3.1.249:8001
 IPTV淘电影,http://123.114.17.150:4000/udp/239.3.1.250:8001
@@ -1282,6 +1281,7 @@ IPTV都市剧场,http://114.244.70.81:4022/rtp/239.3.1.67:4120
 电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.162:5140
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+BesTV4K,http://nas.yzs10000.com:17777/rtp/239.94.1.069:5140
 BesTV4K,http://nas.yzs10000.com:17777/udp/239.94.1.60:5140
 BesTV4K,http://wan1.tangwudi.cc:47859/udp/239.94.1.60:5140
 BesTV4K,http://223.167.125.208:4022/udp/233.18.204.169:5140
