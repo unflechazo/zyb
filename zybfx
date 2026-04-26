@@ -374,10 +374,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
 湖北卫视,http://m.061899.xyz/mg/hubws
 湖北卫视,http://k.061899.xyz/m.php?id=hubws
-大湾区卫视,http://107.150.60.122/live/nfws.m3u8
-大湾区卫视,http://171.38.107.34:8282/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-大湾区卫视,http://120.198.84.146:9901/tsfile/live/1009_1.m3u8
-大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
+大湾区卫视,http://111.56.90.5/000000000000/1000000002000011619/index.m3u8
 广西卫视,http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226344/1.m3u8?fmt=ts2hls
 广西卫视,http://yhms.aylzline.top:8899/rtp/225.1.2.34:10198
 广西卫视,http://lysj.aylzline.top:8899/rtp/225.1.2.34:10198
@@ -526,20 +523,21 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 新闻综合,http://liuwenxiaokevin.top:14044/rtp/233.18.204.057:5140
 
 -----------------------------------------------------------------------------------
-cdtv1,http://nas.201606.xyz:4022/rtp/239.10.0.11:5140
-cdtv1,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-1_4000.m3u8
 cdtv1,http://nas.yzs10000.com:17777/rtp/239.94.0.154:5140
+cdtv1,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-1_4000.m3u8
 cdtv1,http://wan1.tangwudi.cc:47859/udp/239.94.0.154:5140
-cdtv2,http://nas.201606.xyz:4022/rtp/239.10.0.12:5140
+cdtv2,http://nas.yzs10000.com:17777/udp/239.94.0.155:5140
 cdtv2,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-2_4000.m3u8
 cdtv2,http://wan1.tangwudi.cc:47859/udp/239.94.0.155:5140
 cdtv3,http://nas.yzs10000.com:17777/rtp/239.94.0.156:5140
 cdtv3,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-3_4000.m3u8
 cdtv3,http://wan1.tangwudi.cc:47859/udp/239.94.0.156:5140
 cdtv3,http://nas.201606.xyz:4022/rtp/239.10.0.13:5140
+cdtv4,http://nas.yzs10000.com:17777/udp/239.94.0.157:5140
 cdtv4,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-4_4000.m3u8
 cdtv4,http:wan1.tangwudi.cc:47859/udp/239.94.0.157:5140
 cdtv4,http://nas.201606.xyz:4022/rtp/239.10.0.14:5140
+cdtv5,http://nas.yzs10000.com:17777/udp/239.94.0.158:5140
 cdtv5,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-5_4000.m3u8
 cdtv5,http://wan1.tangwudi.cc:47859/udp/239.94.0.158:5140
 cdtv5,http://nas.201606.xyz:4022/rtp/239.10.0.15:5140
