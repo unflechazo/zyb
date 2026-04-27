@@ -1,5 +1,5 @@
 Juli,#genre#
-PopC,http://mytvsuper.webn.cc:2052/stream/mytv/popc/master.m3u8?u=yhy&p=447c04d6fbd1b6db532939627946d3ee4532fbe69a842ccfe439df51e0fff326
+
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
@@ -65,19 +65,7 @@ HOY剧集台,https://cdn11.163189.xyz/163189/c4df21397505587b
 HOY生活台,https://cdn11.163189.xyz/163189/c88d2a936daf88fb
 HOY怪谈台,https://cdn11.163189.xyz/163189/35f8613e99c59724
 HOY体育台,https://cdn11.163189.xyz/163189/19256090154aa9e9
-
-CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
-CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
-广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
-广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
-重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
-
-广州南国都市,https://cdn15.163189.xyz/163189/90871926591ebcbc
-五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
-
-CCTV13,http://cdn3.163189.xyz/163189/cctv13
 海峡卫视,http://cdn3.163189.xyz/163189/hxws
-
 民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
@@ -94,8 +82,7 @@ CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
 DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
-CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
-CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
+
 
 TOVD,#genre#
 美亚电影台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=meiya
@@ -131,10 +118,7 @@ HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
 澳视卫星,https://php.jdshipin.com:2096/TVOD/iptv.php?id=as
 RTHK31,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk31
 RTHK32,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk32
-CCTV1港澳版,https://php.jdshipin.com:2096/TVOD/iptv.php?id=rthk33
 Astro AOD,https://php.jdshipin.com:2096/TVOD/iptv.php?id=aod
-广东珠江,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
-广东体育,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdty
 
 Smart,#genre#
 美亚电影台,https://php.jdshipin.com:2096/smt.php?id=meiyamovie_twn
