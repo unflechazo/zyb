@@ -109,9 +109,9 @@ CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-5.m3u8
 CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV8K,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.221/PLTV/3/224/3221228165/index.m3u8
 CCTV8K,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.248/PLTV/3/224/3221228805/index.m3u8
-CCTV8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
-CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
+CCTV8K,http://198.204.228.26/live/cctv8k.m3u8
 CCTV8K,http://rihou.cc:555/tv/CCTV8K
 CCTV1,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.250/PLTV/4/224/3221228581/index.m3u8
 CCTV1,http://111.56.121.176:80/050000001888/5000000188800000011/index.m3u8$综合
