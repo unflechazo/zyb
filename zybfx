@@ -1022,10 +1022,12 @@ IPTV8电视剧,http://111.127.156.64:51234/rtp/239.29.1.21:5001
 
 🌊港台,#genre#
 环球,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
+无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
 无线新闻台,http://120.234.11.131:18180/TV00000000000000000034@HHZT
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
@@ -1058,12 +1060,14 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 翡翠,https://o11.163189.xyz/stream/live/hlt/
 翡翠,http://rihou.cc:555/tv/[FY]无线华丽
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/#http://o11.163189.xyz/stream/tvb/fct4k/#https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
+TVB翡翠,http://r.jdshipin.com/GeWKr?id=fct406
 TVB翡翠,http://120.234.11.131:18180/TV00000000000000000032@HHZT
 TVB翡翠,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB翡翠,https://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠,http://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠,https://cdn6.163189.xyz/163189/fct
 TVB翡翠,http://r.jdshipin.com/qrfbg
+TVB明珠,http://67.220.71.199:2347/livehttpplay?channel_id=30026
 TVB明珠,http://120.234.11.131:18180/TV00000000000000000035@HHZT
 TVB明珠,http://120.234.11.131:18180/TV00000000000000000029@HHZT
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
@@ -1120,16 +1124,23 @@ myTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
 myTV SUPER,http://pull-vivek.speedws.com/live/aaahyjt.flv
 myTV SUPER,http://tl.061833.xyz/tl/null-4
 myTV SUPER,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU4BMzxHRNUyQPNES-VxRbAi8Mxl-jPVl7FIWFVYl4YqRaRI01gYY24QQauu6KO1pG388Dp2P_0kqo6p5GWoNIC3s7K9ggIPcDP1CqCxvj7pt-amwcU8KuLwhUPhAPpPjmqW6iqOnd9pR0lQu5VFBJ2pxvrlkLb0IeGNT3sQpqG0K92N6JtJHMFZzXVGV5xEJ2x4y4Q9DpZguXR0ObYTDZYTGiTIaLjBlBICBqjjdtdS4.m3u8?u=1756878715
+myTV SUPERFOOTBALL3,http://67.220.71.199:2347/livehttpplay?channel_id=13022
 HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e
+HOY77,http://67.220.71.199:2347/livehttpplay?channel_id=20152
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY77,http://cdn6.163189.xyz/163189/hoy
 HOY77,https://php.jdshipin.com:2096/TVOD/iptv.php?id=hoytv
 HOY78,http://120.234.11.131:18180/TV00000000000000000088@HHZT
+VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
 VIUTV,http://120.234.11.131:18180/TV00000000000000000037@HHZT
+ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
 ViuTV6,http://120.234.11.131:18180/TV00000000000000000084@HHZT
+RTHK31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RTHK31,http://120.234.11.131:18180/TV00000000000000000019@HHZT
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23 
+RTHK32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
+RTHK32,http://67.220.71.199:2347/livehttpplay?channel_id=20203
 RTHK32,http://120.234.11.131:18180/TV00000000000000000017@HHZT
 RTHK34,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk34hd
 RTHK35,http://115.44.143.127:18180/TV00000000000000000045@HHZT
@@ -1156,7 +1167,7 @@ Channel,http://nas.yzs10000.com:17777/rtp/239.94.2.56:5140
 Channel,http://nas.yzs10000.com:17777/rtp/239.94.2.55:5140
 Channel,http://183.220.107.138:4022/rtp/239.11.0.155:5140$四川移动
 麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
+波斯网球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
 🌊台湾,#genre#
 民视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WHdV2sgD9eLXBTtpA8gvijo2TECYOuADgePR1KGB1I0kBeQk6nfWoWYZS8LBGnrwe-H0Y5zDerMJ20JnIYjg7FdzsWdk2VzlYLRS7nw6e46l7FidsTRkFTa7r8OcBlACj9McQ4HcQZuv-LIAtu0KWX_F3p1gvJPvugSkVD9JO18SLD9aoCCItP557mqCgCQ0ug.m3u8?u=1756878715
