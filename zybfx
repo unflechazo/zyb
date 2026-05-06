@@ -1174,6 +1174,7 @@ IPTV淘剧场,http://123.114.17.150:4000/udp/239.3.1.95:8001
 IPTV淘娱乐,http://123.114.17.150:4000/udp/239.3.1.100:8001
 IPTV谍战剧场,http://yuwentao114.x3322.net:4022/udp/239.252.220.145:5140
 IPTV谍战剧场,http://183.220.107.138:4022/rtp/239.10.0.123:5140$四川移动
+IPTV谍战剧场,http://120.198.84.146:9901/tsfile/live/1076_1.m3u8
 IPTV电影,http://yuwentao114.x3322.net:4022/udp/239.252.220.142:5140
 IPTV经典电影,http://yuwentao114.x3322.net:4022/udp/239.252.220.139:5140
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$四川移动
@@ -1189,6 +1190,7 @@ IPTV军旅剧场,http://114.244.70.81:4022/rtp/239.3.1.69:4120
 IPTV动作影院,http://114.244.70.81:4022/rtp/239.3.1.92:4120
 IPTV喜剧剧场,http://114.244.70.81:4022/rtp/239.3.1.91:4120
 IPTV武侠剧场,http://114.244.70.81:4022/rtp/239.3.1.90:4120
+IPTV武侠剧场,http://002.9kds.com:9901/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 IPTV精选,http://114.244.70.81:4022/rtp/239.3.1.74:4120
 IPTV都市剧场,http://114.244.70.81:4022/rtp/239.3.1.67:4120
 
@@ -1257,15 +1259,10 @@ CHC动作电影,http://120.238.5.44:1698/hls/70/index.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 古装妖魔频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
-古装妖魔频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
-家庭剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 家庭剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 泰语剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
-泰语剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
-搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
+搞笑剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
 大家剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-大家剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-爱情生活频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 爱情生活频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 动作电影轮播台,http://111.56.120.93/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
 动作电影轮播台,http://111.56.121.176/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
@@ -1294,9 +1291,6 @@ CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
 
 🏛电视剧,#genre#
 Y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/1.m3u8?tenantId=8601&accountinfo=~~V2.0~SSxnh2gPZaV_9wZMz86ofwc38bf04ecfc078f584095a9c6e91b9e1~3twbaBwUaqzfkJ5qW9C0gp1C11OJXhanim-P8XrfoHFX-jV3R0FL2wbo-VR8pOhzd5938d01ed8f640cebb709a281e7b1d3~ExtInfo9W1qynAo8QtSBzK-JlHBbQ3bb1f3410d135b117fdf58086980a86d:20240603131532:UTC,c864060416ccf5986b3e5940417477879245774,117.148.130.144,20240603131532,4444444684,c864060416ccf5986b3e5940417477879245774,-1,0,1,,,2,1000000201,,,2,23,0,241,9ec0a2dcdcfd4259318d50a38cde552c,,,1,1,140151867,END&fbl=$超清
-家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-谍战剧场,http://120.198.84.146:9901/tsfile/live/1076_1.m3u8
-电视剧,http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8
 古装剧场,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.197/PLTV/4/224/3221228797/index.m3u8
 动作大电影,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.51/PLTV/4/224/3221228685/index.m3u8
 军旅剧场,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.209/PLTV/4/224/3221228693/index.m3u8
@@ -1307,7 +1301,6 @@ Y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3
 爱情喜剧,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.206/PLTV/4/224/3221228714/index.m3u8
 精品大剧,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.62/PLTV/4/224/3221228699/index.m3u8
 中国功夫,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.207/PLTV/4/224/3221228708/index.m3u8
-武侠剧场,http://002.9kds.com:9901/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 内蒙古装巨制,http://111.56.121.176:80/050000001888/5000000188800000186/index.m3u8
 内蒙情感大剧,http://111.56.121.176:80/050000001888/5000000188800000189/index.m3u8
 内蒙动作电影,http://111.56.121.176:80/050000001888/5000000188800000190/index.m3u8
