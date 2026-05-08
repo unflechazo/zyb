@@ -438,6 +438,9 @@ cdtv8,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/mrgw_4000
 成都蓉城先锋,http://nas.yzs10000.com:17777/rtp/239.94.1.057:5140
 成都蓉城先锋,http://221.194.141.41:2380/hw1live.rxip.sc96655.com.huan.tv/live/cdgxdstgq_2000.m3u8
 成都蓉城先锋,http://wan1.tangwudi.cc:47859/udp/239.94.1.57:5140
+北美焦点新闻台,http://47.100.29.86:21345/qilin.php?id=bmjdxw
+北美美食播客,http://47.100.29.86:21345/qilin.php?id=bmms
+北美生活视频,http://47.100.29.86:21345/qilin.php?id=bms
 
 
 🎵综艺,#genre#
@@ -1112,16 +1115,13 @@ BesTV4K电影,http://woshiysy1.synology.me:4999/rtp/233.18.204.169:5140
 BesTV4K电影,http://wsc2007123.myds.me:30100/rtp/233.18.204.169:5140
 BesTV4K电影,http://www.yyf1991.top:9999/rtp/233.18.204.169:5140
 BesTV4K电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
-BesTV0,http://nas.yzs10000.com:17777/rtp/239.94.0.21:5140
 BesTV1,http://nas.yzs10000.com:17777/rtp/239.94.1.23:5140
 BesTV2,http://nas.yzs10000.com:17777/rtp/239.94.1.22:5140
 BesTV3,http://nas.yzs10000.com:17777/rtp/239.94.1.24:5140
 BesTV4,http://nas.yzs10000.com:17777/rtp/239.94.1.26:5140
 BesTV5,http://nas.yzs10000.com:17777/rtp/239.94.1.28:5140
 BesTV6,http://nas.yzs10000.com:17777/rtp/239.94.1.35:5140
-BesTV7,http://nas.yzs10000.com:17777/rtp/239.94.1.37:5140
 BesTV8,http://nas.yzs10000.com:17777/rtp/239.94.1.43:5140
-BesTV9,http://111.56.90.5/000000000000/5000000011000288005/index.m3u8
 4K修复,http://221.194.141.41:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.224/PLTV/4/224/3221228141/index.m3u8
 4K乐享超清,http://nas.yzs10000.com:17777/udp/239.94.1.162:5140
 4K乐享超清,http://wan1.tangwudi.cc:47859/udp/239.94.1.162:5140
@@ -1159,12 +1159,8 @@ CHC动作电影,http://zczb.aylzline.top:8899/rtp/225.1.2.215:11428
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://120.238.5.44:1698/hls/70/index.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
-中国电影频道,http://47.100.29.86:21345/qilin.php?id=zgdy
 昆仑剧场,http://47.100.29.86:21345/qilin.php?id=kljc
 长江剧场,http://47.100.29.86:21345/qilin.php?id=cjjc
-北美焦点新闻台,http://47.100.29.86:21345/qilin.php?id=bmjdxw
-北美美食播客,http://47.100.29.86:21345/qilin.php?id=bmms
-北美生活视频,http://47.100.29.86:21345/qilin.php?id=bms
 PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 古装妖魔频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 家庭剧场频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
