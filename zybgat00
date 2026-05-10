@@ -179,5 +179,32 @@ http://cdn6.163189.xyz/163189/amty
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门莲花.png" group-title="香港",澳门莲花
 http://cdn6.163189.xyz/163189/amlh
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中天新闻.png" group-title="香港",中天新闻
+
+#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/镜新闻.png" group-title="台湾",镜新闻台
+https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/寰宇新闻台.png" group-title="台湾",寰宇新闻台
+http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中天新闻.png" group-title="台湾",中天新闻
+http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中天新闻.png" group-title="台湾",中天新闻
 rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中天新闻.png" group-title="台湾",中天新闻
+rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS新聞.png" group-title="台湾",TVBS新聞
+http://iptv.4666888.xyz/iptv2A.php?id=43
+#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS精采.png" group-title="台湾",TVBS精采
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS台剧.png" group-title="台湾",TVBS台剧
+http://iptv.4666888.xyz/iptv2A.php?id=58
+#EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/非凡新聞.png" group-title="台湾",非凡新聞
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視.png" group-title="台湾",民視
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 tvg-name="華藝中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/華藝中文.png" group-title="台湾",華藝中文
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視綜藝.png" group-title="台湾",民視綜藝
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1 tvg-name="民視影劇" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視影劇.png" group-title="台湾",民視影劇
+http://iptv.4666888.xyz/iptv2A.php?id=53
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/台视.png" group-title="台湾",台视
+http://dbmlasvgas.sylu.cc:8880/stream/e307e16f-43bf-496f-9955-7440569a3e83/playlist.m3u8
