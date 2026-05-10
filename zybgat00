@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 #EXTINF:-1 tvg-name="环球" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/环球.png" group-title="Juli",环球
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/香港卫视.png" group-title="Juli",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/香港卫视.png" group-title="Juli",香港国际卫视
+http://106.53.99.30/tv/hk.php?id=HKI
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png" group-title="Juli",娱乐新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=36
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png" group-title="Juli",娱乐新闻台
@@ -14,33 +18,101 @@ http://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/有线新闻.png" group-title="Juli",有线新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="Juli",凤凰中文
+http://221.194.141.41:2380/duanjuzting.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="Juli",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="Juli",凤凰资讯
+http://221.194.141.41:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="Juli",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="Juli",凤凰香港
+http://221.194.141.41:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="Juli",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="Juli",华丽翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="Juli",华丽翡翠台
 http://cdn6.163189.xyz/163189/jade
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",TVB翡翠台
+http://120.234.11.131:18180/TV00000000000000000032@HHZT
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",翡翠台广电
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",TVB翡翠台
+http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",TVB翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",TVB翡翠台广电
 http://cdn6.163189.xyz/163189/fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/翡翠.png" group-title="Juli",翡翠台4K
+https://o11.163189.xyz/stream/tvb/fct4k/#http://o11.163189.xyz/stream/tvb/fct4k/#https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/翡翠.png" group-title="Juli",翡翠台4K
 http://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Juli",明珠台
+#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Juli",TVB明珠台
+http://120.234.11.131:18180/TV00000000000000000035@HHZT
+#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Juli",TVB明珠台
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Juli",TVB明珠台
 http://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Juli",明珠台
+#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Juli",TVB明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
+http://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
+https://cdn10.163189.xyz/stream/163189/xinghe/
+#EXTINF:-1 tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="Juli",翡翠一台(TVB1)
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="Juli",翡翠一台(TVB1)
+http://cdn6.163189.xyz/163189/tvb1
+#EXTINF:-1 tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png" group-title="Juli",TVBJ
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png" group-title="Juli",TVBJ
+http://cdn6.163189.xyz/163189/j1
+#EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="Juli",TVB翡翠剧集台
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="Juli",TVB翡翠剧集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="Juli",TVB翡翠剧集台
+http://cdn6.163189.xyz/163189/tvbd
+#EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="Juli",TVB翡翠华剧台
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",TVB獎門人
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",TVB金曲
+http://iptv.4666888.xyz/iptv2A.php?id=57
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Juli",TVB金曲
+https://iptv.xmtv.cc.cd/?id=57
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="Juli",千禧经典台
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="Juli",千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="Juli",千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/#https://smt.1678520.xyz/smt3.2.5.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="Juli",千禧经典台
+http://o11.163189.xyz/stream/live/tvbc/
+
+#EXTINF:-1 tvg-name="myTV SUPER" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/myTV SUPER.png" group-title="Juli",myTV SUPER
+http://iptv.4666888.xyz/iptv2A.php?id=24
+#EXTINF:-1 tvg-name="myTV SUPERFOOTBALL3" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/myTV SUPERFOOTBALL3.png" group-title="Juli",myTV SUPERFOOTBALL3
+http://iptv.4666888.xyz/iptv2A.php?id=32
+
+
+
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="Juli",TVB PLUS
 http://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="Juli",TVB PLUS
+http://67.220.71.199:2347/livehttpplay?channel_id=30023
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="Juli",HOYTV
 http://cdn6.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="Juli",HOYTV
-http://cdn.163189.xyz/163189/hoy
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY 77.png" group-title="Juli",HOY77
+http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-name="HOY国际财经" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/HOY国际财经.png" group-title="Juli",HOY国际财经台
 https://cdn11.163189.xyz/163189/2c86601a7180416e
+#EXTINF:-1 tvg-name="HOY资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="Juli",HOY资讯台
+http://120.234.11.131:18180/TV00000000000000000088@HHZT
 #EXTINF:-1 tvg-name="HOY资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="Juli",HOY资讯台
 http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTV.png" group-title="Juli",VIUTV
@@ -48,29 +120,21 @@ https://cdn10.163189.xyz/stream/163189/viu/
 #EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTVsix.png" group-title="Juli",VIUTVSIX
 https://cdn10.163189.xyz/stream/163189/viu6/
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="Juli",RTHK 31
+http://120.234.11.131:18180/TV00000000000000000019@HHZT
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="Juli",RTHK 31
 http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 32.png" group-title="Juli",RTHK 32
+http://120.234.11.131:18180/TV00000000000000000017@HHZT
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 32.png" group-title="Juli",RTHK 32
 http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="Juli",翡翠一台(TVB1)
-http://cdn6.163189.xyz/163189/tvb1
-#EXTINF:-1 tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png" group-title="Juli",TVBJ
-http://cdn6.163189.xyz/163189/j1
-#EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="Juli",TVB翡翠剧集台
-http://cdn6.163189.xyz/163189/tvbd
+#EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 35.png" group-title="Juli",RTHK 35
+http://115.44.143.127:18180/TV00000000000000000045@HHZT
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png" group-title="Juli",TVB亚洲武侠
 http://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
-http://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Juli",TVB星河(国语)
-https://cdn10.163189.xyz/stream/163189/xinghe/
 #EXTINF:-1 tvg-name="天映新加坡" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/天映.png" group-title="Juli",天映新加坡
 https://cdn10.163189.xyz/stream/163189/typd/
 #EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映经典频道.png" group-title="Juli",天映经典频道
 https://cdn10.163189.xyz/stream/163189/ccm/
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="Juli",千禧经典台
-http://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="天映频道马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png" group-title="Juli",天映频道
 http://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映经典频道.png" group-title="Juli",天映经典频道
@@ -115,4 +179,5 @@ http://cdn6.163189.xyz/163189/amty
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门莲花.png" group-title="Juli",澳门莲花
 http://cdn6.163189.xyz/163189/amlh
-
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中天新闻.png" group-title="Juli",中天新闻
+rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
