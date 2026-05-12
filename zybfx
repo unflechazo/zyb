@@ -836,20 +836,45 @@ IPTV8电视剧,http://111.127.156.64:51234/rtp/239.29.1.21:5001
 
 
 📺四川,#genre#
-四川新闻综合,http://wan1.tangwudi.cc:47859/udp/239.94.0.163:5140
-四川文化旅游,http://wan1.tangwudi.cc:47859/udp/239.94.0.71:5140
-四川经济,http://wan1.tangwudi.cc:47859/udp/239.94.0.70:5140
-四川影视文艺,http://wan1.tangwudi.cc:47859/udp/239.94.0.73:5140
-四川乡村,http://wan1.tangwudi.cc:47859/udp/239.94.0.77:5140
-四川科教,http://wan1.tangwudi.cc:47859/udp/239.94.0.76:5140
-四川妇儿,http://wan1.tangwudi.cc:47859/udp/239.94.0.75:5140
-四川广播电视台,http://wan1.tangwudi.cc:47859/udp/239.94.1.7:5140
-峨眉电影,http://wan1.tangwudi.cc:47859/udp/239.94.0.103:5140
-新闻综合http://wan1.tangwudi.cc:47859/udp/239.94.0.166:5140
-眉山综合,http://wan1.tangwudi.cc:47859/udp/239.94.0.170:5140
-文化生活,http://wan1.tangwudi.cc:47859/udp/239.94.0.178:5140
-公共频道,http://wan1.tangwudi.cc:47859/udp/239.94.0.172:5140
-新闻综合,http://wan1.tangwudi.cc:47859/udp/239.94.0.183:5140
+四川文化旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.0.71:5140
+四川文化旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.11:5140
+四川文化旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.5:5140
+四川文化旅游,http://wan1.tangwudi.cc:47859/rtp/239.94.1.6:5140
+四川经济,http://wan1.tangwudi.cc:47859/rtp/239.94.0.70:5140
+四川新闻,http://wan1.tangwudi.cc:47859/rtp/239.94.0.72:5140
+四川新闻,http://wan1.tangwudi.cc:47859/rtp/239.94.1.3:5140
+四川新闻,http://wan1.tangwudi.cc:47859/rtp/239.94.2.26:5140
+四川影视文艺,http://wan1.tangwudi.cc:47859/rtp/239.94.0.73:5140
+四川星空购物,http://wan1.tangwudi.cc:47859/rtp/239.94.0.74:5140
+四川妇女儿童,http://wan1.tangwudi.cc:47859/rtp/239.94.0.75:5140
+四川科教,http://wan1.tangwudi.cc:47859/rtp/239.94.0.76:5140
+四川乡村,http://wan1.tangwudi.cc:47859/rtp/239.94.0.77:5140
+四川乡村,http://wan1.tangwudi.cc:47859/rtp/239.94.1.4:5140
+四川乡村,http://wan1.tangwudi.cc:47859/rtp/239.94.1.8:5140
+峨眉电影,http://wan1.tangwudi.cc:47859/rtp/239.94.0.103:5140
+乐山综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.162:5140
+乐山文旅生活,http://wan1.tangwudi.cc:47859/rtp/239.94.0.173:5140
+自贡综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.169:5140
+自贡文化生活,http://wan1.tangwudi.cc:47859/rtp/239.94.0.178:5140
+广元综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.167:5140
+广元文化生活,http://wan1.tangwudi.cc:47859/rtp/239.94.0.179:5140
+德阳新闻综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.176:5140
+德阳文旅科教,http://wan1.tangwudi.cc:47859/rtp/239.94.0.165:5140
+内江综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.164:5140
+内江科教生活,http://wan1.tangwudi.cc:47859/rtp/239.94.0.181:5140
+凉山综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.171:5140
+凉山彝语综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.175:5140
+资阳综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.183:5140
+宜宾公共,http://wan1.tangwudi.cc:47859/rtp/239.94.0.172:5140
+宜宾综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.161:5140
+攀枝花综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.168:5140
+泸州综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.163:5140
+泸州科教生活,http://wan1.tangwudi.cc:47859/rtp/239.94.0.182:5140
+雅安综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.166:5140
+雅安文化生活,http://wan1.tangwudi.cc:47859/rtp/239.94.0.180:5140
+眉山综合,http://wan1.tangwudi.cc:47859/rtp/239.94.0.170:5140
+眉山文旅乡村,http://wan1.tangwudi.cc:47859/rtp/239.94.0.174:5140
+
 
 📺辽宁,#genre#
 辽宁影视,http://fuxin.yunjifei.top:999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -931,9 +956,7 @@ IPTV8电视剧,http://111.127.156.64:51234/rtp/239.29.1.21:5001
 新疆TV1,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 新疆TV2,http://110.153.180.106:55555/out_2/index.m3u8
 新疆TV3,http://110.153.180.106:55555/out_3/index.m3u8
-伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
-伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
-伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
+
 
 
 📺其他,#genre#
