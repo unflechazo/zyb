@@ -6,6 +6,22 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 TV BRICS Chinese (1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 TVBS Asia (1080p),http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
+中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
+华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
+台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
+非凡新闻频道,rtmp://f13h.mine.nu/sat/tv581
+纬来育乐频道,rtmp://f13h.mine.nu/sat/tv701
+纬来日本频道,rtmp://f13h.mine.nu/sat/tv771
+纬来体育频道,rtmp://f13h.mine.nu/sat/tv721
+momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
+东森新闻频波,http://211.72.174.95:8138/0.ts
+民视新闻频波,http://211.72.174.95:8117/0.ts
+中视闽南频波,http://211.72.174.95:8113/0.ts
+华视闽南频波,http://211.72.174.95:8114/0.ts
+公视闽南频波,http://211.72.174.95:8116/0.ts
+民视闽南频波,http://211.72.174.95:8115/0.ts
+台视闽南频波,http://211.72.174.95:8112/0.ts
 
 
 
