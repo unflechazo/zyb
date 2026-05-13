@@ -915,34 +915,49 @@ IPTV8电视剧,http://111.127.156.64:51234/rtp/239.29.1.21:5001
 
 
 📺北京,#genre#
+北京文艺,http://thhomes.cn:4000/rtp/239.3.1.242:8000
 北京文艺,http://r.xace.fun:4999/rtp/239.3.1.242:8000
 北京文艺,http://124.88.206.138:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
 北京文艺,http://www.taoli.website:23234/rtp/239.3.1.242:8000
 北京文艺,http://www.xiongnas.top:8888/rtp/239.3.1.242:8000
 北京文艺,http://zb.hexuntong.net:8188/rtp/239.3.1.242:8000
+北京影视,http://thhomes.cn:4000/rtp/239.3.1.158:8000
 北京影视,http://r.xace.fun:4999/rtp/239.3.1.158:8000
 北京影视,http://124.88.206.138:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
 北京影视,http://www.taoli.website:23234/rtp/239.3.1.158:8000
 北京影视,http://www.xiongnas.top:8888/rtp/239.3.1.158:8000
 北京影视,http://zb.hexuntong.net:8188/rtp/239.3.1.158:8000
+北京生活,http://thhomes.cn:4000/rtp/239.3.1.117:8000
 北京生活,http://r.xace.fun:4999/rtp/239.3.1.117:8000
 北京生活,http://www.taoli.website:23234/rtp/239.3.1.231:8000
 北京生活,http://www.xiongnas.top:8888/rtp/239.3.1.231:8000
 北京生活,http://zb.hexuntong.net:8188/rtp/239.3.1.231:8000
+北京新闻,http://thhomes.cn:4000/rtp/239.3.1.159:8000
 北京新闻,http://r.xace.fun:4999/rtp/239.3.1.159:8000
 北京新闻,http://124.88.206.138:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
 北京新闻,http://www.taoli.website:23234/rtp/239.3.1.159:8000
 北京新闻,http://www.xiongnas.top:8888/rtp/239.3.1.159:8000
 北京新闻,http://zb.hexuntong.net:8188/rtp/239.3.1.159:8000
+北京国际,http://thhomes.cn:4000/rtp/239.3.1.235:8000
 北京国际,http://r.xace.fun:4999/rtp/239.3.1.235:8000
 北京国际,http://124.88.206.138:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
 北京国际,http://www.taoli.website:23234/rtp/239.3.1.235:8000
 北京国际,http://www.xiongnas.top:8888/rtp/239.3.1.235:8000
+北京纪实科教,http://thhomes.cn:4000/rtp/239.3.1.115:8000
 北京纪实科教,http://lihetl.com:9527/rtp/232.0.0.185:9188
-朝阳融媒,http://123.114.17.150:4000/udp/239.3.1.163:8001
-通州融媒,http://123.114.17.150:4000/udp/239.3.1.221:8001
-密云电视台,http://123.114.17.150:4000/udp/239.3.1.154:8001
-房山电视台,http://123.114.17.150:4000/udp/239.3.1.96:8001
+北京体育休闲,http://thhomes.cn:4000/rtp/239.3.1.243:8000
+北京财经,http://thhomes.cn:4000/rtp/239.3.1.116:8000
+北京朝阳,http://thhomes.cn:4000/rtp/239.3.1.163:8001
+北京朝阳,http://123.114.17.150:4000/udp/239.3.1.163:8001
+北京密云,http://thhomes.cn:4000/rtp/239.3.1.154:8001
+北京密云,http://123.114.17.150:4000/udp/239.3.1.154:8001
+北京延庆,http://thhomes.cn:4000/rtp/239.3.1.187:8001
+北京房山,http://thhomes.cn:4000/rtp/239.3.1.96:8001
+北京房山,http://123.114.17.150:4000/udp/239.3.1.96:8001
+北京通州,http://thhomes.cn:4000/rtp/239.3.1.221:8001
+北京通州,http://123.114.17.150:4000/udp/239.3.1.221:8001
+北京门头沟,http://thhomes.cn:4000/rtp/239.3.1.59:8001
+
 
 
 📺天津,#genre#
@@ -1076,9 +1091,11 @@ iHOT爱体育,http://nas.yzs10000.com:17777/udp/239.94.1.143:5140
 
 
 🎬IPTV,#genre#
+华数4K,http://thhomes.cn:4000/rtp/239.3.1.236:2000
 华数4K,http://nas.yzs10000.com:17777/rtp/239.94.0.021:5140
 华数4K,http://yuwentao114.x3322.net:4022/udp/239.252.220.212:5140
 北京IPTV4K,http://123.114.17.150:4000/udp/239.3.1.249:8001
+IPTV淘电影,http://thhomes.cn:4000/rtp/239.3.1.250:8001
 IPTV淘电影,http://123.114.17.150:4000/udp/239.3.1.250:8001
 IPTV淘电影,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.250:8001
 IPTV淘电影,http://route.079915.xyz:4022/rtp/239.3.1.250:8001
@@ -1086,8 +1103,11 @@ IPTV淘电影,http://www.uibehw.cn:4022/rtp/239.3.1.250:8001
 IPTV淘电影,http://route.alexex.fun:4022/rtp/239.3.1.250:8001
 IPTV淘电影,http://iptv.chen2912.online:4022/rtp/239.3.1.250:8001
 IPTV淘电影,http://gmk.ddns.wangbin.us:4022/rtp/239.3.1.250:8001
+IPTV淘剧场,http://thhomes.cn:4000/rtp/239.3.1.95:8001
 IPTV淘剧场,http://123.114.17.150:4000/udp/239.3.1.95:8001
+IPTV淘娱乐,http://thhomes.cn:4000/rtp/239.3.1.100:8001
 IPTV淘娱乐,http://123.114.17.150:4000/udp/239.3.1.100:8001
+IPTV淘Baby,http://thhomes.cn:4000/rtp/239.3.1.238:8001
 IPTV淘Baby,http://123.114.17.150:4000/rtp/239.3.1.238:8001
 IPTV谍战剧场,http://yuwentao114.x3322.net:4022/udp/239.252.220.145:5140
 IPTV谍战剧场,http://183.220.107.138:4022/rtp/239.10.0.123:5140$四川移动
@@ -1099,17 +1119,29 @@ IPTV热播剧场,http://yuwentao114.x3322.net:4022/udp/239.252.220.138:5140
 IPTV热播剧场,http://183.220.107.138:4022/rtp/239.10.0.121:5140$四川移动
 IPTV魅力时尚,http://yuwentao114.x3322.net:4022/udp/239.252.220.137:5140
 IPTV魅力时尚,http://wan1.tangwudi.cc:47859/udp/239.94.1.39:5140
+IPTV光影,http://thhomes.cn:4000/rtp/239.3.1.84:4120
 IPTV光影,http://yuwentao114.x3322.net:4022/udp/239.252.220.200:5140
+IPTV星影,http://thhomes.cn:4000/rtp/239.3.1.94:4120
 IPTV星影,http://yuwentao114.x3322.net:4022/udp/239.252.220.210:5140
 IPTV星影,http://114.244.70.81:4022/rtp/239.3.1.94:4120
+IPTV家庭影院,http://thhomes.cn:4000/rtp/239.3.1.93:4120
 IPTV家庭影院,http://114.244.70.81:4022/rtp/239.3.1.93:4120
+IPTV军旅剧场,http://thhomes.cn:4000/rtp/239.3.1.69:4120
 IPTV军旅剧场,http://114.244.70.81:4022/rtp/239.3.1.69:4120
+IPTV军旅,http://thhomes.cn:4000/rtp/239.3.1.68:4120
+IPTV动作影院,http://thhomes.cn:4000/rtp/239.3.1.92:4120
 IPTV动作影院,http://114.244.70.81:4022/rtp/239.3.1.92:4120
+IPTV喜剧剧场,http://thhomes.cn:4000/rtp/239.3.1.91:4120
 IPTV喜剧剧场,http://114.244.70.81:4022/rtp/239.3.1.91:4120
+IPTV武侠剧场,http://thhomes.cn:4000/rtp/239.3.1.90:4120
 IPTV武侠剧场,http://114.244.70.81:4022/rtp/239.3.1.90:4120
 IPTV武侠剧场,http://002.9kds.com:9901/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+IPTV精选,http://thhomes.cn:4000/rtp/239.3.1.74:4120
 IPTV精选,http://114.244.70.81:4022/rtp/239.3.1.74:4120
+IPTV都市剧场,http://thhomes.cn:4000/rtp/239.3.1.67:4120
 IPTV都市剧场,http://114.244.70.81:4022/rtp/239.3.1.67:4120
+IPTV影视,http://thhomes.cn:4000/rtp/239.3.1.88:4120
+
 
 
 
