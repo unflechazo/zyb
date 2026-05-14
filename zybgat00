@@ -1,6 +1,11 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
-#EXTINF:-1 tvg-id="1" tvg-name="环球电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视台.png" group-title="香港",环球电视台
+#EXTINF:-1 tvg-id="1" tvg-name="环球电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视台.png" group-title="香港",Now新闻台
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="环球电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视台.png" group-title="香港",环球电视台
+#EXTINF:-1 tvg-id="1" tvg-name="CNA亚洲新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA亚洲新闻.png" group-title="香港",CNA亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 tvg-id="1" tvg-name="CNA亚洲新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA亚洲新闻.png" group-title="香港",CNA亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/香港卫视.png" group-title="香港",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/香港卫视.png" group-title="香港",香港国际卫视
@@ -76,11 +81,15 @@ https://cdn10.163189.xyz/stream/163189/xinghe/
 #EXTINF:-1 tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="香港",翡翠一台(TVB1)
 http://iptv.4666888.xyz/iptv2A.php?id=25
 #EXTINF:-1 tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="香港",翡翠一台(TVB1)
+https://6.cdn.loc.cc/163189.php?id=tvb1
+#EXTINF:-1 tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="香港",翡翠一台(TVB1)
 http://cdn6.163189.xyz/163189/tvb1
 #EXTINF:-1 tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png" group-title="香港",TVBJ
 http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png" group-title="香港",TVBJ
 http://cdn6.163189.xyz/163189/j1
+#EXTINF:-1 tvg-id="1" tvg-name="TVBJ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBJ.png" group-title="香港",TVBJ1
+https://6.cdn.loc.cc/163189.php?id=j1
 #EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="香港",TVB翡翠剧集台
 http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="香港",TVB翡翠剧集台
@@ -218,8 +227,25 @@ http://iptv.4666888.xyz/iptv2A.php?id=37
 #EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視綜藝.png" group-title="台湾",民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-name="民視影劇" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視影劇.png" group-title="台湾",民視影劇
+https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+#EXTINF:-1 tvg-name="民視影劇" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視影劇.png" group-title="台湾",民視影劇
 http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 tvg-name="台視" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/台視.png" group-title="台湾",台視
 http://dbmlasvgas.sylu.cc:8880/stream/e307e16f-43bf-496f-9955-7440569a3e83/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="1" tvg-name="公视戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公视戏剧.png" group-title="台湾",公视戏剧
+https://cdn12.178.indevs.in/163189/2973b910e7719c08
+#EXTINF:-1 tvg-id="1" tvg-name="采昌影剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/采昌影剧台.png" group-title="台湾",采昌影剧台
+https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+#EXTINF:-1 tvg-id="1" tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="台湾",靖天映画
+https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 tvg-id="1" tvg-name="靖天戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天戏剧台.png" group-title="台湾",靖天戏剧台
+https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 tvg-id="1" tvg-name="靖天电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影台.png" group-title="台湾",靖天电影台
+https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+#EXTINF:-1 tvg-id="1" tvg-name="靖洋戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖洋戏剧台.png" group-title="台湾",靖洋戏剧台
+https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+#EXTINF:-1 tvg-id="1" tvg-name="影迷数位电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影迷数位电影台.png" group-title="台湾",影迷数位电影台
+https://cdn12.178.indevs.in/163189/a643783ec587540e
+#EXTINF:-1 tvg-id="1" tvg-name="amc电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/amc电影台.png" group-title="台湾",amc电影台
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
