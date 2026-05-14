@@ -209,13 +209,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=58
 http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視.png" group-title="台湾",民視
 http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1 group-title="台湾" tvg-name="華藝中文" tvg-logo="https://epg.112114.xyz/logo/华艺中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",華藝中文
+#EXTINF:-1 tvg-name="华艺中文台" tvg-logo="https://github.com/unflechazo/zyb/blob/main/PEN/华艺中文台.png" group-title="台湾",华艺中文台
 http://iptv.4666888.xyz/iptv2A.php?id=37
 #EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視綜藝.png" group-title="台湾",民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-name="民視影劇" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視影劇.png" group-title="台湾",民視影劇
 http://iptv.4666888.xyz/iptv2A.php?id=53
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/台视.png" group-title="台湾",台视
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/台視.png" group-title="台湾",台視
 http://dbmlasvgas.sylu.cc:8880/stream/e307e16f-43bf-496f-9955-7440569a3e83/playlist.m3u8
 
 
