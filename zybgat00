@@ -32,19 +32,23 @@ http://106.225.240.3:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.24
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台
+http://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台
 http://iptv.4666888.xyz/iptv2A.php?id=28
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台
 http://cdn6.163189.xyz/163189/jade
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
 http://120.234.11.131:18180/TV00000000000000000032@HHZT
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
-https://flv-play.clouda.com/live/fc-oG2vUiheKLJzdVprWHCECxdMNCOog9HMxnt6IoIZG07iNnIYLtElHP4EpcB9tiErfUyqWLD2NQ5zlbYxAFHiNt.flv
+http://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
 http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台广电
 http://cdn6.163189.xyz/163189/fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/翡翠.png" group-title="香港",翡翠台4K
@@ -205,7 +209,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=43
 http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS台剧.png" group-title="台湾",TVBS台剧
 http://iptv.4666888.xyz/iptv2A.php?id=58
-#EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/非凡新聞.png" group-title="台湾",非凡新聞
+#EXTINF:-1 tvg-id="1" tvg-name="非凡新聞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/非凡新聞.png" group-title="台湾",非凡新聞
 http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視.png" group-title="台湾",民視
 http://iptv.4666888.xyz/iptv2A.php?id=55
