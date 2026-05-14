@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
-#EXTINF:-1 tvg-id="1" tvg-name="环球电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视台.png" group-title="香港",Now新闻台
-http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="环球电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视台.png" group-title="香港",环球电视台
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CNA亚洲新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA亚洲新闻.png" group-title="香港",CNA亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-id="1" tvg-name="CNA亚洲新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA亚洲新闻.png" group-title="香港",CNA亚洲新闻
