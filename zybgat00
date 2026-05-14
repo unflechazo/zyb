@@ -177,6 +177,8 @@ http://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/QJ.png" group-title="香港",ASTRO QJ
 http://o11.163189.xyz/stream/live/qj/
 #EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="香港",ASTRO 欢喜台
+http://o11.163189.xyz/stream/live/hxt/#https://cdn9.163189.xyz/smt3.1.1.php?id=Quanjia$%E8%AE%A2%E9%98%85%E6%BA%90
+#EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="香港",ASTRO 欢喜台
 http://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/iQIYI.png" group-title="香港",IQIYI
 http://o11.163189.xyz/stream/live/iqiyi/
