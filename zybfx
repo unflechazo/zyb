@@ -950,7 +950,19 @@ IPTV8电视剧,http://111.127.156.64:51234/rtp/239.29.1.21:5001
 江西新闻,http://jxyxnk.x3322.net:4022/rtp/239.252.220.100:5140
 江西移动电视,http://jxyxnk.x3322.net:4022/rtp/239.252.220.241:5140
 江西经济生活,http://jxyxnk.x3322.net:4022/rtp/239.252.220.110:5140
-
+📺广东,#genre#
+广东珠江,http://119.167.147.78/tx-zjlizhi.gdtv.cn/live/gdzj.m3u8
+广东珠江,http://119.167.147.78/tx-zjlizhi.gdtv.cn/live/gdzj.flv
+广东新闻,http://119.167.147.78/tx-xwlizhi.gdtv.cn/live/xwpd.m3u8
+广东新闻,http://119.167.147.78/tx-xwlizhi.gdtv.cn/live/xwpd.flv
+广东民生,http://119.167.147.78/tx-gglizhi.gdtv.cn/live/gdgg.m3u8
+广东民生, http://119.167.147.78/tx-gglizhi.gdtv.cn/live/gdgg.flv
+广东体育,http://119.167.147.78/tx-tylizhi.gdtv.cn/live/gdty.m3u8
+广东体育,http://119.167.147.78/tx-tylizhi.gdtv.cn/live/gdty.flv
+广东影视,http://119.167.147.78/tx-yslizhi.gdtv.cn/live/gdys.m3u8
+广东影视,http://119.167.147.78/tx-yslizhi.gdtv.cn/live/gdys.flv
+广东4K超高清,http://119.167.147.78/tx-zylizhi.gdtv.cn/live/gdzy.m3u8
+广东4K超高清,http://119.167.147.78/tx-zylizhi.gdtv.cn/live/gdzy.flv
 📺其他,#genre#
 海南自贸,http://112.66.137.217:8888/rtp/239.253.64.119:5140
 海南新闻,http://112.66.137.217:8888/rtp/239.253.64.121:5140
