@@ -1238,7 +1238,6 @@ PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6
 陕西西部电影,http://ddns.xryo.cn:8888/rtp/239.111.205.102:5140
 风云恐怖电影,http://iptv.4666888.xyz/iptv2A.php?id=59
 中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
-HBO,http://103.213.161.148:18180/TV00000000000000000074@HHZT
 Discovery搜索频道,http://103.213.161.148:18180/TV00000000000000000077@HHZT
 STAR Movies,http://103.213.161.148:18180/TV00000000000000000075@HHZT
 axn,http://103.213.161.148:18180/TV00000000000000000076@HHZT
@@ -1253,10 +1252,26 @@ TV5monde,http://103.213.161.148:18180/TV00000000000000000162@HHZT
 amc,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 amc,https://stream1.freetv.fun/f78ff1e484b79f13f26a2863929a81959551bbce10c86a293620ec8f19238480.ctv
 amc,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+HBO,http://103.213.161.148:18180/TV00000000000000000074@HHZT
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
+HBO精选,http://23.237.104.106:8080/USA_HBO2/index.m3u8
 HBO精选,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO喜剧,http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+Discovery Channel,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+ESPN U,http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+Lifetime Movie Network,http://23.237.104.106:8080/USA_LMN/index.m3u8
+National Geographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+Cartoon Network,http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+CMT,http://23.237.104.106:8080/USA_CMT/index.m3u8
+Comedy Central,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+Animal Planet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+WE TV,http://23.237.104.106:8080/USA_WE_TV/mpegts
+Big Ten Network,http://23.237.104.106:8080/USA_BTN/index.m3u8
+MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
+ ACC Network,http://23.237.104.106:8080/USA_ACCN/mpegts
 东森洋片,https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
 东森戏剧,https://smt.1678520.xyz/163189/f60cd3f14b06dabc
 东森电影,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
