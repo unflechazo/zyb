@@ -1011,6 +1011,10 @@ RTHK31,http://115.44.140.170:18180/TV00000000000000000019@HHZT
 RTHK31,http://120.234.44.98:18180/TV00000000000000000019@HHZT
 RTHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT
 RTHK32,http://115.44.140.170:18180/TV00000000000000000017@HHZT
+东森洋片,https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
+东森戏剧,https://smt.1678520.xyz/163189/f60cd3f14b06dabc
+东森电影,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 
 🌊中文,#genre#
 CHU,http://cdn6.163189.xyz/163189/chu
@@ -1206,33 +1210,31 @@ BesTV4,http://nas.yzs10000.com:17777/rtp/239.94.1.26:5140
 BesTV5,http://nas.yzs10000.com:17777/rtp/239.94.1.28:5140
 BesTV6,http://nas.yzs10000.com:17777/rtp/239.94.1.35:5140
 BesTV8,http://nas.yzs10000.com:17777/rtp/239.94.1.43:5140
-4K修复,http://36.189.208.130:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.224/PLTV/4/224/3221228141/index.m3u8
+4K修复,http://1.180.207.10:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.224/PLTV/4/224/3221228141/index.m3u8
 4K乐享超清,http://nas.yzs10000.com:17777/udp/239.94.1.162:5140
 4K乐享超清,http://wan1.tangwudi.cc:47859/udp/239.94.1.162:5140
 爱上4K,http://nas.yzs10000.com:17777/udp/239.94.0.21:5140
 爱上4K,http://nas.yzs10000.com:17777/udp/239.94.0.21:5140
 爱上4K,http://lihetl.com:9527/rtp/232.0.0.104:8632
 爱上4K,http://183.220.107.138:4022/rtp/239.11.0.120:5140
-峨眉电影4K,http://106.225.240.3:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
+峨眉电影4K,http://1.180.207.10:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 峨眉电影4K,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 绚影4K,http://nas.yzs10000.com:17777/udp/239.94.1.150:5140
 绚影4K,http://wan1.tangwudi.cc:47859/udp/239.94.1.150:5140
-CHC高清电影,http://5kuiwan.cn:8888/rtsp/10.254.199.130/PLTV/88888888/224/3221226494/10000100000000060000000003445720_0.smil
+CHC影迷电影,http://lysj.aylzline.top:8899/rtp/225.1.2.210:11398
 CHC影迷电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.174:5140
 CHC影迷电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
-CHC家庭影院,http://5kuiwan.cn:8888/rtsp/10.254.199.130/PLTV/88888888/224/3221226467/10000100000000060000000003445718_0.smil
+
+CHC家庭影院,http://lysj.aylzline.top:8899/rtp/225.1.2.214:11422
 CHC家庭影院,http://wan1.tangwudi.cc:47859/udp/239.94.1.173:5140
 CHC家庭影院,http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://5kuiwan.cn:8888/rtsp/10.254.199.130/PLTV/88888888/224/3221226499/10000100000000060000000003445719_0.smil
+
 CHC动作电影,http://wan1.tangwudi.cc:47859/udp/239.94.1.175:5140
 CHC动作电影,http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.174:5140
-CHC动作电影,http://120.198.84.146:9901/tsfile/live/1018_1.m3u8
 CHC动作电影,http://lysj.aylzline.top:8899/rtp/225.1.2.215:11428
 CHC动作电影,http://yhms.aylzline.top:8899/rtp/225.1.2.215:11428
 CHC动作电影,http://zczb.aylzline.top:8899/rtp/225.1.2.215:11428
-PopC,https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 动作电影轮播台,http://111.56.121.176/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
 动作电影轮播台,http://111.56.121.176:80/050000001888/5000000188800000190/index.m3u8
 动作电影轮播台,http://111.56.120.93/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
@@ -1246,12 +1248,8 @@ CInemax,http://103.213.161.148:18180/TV00000000000000000109@HHZT
 NHK,http://103.213.161.148:18180/TV00000000000000000161@HHZT
 KBS WORLD,http://103.213.161.148:18180/TV00000000000000000166@HHZT
 TV5monde,http://103.213.161.148:18180/TV00000000000000000162@HHZT
-重温经典,http://120.234.11.131:18180/TV00000000000000000085@HHZT
-重温经典,http://106.225.240.3:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 影迷数位电影,https://cdn12.178.indevs.in/163189/a643783ec587540e
 经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
-amc,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
-amc,https://stream1.freetv.fun/f78ff1e484b79f13f26a2863929a81959551bbce10c86a293620ec8f19238480.ctv
 amc,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 HBO,http://103.213.161.148:18180/TV00000000000000000074@HHZT
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
@@ -1273,10 +1271,7 @@ WE TV,http://23.237.104.106:8080/USA_WE_TV/mpegts
 Big Ten Network,http://23.237.104.106:8080/USA_BTN/index.m3u8
 MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
  ACC Network,http://23.237.104.106:8080/USA_ACCN/mpegts
-东森洋片,https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
-东森戏剧,https://smt.1678520.xyz/163189/f60cd3f14b06dabc
-东森电影,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+
 
 
 爱奇频道,#genre#
@@ -1293,10 +1288,8 @@ MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 🏛电视剧,#genre#
 Y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/1.m3u8?tenantId=8601&accountinfo=~~V2.0~SSxnh2gPZaV_9wZMz86ofwc38bf04ecfc078f584095a9c6e91b9e1~3twbaBwUaqzfkJ5qW9C0gp1C11OJXhanim-P8XrfoHFX-jV3R0FL2wbo-VR8pOhzd5938d01ed8f640cebb709a281e7b1d3~ExtInfo9W1qynAo8QtSBzK-JlHBbQ3bb1f3410d135b117fdf58086980a86d:20240603131532:UTC,c864060416ccf5986b3e5940417477879245774,117.148.130.144,20240603131532,4444444684,c864060416ccf5986b3e5940417477879245774,-1,0,1,,,2,1000000201,,,2,23,0,241,9ec0a2dcdcfd4259318d50a38cde552c,,,1,1,140151867,END&fbl=$超清
-古装神剧轮播台,http://111.56.120.93/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls
 古装神剧轮播台,http://111.56.121.176/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls
 古装神剧轮播台,http://111.56.121.176:80/050000001888/5000000188800000186/index.m3u8
-情感大剧轮播台,http://111.56.120.93/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls
 情感大剧轮播台,http://111.56.121.176/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls
 情感大剧轮播台,http://111.56.121.176:80/050000001888/5000000188800000189/index.m3u8
 电视剧场一,http://39.153.130.167:35455/huya/29465862
