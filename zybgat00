@@ -312,3 +312,7 @@ https://cdn12.178.indevs.in/163189/25084ef5a2662aad
 https://cdn12.178.indevs.in/163189/a643783ec587540e
 #EXTINF:-1 tvg-id="1" tvg-name="AMC电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/AMC电影台.png" group-title="台湾",AMC电影台
 https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+#EXTINF:-1 tvg-id="1" tvg-name="阿里郎" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿里郎.png" group-title="台湾",阿里郎
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="大立电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大立电视台.png" group-title="台湾",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
