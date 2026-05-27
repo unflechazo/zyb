@@ -47,7 +47,7 @@ http://120.234.44.98:18180/TV00000000000000000024@HHZT
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="香港",凤凰香港
 https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
-#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰电影.png" group-title="香港",凤凰电影
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰电影台.png" group-title="香港",凤凰电影台
 http://103.213.161.148:18180/TV00000000000000000072@HHZT
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台
 http://o11.163189.xyz/stream/live/hlt/
@@ -216,6 +216,10 @@ http://cdn8.163189.xyz/163189/lhox
 http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华戏剧.png" group-title="香港",龙华戏剧
 http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 tvg-id="1" tvg-name="東森電影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/東森電影.png" group-title="香港",東森電影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 tvg-id="1" tvg-name="緯來電影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/緯來電影.png" group-title="香港",緯來電影
+http://iptv.4666888.xyz/iptv2A.php?id=54
 #EXTINF:-1 tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="香港",ASTRO AOD
 http://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-name="AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="香港",ASTRO AEC
