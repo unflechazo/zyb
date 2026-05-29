@@ -19,7 +19,7 @@ http://120.234.44.98:18180/TV00000000000000000034@HHZT
 http://120.234.11.131:18180/TV00000000000000000034@HHZT
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="香港",TVB无线新闻台
 https://flv-play.clouda.com/live/wxxw-PrjYXHNt8mryMgEqtujqXAFlhFyikJj6FxMLBgaPIvfG8jFcYPL1RDavsEcwOc7teWgx4EwkFM9xphPmgWpNN4.flv
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="香港",无线新闻台
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="香港",TVB无线新闻台
 http://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="1" tvg-name="有线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/有线新闻台.png" group-title="香港",有线新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=31
@@ -189,7 +189,7 @@ http://115.44.143.127:18180/TV00000000000000000045@HHZT
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="香港",NOW新闻台
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="香港",NOW新闻台
-https://iptv.852851.xyz/ch/7706bf435bcea7af3d335d8482a8a844/master.m3u8
+http://rihou.cc:555/tv/[Cx]Now新闻
 #EXTINF:-1 tvg-id="1" tvg-name="Now爆谷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now爆谷.png" group-title="香港",Now爆谷
 https://iptv.852851.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Now星影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影.png" group-title="香港",Now星影
