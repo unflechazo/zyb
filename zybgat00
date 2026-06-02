@@ -193,15 +193,9 @@ http://rihou.cc:555/tv/[Cx]Now新闻
 #EXTINF:-1 tvg-id="1" tvg-name="Now爆谷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now爆谷.png" group-title="香港",Now爆谷
 http://77.90.60.172:55555/1/
 #EXTINF:-1 tvg-id="1" tvg-name="Now星影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影.png" group-title="香港",Now星影
-http://77.90.60.172:55555/4/
-#EXTINF:-1 tvg-id="1" tvg-name="Now直播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now直播.png" group-title="香港",Now直播
-https://iptv.852851.xyz/ch/0772672454f35d2525b52125814a2287/master.m3u8
+http://77.90.60.172:55555/2/
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png" group-title="香港",TVB亚洲武侠
 http://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 tvg-name="天映新加坡" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/天映.png" group-title="香港",天映新加坡
-https://cdn10.163189.xyz/stream/163189/typd/
-#EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映经典频道.png" group-title="香港",天映经典频道
-https://cdn10.163189.xyz/stream/163189/ccm/
 #EXTINF:-1 tvg-name="天映频道马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png" group-title="香港",天映频道
 http://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映经典频道.png" group-title="香港",天映经典频道
