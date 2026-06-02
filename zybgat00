@@ -191,9 +191,9 @@ http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="香港",NOW新闻台
 http://rihou.cc:555/tv/[Cx]Now新闻
 #EXTINF:-1 tvg-id="1" tvg-name="Now爆谷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now爆谷.png" group-title="香港",Now爆谷
-https://iptv.852851.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
+http://77.90.60.172:55555/1/
 #EXTINF:-1 tvg-id="1" tvg-name="Now星影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影.png" group-title="香港",Now星影
-https://iptv.852851.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
+http://77.90.60.172:55555/4/
 #EXTINF:-1 tvg-id="1" tvg-name="Now直播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now直播.png" group-title="香港",Now直播
 https://iptv.852851.xyz/ch/0772672454f35d2525b52125814a2287/master.m3u8
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png" group-title="香港",TVB亚洲武侠
@@ -268,6 +268,8 @@ http://rihou.cc:555/tv/中天新闻
 rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中天新闻.png" group-title="台湾",中天新闻
 rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
+#EXTINF:-1 tvg-id="1" tvg-name="中天亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天亚洲.png" group-title="台湾",中天亚洲
+http://77.90.60.172:55555/4/
 #EXTINF:-1 tvg-id="1" tvg-name="中天亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天亚洲.png" group-title="台湾",中天亚洲
 http://rihou.cc:555/tv/中天亚洲
 #EXTINF:-1 tvg-id="1" tvg-name="中天综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天综合.png" group-title="台湾",中天综合
