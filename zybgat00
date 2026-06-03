@@ -260,7 +260,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=44
 http://iptv.4666888.xyz/iptv2A.php?id=58
 #EXTINF:-1 tvg-id="1" tvg-name="东森新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森新闻.png" group-title="台湾",东森新闻
 http://103.79.187.237:8080/memfs/5c6c20db-7846-4934-b4e2-5e83d3b08d58.m3u8
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/华视.png" group-title="台湾",华视
+#EXTINF:-1 tvg-id="1" tvg-name="华视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视.png" group-title="台湾",华视
 http://220.135.241.47:8317/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="华视教育体育文化台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视教育体育文化台.png" group-title="台湾",华视教育体育文化台
 http://220.135.241.47:8318/0.ts
@@ -304,7 +304,7 @@ https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 tvg-name="台視" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/台視.png" group-title="台湾",台視
 http://dbmlasvgas.sylu.cc:8880/stream/e307e16f-43bf-496f-9955-7440569a3e83/playlist.m3u8
-#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/台视财经.png" group-title="台湾",台视财经
+#EXTINF:-1 tvg-id="1" tvg-name="台视财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视财经.png" group-title="台湾",台视财经
 http://220.135.241.47:8315/0.ts
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中视新闻.png" group-title="台湾",中视新闻
 http://103.79.187.237:8080/memfs/00b944e3-b266-4c58-affd-da93ab30bf9d.m3u8
