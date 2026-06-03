@@ -143,43 +143,6 @@ TG4 IE,http://epicboss.live/bjune@teksavvy.com/5193594414/14365
 
 
 
-国际,#genre#
-BBC新闻,https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
-BBC美洲,https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-GB新闻,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8?checkedby:iptvcat.com
-Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
-24 Hour Free Movies (720p),https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-Anmol Cinema (576p),http://103.175.73.12:8080/live/271/271_0.m3u8
-Anmol Cinema 2 (576p),http://103.175.73.12:8080/live/257/257_0.m3u8
-Anmol TV (576p),http://103.175.73.12:8080/live/256/256_0.m3u8
-ANTV (720p),http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-Az TV,http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
-Canal Taronja Comarques Centrals (1080p) [Not 24/7],https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
-Canal Taronja Osona i Moianés (1080p) [Not 24/7],https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
-Canal Terrassa (1080p),https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
-Canal Terres de L'Ebre (1080p),https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
-Channel Fight (1080p),https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8?ads.vf=KqVbYyU2qD8
-ETV Telugu USA (720p),https://livegeorouus.akamaized.net/100823/etvhd_2500/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-FEVA MUSIC (1080p),https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8?ads.vf=tnxM2v6NH4m
-FEVA TV (1080p),https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
-FITE 24/7 (1080p),https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8?ads.vf=d4xngnNL060
-Hard Knocks (1080p),https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
-My Money (1080p),https://dqaj8xog66lli.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-MyMoney/468.m3u8?ads.vf=hKm4TAlnI34
-OurVinyl (1080p),https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8?ads.vf=aJG-o6ZGH4y
-SIL TV (1080p),https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
-Sports First TV (1080p),https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8?ads.vf=IqoHUzAjl6S
-Telemicro (1080p),https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8
-TV Bahia (1080i),http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-TV Sabadell-Vallès (1080p),https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
-VOTV (1080p),https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
-WFN: World Fishing Network (1080p),https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
-World Poker Tour (1080p),https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?ads.vf=EHEabFVWNva
 
 🌏全球直播,#genre#
 🇦🇹奥地利Moviesphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
