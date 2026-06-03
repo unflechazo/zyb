@@ -293,6 +293,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=37
 http://211.72.174.95:8117/0.ts
 http://rihou.cc:555/tv/民视新闻
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視.png" group-title="台湾",民視
+http://220.135.241.47:8308/0.ts
 http://iptv.4666888.xyz/iptv2A.php?id=55
 #EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視綜藝.png" group-title="台湾",民視綜藝
 http://iptv.4666888.xyz/iptv2A.php?id=46
@@ -310,9 +311,12 @@ http://220.135.241.47:8313/0.ts
 http://220.135.241.47:8314/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="台视财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视财经.png" group-title="台湾",台视财经
 http://220.135.241.47:8315/0.ts
+#EXTINF:-1 tvg-id="1" tvg-name="台视综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视综合.png" group-title="台湾",台视综合
+http://220.135.241.47:8316/0.ts
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中视新闻.png" group-title="台湾",中视新闻
 http://103.79.187.237:8080/memfs/00b944e3-b266-4c58-affd-da93ab30bf9d.m3u8
 http://rihou.cc:555/tv/中视新闻 
+http://220.135.241.47:8302/0.ts
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中视.png" group-title="台湾",中视
 http://220.135.241.47:8301/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="中视菁采" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中视菁采.png" group-title="台湾",中视菁采
