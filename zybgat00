@@ -193,6 +193,7 @@ http://rihou.cc:555/tv/[Cx]Now新闻
 #EXTINF:-1 tvg-id="1" tvg-name="Now爆谷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now爆谷.png" group-title="香港",Now爆谷
 http://77.90.60.172:55555/1/
 #EXTINF:-1 tvg-id="1" tvg-name="Now星影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影.png" group-title="香港",Now星影
+http://124.244.129.167:7003/0.ts
 http://77.90.60.172:55555/2/
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png" group-title="香港",TVB亚洲武侠
 http://cdn6.163189.xyz/163189/yzwx
