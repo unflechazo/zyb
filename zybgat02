@@ -278,3 +278,154 @@ TRACE URBAN,http://220.135.64.124:5050/of-4gtv-4gtv082/index.m3u8?proxy=true
 TRACE SPORT STARS,http://220.135.64.124:5050/of-4gtv-4gtv077/index.m3u8?proxy=true
 TV5monde,http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
 
+cdn 4GTV,#genre#
+寰宇新闻,https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
+寰宇新闻台湾,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
+镜新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv075/index.m3u8
+中天新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
+中天亞洲,https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
+中天綜合,html#https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
+中天娛樂,https://cdn.19891230.eu.org/api/Cti-E/index.m3u8
+中视,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv040/index.m3u8
+中视新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv074/index.m3u8
+TVBS,https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
+TVBS新闻,https://cdn.19891230.eu.org/4gtv/media-live072/index.m3u8
+TVBS欢乐,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv068/index.m3u8
+TVBS精采,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv067/index.m3u8
+东森新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
+东森财经,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv153/index.m3u8
+东森電影,https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
+东森洋片,https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
+东森綜合,https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
+东森戲劇,https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
+东森幼幼,https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
+东森购物一,https://cdn.19891230.eu.org/4gtv/4gtv-live047/index.m3u8
+东森购物二,https://cdn.19891230.eu.org/4gtv/4gtv-live046/index.m3u8
+东森购物三,https://cdn.19891230.eu.org/4gtv/4gtv-live048/index.m3u8
+东森购物四,https://cdn.19891230.eu.org/4gtv/4gtv-live0499/index.m3u8
+三立新闻iNewS,https://cdn.19891230.eu.org/4gtv/4gtv-live089/index.m3u8
+三立综合,https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
+民视,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
+民视台湾,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv001/index.m3u8
+民视影剧,https://cdn.19891230.eu.org/4gtv/litv-ftv09/index.m3u8
+民视新闻,https://cdn.19891230.eu.org/4gtv/litv-ftv13/index.m3u8
+民视旅游,https://cdn.19891230.eu.org/4gtv/litv-ftv07/index.m3u8
+民视第一,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv003/index.m3u8
+民视综艺,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv004/index.m3u8
+华视新闻,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv052/index.m3u8
+台視,https://cdn.19891230.eu.org/api/TTV/index.m3u8
+公视戏剧,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv042/index.m3u8
+年代新闻,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
+八大精彩,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv034/index.m3u8
+八大综艺,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv039/index.m3u8
+猪哥亮歌厅秀,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv006/index.m3u8
+客家电视,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv043/index.m3u8
+原住民族电视,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv080/index.m3u8
+金光布袋戏,https://cdn.19891230.eu.org/4gtv/4gtv-live144/index.m3u8
+视纳华仁纪实频道,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv013/index.m3u8
+幸福空間居家,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv064/index.m3u8
+大爱电视,https://cdn.19891230.eu.org/4gtv/4gtv-live007/index.m3u8
+大爱电视2,https://cdn.19891230.eu.org/4gtv/4gtv-live106/index.m3u8
+好消息1,https://cdn.19891230.eu.org/4gtv/litv-ftv16/index.m3u8
+好消息2,https://cdn.19891230.eu.org/4gtv/litv-ftv17/index.m3u8
+人间卫视,https://cdn.19891230.eu.org/4gtv/4gtv-live008/index.m3u8
+国会频道1,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv084/index.m3u8
+国会频道2,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv085/index.m3u8
+亚洲旅游,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv076/index.m3u8
+尼克儿童频道,https://cdn.19891230.eu.org/4gtv/4gtv-live105/index.m3u8
+幸福空间居家,https://cdn.19891230.eu.org/4gtv/4gtv-live206/index.m3u8
+好萊塢電影,https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
+影迷数位电影,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv011/index.m3u8
+影迷数位纪实,https://cdn.19891230.eu.org/4gtv/litv-ftv15/index.m3u8
+新唐人亚太,https://cdn.19891230.eu.org/4gtv/4gtv-live050/index.m3u8
+时尚运动X,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv014/index.m3u8
+智林体育,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv101/index.m3u8
+滚动力rollor,https://cdn.19891230.eu.org/4gtv/4gtv-live012/index.m3u8
+爱尔达娱乐,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv070/index.m3u8
+爱尔达生活旅游,https://cdn.19891230.eu.org/4gtv/4gtv-live12/index.m3u8
+爱尔达寵物運動,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv070/index.m3u8
+电影原声CMusic,https://cdn.19891230.eu.org/4gtv/4gtv-live031/index.m3u8
+第1商业「ofiii」,https://cdn.19891230.eu.org/ofiii/4gtv-4gtv104/index.m3u8
+精选动漫,https://cdn.19891230.eu.org/4gtv/4gtv-live024/index.m3u8
+经典卡通,https://cdn.19891230.eu.org/4gtv/4gtv-live022/index.m3u8
+经典电影,https://cdn.19891230.eu.org/4gtv/4gtv-live021/index.m3u8
+M+车迷TV,https://cdn.19891230.eu.org/4gtv/4gtv-live201/index.m3u8
+达文西频道,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv018/index.m3u8
+采昌影剧,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv049/index.m3u8
+靖天卡通,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv044/index.m3u8
+靖天国际,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv063/index.m3u8
+靖天戏剧,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv058/index.m3u8
+靖天日本,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
+靖天映画,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv055/index.m3u8
+靖天欢乐,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv054/index.m3u8
+靖天电影,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv061/index.m3u8
+靖天综合,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv046/index.m3u8
+靖天育乐,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv062/index.m3u8
+靖天资讯,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv065/index.m3u8
+靖洋卡通,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv057/index.m3u8
+靖洋戏剧,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv045/index.m3u8
+博斯運動1,https://cdn.19891230.eu.org/4gtv/litv-xinchuang07/index.m3u8
+博斯運動2,https://cdn.19891230.eu.org/4gtv/litv-xinchuang08/index.m3u8
+博斯無限1,https://cdn.19891230.eu.org/4gtv/litv-xinchuang10/index.m3u8
+博斯無限2,https://cdn.19891230.eu.org/4gtv/litv-xinchuang13/index.m3u8
+博斯高球1,https://cdn.19891230.eu.org/4gtv/litv-xinchuang05/index.m3u8
+博斯高球2,https://cdn.19891230.eu.org/4gtv/litv-xinchuang06/index.m3u8
+博斯網球,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
+博斯魅力,https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
+緯來日本,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
+緯來體育,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+緯來電影,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+緯來綜合,https://cdn.19891230.eu.org/api/VL-ONTV/index.m3u8
+緯來戲劇,https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
+緯來育樂,https://cdn.19891230.eu.org/api/VL-E/index.m3u8
+龍祥時代,https://cdn.19891230.eu.org/api/LSTIME-Movie/index.m3u8
+龍華電影,http://cdn8.163189.xyz/163189/lhdy
+龍華偶像,http://cdn8.163189.xyz/163189/lhox
+龍華戲劇,http://cdn8.163189.xyz/163189/lhxj
+龍華日韓,https://cdn8.163189.xyz/163189/lhrh
+龍華經典,https://cdn8.163189.xyz/163189/lhjd
+韩国娱乐台KMTV,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv016/index.m3u8
+半岛国际新闻,https://cdn.19891230.eu.org/4gtv/4gtv-live157/index.m3u8
+amc电影台,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv017/index.m3u8
+Arirang TV,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv079/index.m3u8
+Bloomberg TV,https://cdn.19891230.eu.org/4gtv/4gtv-live059/index.m3u8
+Cinema World,https://cdn.19891230.eu.org/4gtv/4gtv-live069/index.m3u8
+CINEMAX,https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
+CI罪案侦查频道,https://cdn.19891230.eu.org/4gtv/4gtv-live027/index.m3u8
+CLASSICA古典乐,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv059/index.m3u8
+CMUSIC,https://cdn.19891230.eu.org/4gtv/4gtv-live031/index.m3u8
+CNBC Asia财经,https://cdn.19891230.eu.org/4gtv/4gtv-live130/index.m3u8
+DA VINCI,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv018/index.m3u8
+Dream Works梦工厂动画,https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
+DW德国之声,https://cdn.19891230.eu.org/4gtv/4gtv-live071/index.m3u8
+ELTV生活英语,https://cdn.19891230.eu.org/4gtv/litv-xinchuang20/index.m3u8
+Fashion TV时尚频道,https://cdn.19891230.eu.org/4gtv/4gtv-live085/index.m3u8
+FRANCE24,https://cdn.19891230.eu.org/4gtv/4gtv-live146/index.m3u8
+FESTIVAL 4K,https://cdn.19891230.eu.org/4gtv/4gtv-live011/index.m3u8
+GINXE sports TV,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv053/index.m3u8
+Global Trekker,https://cdn.19891230.eu.org/4gtv/4gtv-live112/index.m3u8
+History历史频道,https://cdn.19891230.eu.org/4gtv/4gtv-live026/index.m3u8
+HITS频道,https://cdn.19891230.eu.org/4gtv/4gtv-live620/index.m3u8
+INULTRA,https://cdn.19891230.eu.org/4gtv/4gtv-live096/index.m3u8
+Lifetime娱乐频道,https://cdn.19891230.eu.org/4gtv/4gtv-live029/index.m3u8
+Live ABC互动英语频道,https://cdn.19891230.eu.org/4gtv/4gtv-live030/index.m3u8
+Love Nature,https://cdn.19891230.eu.org/4gtv/4gtv-live208/index.m3u8
+LUXE TV Channel,https://cdn.19891230.eu.org/4gtv/4gtv-live121/index.m3u8
+Magellan TV(麦哲伦频道),https://cdn.19891230.eu.org/4gtv/4gtv-live123/index.m3u8
+MCE我的欧洲电影,https://cdn.19891230.eu.org/4gtv/litv-ftv10/index.m3u8
+Mezzo Live,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv083/index.m3u8
+MOMO亲子,https://cdn.19891230.eu.org/4gtv/4gtv-live107/index.m3u8
+MTV-Live,https://cdn.19891230.eu.org/api/MTV-Live/index.m3u8
+NHK新闻资讯,https://cdn.19891230.eu.org/4gtv/4gtv-live168/index.m3u8
+Nickelodeon,https://cdn.19891230.eu.org/4gtv/4gtv-live105/index.m3u8
+NickJr.儿童频道,https://cdn.19891230.eu.org/4gtv/4gtv-live032/index.m3u8
+Pet Club TV,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv110/index.m3u8
+ROCK Action,https://cdn.19891230.eu.org/4gtv/4gtv-live138/index.m3u8
+ROCK Entertainment,https://cdn.19891230.eu.org/4gtv/4gtv-live080/index.m3u8
+ROCK Xstream,https://cdn.19891230.eu.org/4gtv/4gtv-live124/index.m3u8
+SBN全球财经,https://cdn.19891230.eu.org/4gtv/4gtv-live060/index.m3u8
+TRACE Sport Stars,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv077/index.m3u8
+TRACE Urban,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv082/index.m3u8
+TV5 MONDE STYLE生活时尚,https://cdn.19891230.eu.org/4gtv/4gtv-live122/index.m3u8
+
+
