@@ -146,14 +146,6 @@ CCTV17,http://60.10.139.113:8801/hls/98/index.m3u8
 CETV1,http://60.10.139.113:8801/hls/35/index.m3u8
 CETV2,http://60.10.139.113:8801/hls/91/index.m3u8
 CETV4,http://60.10.139.113:8801/hls/92/index.m3u8
-CETV早期教育,http://60.10.139.113:8801/hls/83/index.m3u8
-CCTV央视文化精品,http://60.10.139.113:8801/hls/80/index.m3u8
-CCTV风云足球,http://60.10.139.113:8801/hls/69/index.m3u8
-CCTV世界地理,http://60.10.139.113:8801/hls/73/index.m3u8
-CCTV女性时尚,http://60.10.139.113:8801/hls/79/index.m3u8
-CCTV高尔夫网球,http://60.10.139.113:8801/hls/70/index.m3u8
-CCTV电视指南,http://60.10.139.113:8801/hls/64/index.m3u8
-CCTV兵器科技,http://60.10.139.113:8801/hls/72/index.m3u8
 环球奇观,http://60.10.139.113:8801/hls/75/index.m3u8
 CGTN,http://60.10.139.113:8801/hls/14/index.m3u8
 江苏卫视,http://60.10.139.113:8801/hls/19/index.m3u8
@@ -186,9 +178,6 @@ CGTN,http://60.10.139.113:8801/hls/14/index.m3u8
 金鹰卡通,http://60.10.139.113:8801/hls/62/index.m3u8
 金鹰纪实,http://60.10.139.113:8801/hls/33/index.m3u8
 国学频道,http://60.10.139.113:8801/hls/77/index.m3u8
-风云剧场,http://60.10.139.113:8801/hls/66/index.m3u8
-风云音乐,http://60.10.139.113:8801/hls/68/index.m3u8
-怀旧剧场,http://60.10.139.113:8801/hls/67/index.m3u8
 新闻综合,http://60.10.139.113:8801/hls/48/index.m3u8
 香河综合,http://60.10.139.113:8801/hls/94/index.m3u8
 卡酷少儿,http://60.10.139.113:8801/hls/61/index.m3u8
