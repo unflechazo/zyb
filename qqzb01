@@ -1,0 +1,412 @@
+#EXTINF:-1 group-title="🇲🇾马来西亚直播" tvg-name="APETITO" tvg-logo="https://epg.112114.xyz/logo/APETITO.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播" tvg-name="AURA" tvg-logo="https://epg.112114.xyz/logo/AURA.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播" tvg-name="FITRAH" tvg-logo="https://epg.112114.xyz/logo/FITRAH.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播" tvg-name="JR." tvg-logo="https://epg.112114.xyz/logo/JR..png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播" tvg-name="LEAD" tvg-logo="https://epg.112114.xyz/logo/LEAD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播" tvg-name="ROLL" tvg-logo="https://epg.112114.xyz/logo/ROLL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播" tvg-name="SNAP" tvg-logo="https://epg.112114.xyz/logo/SNAP.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播" tvg-name="RTM Asean" tvg-logo="https://epg.112114.xyz/logo/RTM Asean.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="VTV5_TN" tvg-logo="https://epg.112114.xyz/logo/VTV5_TN.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VTV5_TN
+https://liveh12.vtvprime.vn/hls/VTV5_TN/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="VTV5_TNB" tvg-logo="https://epg.112114.xyz/logo/VTV5_TNB.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VTV5_TNB
+https://liveh12.vtvprime.vn/hls/VTV5_TNB/01.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HTV2" tvg-logo="https://epg.112114.xyz/logo/HTV2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HTV2
+https://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HTV3" tvg-logo="https://epg.112114.xyz/logo/HTV3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HTV3
+https://liveh12.vtvprime.vn/hls/HTV3/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HTVKey" tvg-logo="https://epg.112114.xyz/logo/HTVKey.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HTVKey
+https://liveh12.vtvprime.vn/hls/HTVKey/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HTV7" tvg-logo="https://epg.112114.xyz/logo/HTV7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HTV7
+https://liveh12.vtvprime.vn/hls/HTV7HD/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HTVCCANHAC" tvg-logo="https://epg.112114.xyz/logo/HTVCCANHAC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HTVCCANHAC
+https://liveh12.vtvprime.vn/hls/HTVCCANHAC/04.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HTVCDLCS" tvg-logo="https://epg.112114.xyz/logo/HTVCDLCS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HTVCDLCS
+https://liveh12.vtvprime.vn/hls/HTVCDLCS/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="SCTV1" tvg-logo="https://epg.112114.xyz/logo/SCTV1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCTV1
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="SCTV2" tvg-logo="https://epg.112114.xyz/logo/SCTV2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCTV2
+https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="SCTV4" tvg-logo="https://epg.112114.xyz/logo/SCTV4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCTV4
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="SCTV10" tvg-logo="https://epg.112114.xyz/logo/SCTV10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCTV10
+https://liveh34.vtvprime.vn/hls/SCTV10/01.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="SCTVPHIM" tvg-logo="https://epg.112114.xyz/logo/SCTVPHIM.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SCTVPHIM
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="ANGIANGTV" tvg-logo="https://epg.112114.xyz/logo/ANGIANGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ANGIANGTV
+https://liveh34.vtvprime.vn/hls/ANGIANGTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HANOI1TV" tvg-logo="https://epg.112114.xyz/logo/HANOI1TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HANOI1TV
+https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HAIDUONGTV" tvg-logo="https://epg.112114.xyz/logo/HAIDUONGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HAIDUONGTV
+https://liveh34.vtvprime.vn/hls/HAIDUONGTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="BACGIANGTV" tvg-logo="https://epg.112114.xyz/logo/BACGIANGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BACGIANGTV
+https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="DONGTHAPTV" tvg-logo="https://epg.112114.xyz/logo/DONGTHAPTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DONGTHAPTV
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="KHANHHOATV" tvg-logo="https://epg.112114.xyz/logo/KHANHHOATV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",KHANHHOATV
+https://liveh12.vtvprime.vn/hls/KHANHHOATV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="QUANGNINHTV" tvg-logo="https://epg.112114.xyz/logo/QUANGNINHTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",QUANGNINHTV
+https://liveh12.vtvprime.vn/hls/QUANGNINHTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="QUANGNINH3" tvg-logo="https://epg.112114.xyz/logo/QUANGNINH3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",QUANGNINH3
+https://liveh34.vtvprime.vn/hls/QUANGNINH3/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="THAINGUYENTV" tvg-logo="https://epg.112114.xyz/logo/THAINGUYENTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",THAINGUYENTV
+https://liveh34.vtvprime.vn/hls/THAINGUYENTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="TAYNINHTV" tvg-logo="https://epg.112114.xyz/logo/TAYNINHTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TAYNINHTV
+https://liveh34.vtvprime.vn/hls/TAYNINHTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HUE" tvg-logo="https://epg.112114.xyz/logo/HUE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HUE
+https://liveh12.vtvprime.vn/hls/HUE/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HUNGYENTV" tvg-logo="https://epg.112114.xyz/logo/HUNGYENTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HUNGYENTV
+https://liveh12.vtvprime.vn/hls/HUNGYENTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="HATINH" tvg-logo="https://epg.112114.xyz/logo/HATINH.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",HATINH
+https://liveh34.vtvprime.vn/hls/HATINH/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="NINHBINHTV" tvg-logo="https://epg.112114.xyz/logo/NINHBINHTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NINHBINHTV
+https://liveh34.vtvprime.vn/hls/NINHBINHTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="NGHEANTV" tvg-logo="https://epg.112114.xyz/logo/NGHEANTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NGHEANTV
+https://liveh12.vtvprime.vn/hls/NGHEANTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="PHUTHOTV" tvg-logo="https://epg.112114.xyz/logo/PHUTHOTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",PHUTHOTV
+https://liveh34.vtvprime.vn/hls/PHUTHOTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="DANANGTV" tvg-logo="https://epg.112114.xyz/logo/DANANGTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DANANGTV
+https://liveh12.vtvprime.vn/hls/DANANGTV/03.m3u8
+#EXTINF:-1 group-title="🇻🇳越南直播" tvg-name="DANANG2" tvg-logo="https://epg.112114.xyz/logo/DANANG2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DANANG2
+https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="ZB Cinema" tvg-logo="https://epg.112114.xyz/logo/ZB Cinema.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Zee Classic" tvg-logo="https://epg.112114.xyz/logo/Zee Classic.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Zee Classic
+http://103.229.254.25:7001/play/a09w/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Sanskar TV" tvg-logo="https://epg.112114.xyz/logo/Sanskar TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Sansad TV 1" tvg-logo="https://epg.112114.xyz/logo/Sansad TV 1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sansad TV 1
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Sansad TV 2" tvg-logo="https://epg.112114.xyz/logo/Sansad TV 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sansad TV 2
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Food Food" tvg-logo="https://epg.112114.xyz/logo/Food Food.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Food Food
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="DD Sports SD" tvg-logo="https://epg.112114.xyz/logo/DD Sports SD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DD Sports SD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="DD Kisan" tvg-logo="https://epg.112114.xyz/logo/DD Kisan.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DD Kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="DD Punjabi" tvg-logo="https://epg.112114.xyz/logo/DD Punjabi.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DD Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Hyder TV" tvg-logo="https://epg.112114.xyz/logo/Hyder TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Hyder TV
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Odisha TV" tvg-logo="https://epg.112114.xyz/logo/Odisha TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Odisha TV
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Sanskar TV" tvg-logo="https://epg.112114.xyz/logo/Sanskar TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Chithiram" tvg-logo="https://epg.112114.xyz/logo/Chithiram.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Chithiram
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="Sonic" tvg-logo="https://epg.112114.xyz/logo/Sonic.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sonic
+http://103.229.254.25:7001/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播" tvg-name="ZB Cartoon" tvg-logo="https://epg.112114.xyz/logo/ZB Cartoon.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Jidaigeki Senmon (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Jidaigeki Senmon (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Jidaigeki Senmon (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Toei Channel (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Toei Channel (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Toei Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Eisei Gekijo (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Eisei Gekijo (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Eisei Gekijo (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Family Gekijyo (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Family Gekijyo (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Family Gekijyo (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Movie Plus (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Movie Plus (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Movie Plus (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Home Drama Channel (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Home Drama Channel (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Home Drama Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Tabi Channel (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Tabi Channel (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Tabi Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Fuji TV Next (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Fuji TV Next (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Fuji TV Next (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Sky A  (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Sky A  (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Sky A  (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="GAORA SPORTS (Primehome)" tvg-logo="https://epg.112114.xyz/logo/GAORA SPORTS (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GAORA SPORTS (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Golf Network (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Golf Network (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Golf Network (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Nittele G+ (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Nittele G+ (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Nittele G+ (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Mondo TV (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Mondo TV (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Mondo TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Channel Ginga (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Channel Ginga (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel Ginga (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Space Shower TV (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Space Shower TV (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Space Shower TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Music Japan TV (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Music Japan TV (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Music Japan TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Kayo Pops (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Kayo Pops (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Kayo Pops (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="MTV (Primehome)" tvg-logo="https://epg.112114.xyz/logo/MTV (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MTV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="LaLa TV (Primehome)" tvg-logo="https://epg.112114.xyz/logo/LaLa TV (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",LaLa TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Takarazuka Sky Stage (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Takarazuka Sky Stage (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Takarazuka Sky Stage (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Kids Staton TV (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Kids Staton TV (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Kids Staton TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Cartoon Network (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Cartoon Network (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Cartoon Network (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="National Geographic Japan (Primehome)" tvg-logo="https://epg.112114.xyz/logo/National Geographic Japan (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",National Geographic Japan (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Disney Junior (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Disney Junior (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Disney Junior (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Discovery Channel (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Discovery Channel (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Discovery Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="Animal Planet (Primehome)" tvg-logo="https://epg.112114.xyz/logo/Animal Planet (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Animal Planet (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="History (Primehome)" tvg-logo="https://epg.112114.xyz/logo/History (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",History (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="CNNj (Primehome)" tvg-logo="https://epg.112114.xyz/logo/CNNj (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNNj (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="BBC News (Primehome)" tvg-logo="https://epg.112114.xyz/logo/BBC News (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC News (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 group-title="🇯🇵日本直播" tvg-name="TBS News (Primehome)" tvg-logo="https://epg.112114.xyz/logo/TBS News (Primehome).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TBS News (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="GCN24 Korean (720p)" tvg-logo="https://epg.112114.xyz/logo/GCN24 Korean (720p).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GCN24 Korean (720p)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="GoodTV (1080p)" tvg-logo="https://epg.112114.xyz/logo/GoodTV (1080p).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="Gugbang TV (1080p) [Not 24/7]" tvg-logo="https://epg.112114.xyz/logo/Gugbang TV (1080p) [Not 24/7].png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]" tvg-logo="https://epg.112114.xyz/logo/MBC Chuncheon (춘천 MBC) (480p) [Not 24/7].png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="MBC Mokpo (목포 MBC) (720p) [Not 24/7]" tvg-logo="https://epg.112114.xyz/logo/MBC Mokpo (목포 MBC) (720p) [Not 24/7].png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="MBC Yeosu (여수 MBC)[Not 24/7]" tvg-logo="https://epg.112114.xyz/logo/MBC Yeosu (여수 MBC)[Not 24/7].png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MBC Yeosu (여수 MBC)[Not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="SBS JTV (406p) [Not 24/7]" tvg-logo="https://epg.112114.xyz/logo/SBS JTV (406p) [Not 24/7].png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",SBS JTV (406p) [Not 24/7]
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="tvchosun2" tvg-logo="https://epg.112114.xyz/logo/tvchosun2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",tvchosun2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="tvchosun" tvg-logo="https://epg.112114.xyz/logo/tvchosun.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",tvchosun
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="EBS1" tvg-logo="https://epg.112114.xyz/logo/EBS1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="EBSe" tvg-logo="https://epg.112114.xyz/logo/EBSe.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="EBS1" tvg-logo="https://epg.112114.xyz/logo/EBS1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EBS1
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="EBS2" tvg-logo="https://epg.112114.xyz/logo/EBS2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EBS2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="EBS1" tvg-logo="https://epg.112114.xyz/logo/EBS1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播" tvg-name="JTV" tvg-logo="https://epg.112114.xyz/logo/JTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",JTV
+http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="CBS 2 New York" tvg-logo="https://epg.112114.xyz/logo/CBS 2 New York.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBS 2 New York
+http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="CBS 2 Los Angeles" tvg-logo="https://epg.112114.xyz/logo/CBS 2 Los Angeles.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CBS 2 Los Angeles
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/215482
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="ABC 7 New York" tvg-logo="https://epg.112114.xyz/logo/ABC 7 New York.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ABC 7 New York
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/142490
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="ABC 7 Los Angeles" tvg-logo="https://epg.112114.xyz/logo/ABC 7 Los Angeles.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ABC 7 Los Angeles
+http://epicboss.live/bjune@teksavvy.com/5193594414/46372
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="FOX 5 New York" tvg-logo="https://epg.112114.xyz/logo/FOX 5 New York.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX 5 New York
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/10056
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="FOX 11 Los Angeles" tvg-logo="https://epg.112114.xyz/logo/FOX 11 Los Angeles.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX 11 Los Angeles
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/215728
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="FOX 32 Chicago" tvg-logo="https://epg.112114.xyz/logo/FOX 32 Chicago.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FOX 32 Chicago
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/215737
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="USA Network" tvg-logo="https://epg.112114.xyz/logo/USA Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",USA Network
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="A&E" tvg-logo="https://epg.112114.xyz/logo/A&E.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",A&E
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="MTV2" tvg-logo="https://epg.112114.xyz/logo/MTV2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",MTV2
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10427
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="Comedy Central" tvg-logo="https://epg.112114.xyz/logo/Comedy Central.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="Bravo" tvg-logo="https://epg.112114.xyz/logo/Bravo.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bravo
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10373
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="Bravo Vault" tvg-logo="https://epg.112114.xyz/logo/Bravo Vault.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Bravo Vault
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/61a276d1-8291-4018-aba2-146304f96043/4.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="Comedy TV" tvg-logo="https://epg.112114.xyz/logo/Comedy TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Comedy TV
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/261524.ts
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="Pop" tvg-logo="https://epg.112114.xyz/logo/Pop.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Pop
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/51112
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="fuse" tvg-logo="https://epg.112114.xyz/logo/fuse.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="E!" tvg-logo="https://epg.112114.xyz/logo/E!.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",E!
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="WE TV" tvg-logo="https://epg.112114.xyz/logo/WE TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",WE TV
+http://23.237.104.106:8080/USA_WE_TV/mpegts
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="AXS TV" tvg-logo="https://epg.112114.xyz/logo/AXS TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",AXS TV
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="VICE" tvg-logo="https://epg.112114.xyz/logo/VICE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",VICE
+https://d1ocru52bkg5e9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqr9z4dqrkb9m/b07d20d9-38d3-44e4-a74d-386f99542384/3.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播" tvg-name="Game Show Network" tvg-logo="https://epg.112114.xyz/logo/Game Show Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Game Show Network
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10404
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="BBC One UK" tvg-logo="https://epg.112114.xyz/logo/BBC One UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC One UK
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/1155
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="BBC Four UK" tvg-logo="https://epg.112114.xyz/logo/BBC Four UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",BBC Four UK
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/1158
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="ITV1 UK" tvg-logo="https://epg.112114.xyz/logo/ITV1 UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ITV1 UK
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/1173
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="ITV2 UK" tvg-logo="https://epg.112114.xyz/logo/ITV2 UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ITV2 UK
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/1174
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="ITV3 UK" tvg-logo="https://epg.112114.xyz/logo/ITV3 UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ITV3 UK
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/1176
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="ITV4 UK" tvg-logo="https://epg.112114.xyz/logo/ITV4 UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ITV4 UK
+http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/1175
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="Channel 4 UK" tvg-logo="https://epg.112114.xyz/logo/Channel 4 UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 4 UK
+http://epicboss.live/bjune@teksavvy.com/5193594414/9442
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="Channel 5 UK" tvg-logo="https://epg.112114.xyz/logo/Channel 5 UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Channel 5 UK
+http://epicboss.live/bjune@teksavvy.com/5193594414/9441
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="E4 UK" tvg-logo="https://epg.112114.xyz/logo/E4 UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",E4 UK
+http://epicboss.live/bjune@teksavvy.com/5193594414/9437
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="FILM4 UK" tvg-logo="https://epg.112114.xyz/logo/FILM4 UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",FILM4 UK
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/241985
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="4seven UK" tvg-logo="https://epg.112114.xyz/logo/4seven UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",4seven UK
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/241939
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="U & Gold UK" tvg-logo="https://epg.112114.xyz/logo/U & Gold UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",U & Gold UK
+http://epicboss.live/bjune@teksavvy.com/5193594414/30171
+#EXTINF:-1 group-title="🇬🇧英国直播" tvg-name="S4C UK" tvg-logo="https://epg.112114.xyz/logo/S4C UK.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",S4C UK
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/242020
+#EXTINF:-1 group-title="🇮🇪爱尔兰直播" tvg-name="RTE One IE" tvg-logo="https://epg.112114.xyz/logo/RTE One IE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTE One IE
+http://epicboss.live/bjune@teksavvy.com/5193594414/4628
+#EXTINF:-1 group-title="🇮🇪爱尔兰直播" tvg-name="RTE 2 IE" tvg-logo="https://epg.112114.xyz/logo/RTE 2 IE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",RTE 2 IE
+http://epicboss.live/bjune@teksavvy.com/5193594414/4627
+#EXTINF:-1 group-title="🇮🇪爱尔兰直播" tvg-name="TG4 IE" tvg-logo="https://epg.112114.xyz/logo/TG4 IE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",TG4 IE
+http://epicboss.live/bjune@teksavvy.com/5193594414/14365
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇦🇹奥地利Moviesphere" tvg-logo="https://epg.112114.xyz/logo/🇦🇹奥地利Moviesphere.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇦🇹奥地利Moviesphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇳🇬尼日利亚Pulse" tvg-logo="https://epg.112114.xyz/logo/🇳🇬尼日利亚Pulse.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇳🇬尼日利亚Pulse
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇱🇰斯里兰卡Mon Tamil TV" tvg-logo="https://epg.112114.xyz/logo/🇱🇰斯里兰卡Mon Tamil TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇱🇰斯里兰卡Mon Tamil TV
+http://198.144.149.206:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇺🇿乌兹别克斯坦Ilm va Tabiat" tvg-logo="https://epg.112114.xyz/logo/🇺🇿乌兹别克斯坦Ilm va Tabiat.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇺🇿乌兹别克斯坦Ilm va Tabiat
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇹🇯塔吉克斯坦TV Sayohi" tvg-logo="https://epg.112114.xyz/logo/🇹🇯塔吉克斯坦TV Sayohi.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇹🇯塔吉克斯坦TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇨🇱智利Chile Channel" tvg-logo="https://epg.112114.xyz/logo/🇨🇱智利Chile Channel.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇨🇱智利Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇨🇷哥斯达黎加Costa Rica Channel" tvg-logo="https://epg.112114.xyz/logo/🇨🇷哥斯达黎加Costa Rica Channel.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇨🇷哥斯达黎加Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇲🇽墨西哥Alcarria TV" tvg-logo="https://epg.112114.xyz/logo/🇲🇽墨西哥Alcarria TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇲🇽墨西哥Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇧🇪比利时BX1 Redif" tvg-logo="https://epg.112114.xyz/logo/🇧🇪比利时BX1 Redif.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇧🇪比利时BX1 Redif
+http://iptv.zkbhj.com/tv/url/go?id=f1be0d493321f4c33715e1b7e70c09d0f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇷🇴罗马尼亚Kanal Jadid" tvg-logo="https://epg.112114.xyz/logo/🇷🇴罗马尼亚Kanal Jadid.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇷🇴罗马尼亚Kanal Jadid
+http://iptv.zkbhj.com/tv/url/go?id=fb81bb9b43e59961094aa63269613455f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇱🇦老挝LOOK THOONG TV HD" tvg-logo="https://epg.112114.xyz/logo/🇱🇦老挝LOOK THOONG TV HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇱🇦老挝LOOK THOONG TV HD
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇱🇦老挝Hmong Star TV" tvg-logo="https://epg.112114.xyz/logo/🇱🇦老挝Hmong Star TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇱🇦老挝Hmong Star TV
+http://iptv.zkbhj.com/tv/url/go?id=4feaf426ab2c3414a12910e0c7b7377ef2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇨🇭瑞士Couleur 3" tvg-logo="https://epg.112114.xyz/logo/🇨🇭瑞士Couleur 3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇨🇭瑞士Couleur 3
+http://iptv.zkbhj.com/tv/url/go?id=f7a5956bd68adc236551b69cbbc3543bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇦🇺澳大利亚2GB SYDNEY" tvg-logo="https://epg.112114.xyz/logo/🇦🇺澳大利亚2GB SYDNEY.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇦🇺澳大利亚2GB SYDNEY
+http://iptv.zkbhj.com/tv/url/go?id=09f8e2b6f395bdde601a600466f56558f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇯🇵日本映画" tvg-logo="https://epg.112114.xyz/logo/🇯🇵日本映画.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇯🇵日本映画
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇯🇵日本东映" tvg-logo="https://epg.112114.xyz/logo/🇯🇵日本东映.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇯🇵日本东映
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27#http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts#http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts#http://45.235.0.78:80/PLAYBOYTV-HD/index.m3u8#http://190.14.10.19:16000/play/a045/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/N8HKZ3DNUQKK2D/6242/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇯🇵日本日テレNEWS24" tvg-logo="https://epg.112114.xyz/logo/🇯🇵日本日テレNEWS24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇯🇵日本日テレNEWS24
+http://iptv.zkbhj.com/tv/url/go?id=729942d34e8518d7d5d61c380136549bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇪🇸西班牙DW Español Ⓢ" tvg-logo="https://epg.112114.xyz/logo/🇪🇸西班牙DW Español Ⓢ.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇪🇸西班牙DW Español Ⓢ
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇫🇮芬兰Alfa Ⓢ" tvg-logo="https://epg.112114.xyz/logo/🇫🇮芬兰Alfa Ⓢ.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇫🇮芬兰Alfa Ⓢ
+https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇨🇷哥斯达黎加Canal 8" tvg-logo="https://epg.112114.xyz/logo/🇨🇷哥斯达黎加Canal 8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇨🇷哥斯达黎加Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇧🇾白俄罗斯Radio HIT Orsk" tvg-logo="https://epg.112114.xyz/logo/🇧🇾白俄罗斯Radio HIT Orsk.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇧🇾白俄罗斯Radio HIT Orsk
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇳🇱荷兰Omrop Fryslân" tvg-logo="https://epg.112114.xyz/logo/🇳🇱荷兰Omrop Fryslân.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇳🇱荷兰Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇩印度尼西亚CNN Indonesia" tvg-logo="https://epg.112114.xyz/logo/🇮🇩印度尼西亚CNN Indonesia.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇩印度尼西亚CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇺🇦乌克兰KPBIM" tvg-logo="https://epg.112114.xyz/logo/🇺🇦乌克兰KPBIM.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇺🇦乌克兰KPBIM
+https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇬🇧英国Desi Plus" tvg-logo="https://epg.112114.xyz/logo/🇬🇧英国Desi Plus.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇬🇧英国Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇸🇬新加坡Channel News Asia" tvg-logo="https://epg.112114.xyz/logo/🇸🇬新加坡Channel News Asia.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇸🇬新加坡Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇶🇦卡塔尔Al Jazeera Arabic" tvg-logo="https://epg.112114.xyz/logo/🇶🇦卡塔尔Al Jazeera Arabic.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇶🇦卡塔尔Al Jazeera Arabic
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇵🇹葡萄牙Kuriakos Cine" tvg-logo="https://epg.112114.xyz/logo/🇵🇹葡萄牙Kuriakos Cine.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇵🇹葡萄牙Kuriakos Cine
+http://iptv.zkbhj.com/tv/url/go?id=1a2e5feef49364eb0d6876bf52df13c0f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇧🇩孟加拉国DESHI TV" tvg-logo="https://epg.112114.xyz/logo/🇧🇩孟加拉国DESHI TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇧🇩孟加拉国DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇹🇷土耳其TRT World" tvg-logo="https://epg.112114.xyz/logo/🇹🇷土耳其TRT World.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇹🇷土耳其TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇨🇦加拿大Global News" tvg-logo="https://epg.112114.xyz/logo/🇨🇦加拿大Global News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇨🇦加拿大Global News
+http://iptv.zkbhj.com/tv/url/go?id=188da1cd42026cce4e3c6fd900520b5bf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇹🇭泰国Thai PBS" tvg-logo="https://epg.112114.xyz/logo/🇹🇭泰国Thai PBS.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇹🇭泰国Thai PBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇹🇭泰国ASTV" tvg-logo="https://epg.112114.xyz/logo/🇹🇭泰国ASTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇹🇭泰国ASTV
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇹意大利Food Network" tvg-logo="https://epg.112114.xyz/logo/🇮🇹意大利Food Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇹意大利Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇹意大利A2itv" tvg-logo="https://epg.112114.xyz/logo/🇮🇹意大利A2itv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇹意大利A2itv
+http://iptv.zkbhj.com/tv/url/go?id=269ccbfcaddd5a80e4366cc007620dfff2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇿🇦南非Wild Earth" tvg-logo="https://epg.112114.xyz/logo/🇿🇦南非Wild Earth.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇿🇦南非Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇿🇦南非KZNTV" tvg-logo="https://epg.112114.xyz/logo/🇿🇦南非KZNTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇿🇦南非KZNTV
+http://iptv.zkbhj.com/tv/url/go?id=023c6f5c22ab16bc1522811c64e2ee48f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇷伊朗IMAM HUSSEIN TV" tvg-logo="https://epg.112114.xyz/logo/🇮🇷伊朗IMAM HUSSEIN TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇷伊朗IMAM HUSSEIN TV
+http://iptv.zkbhj.com/tv/url/go?id=bb8533acad61cc2dff6197ebee0c17b3f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇷伊朗SL 2" tvg-logo="https://epg.112114.xyz/logo/🇮🇷伊朗SL 2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇷伊朗SL 2
+http://iptv.zkbhj.com/tv/url/go?id=40d00fa8b0851918ea131a8d3516326ef2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇬🇷希腊Play TV" tvg-logo="https://epg.112114.xyz/logo/🇬🇷希腊Play TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇬🇷希腊Play TV
+http://iptv.zkbhj.com/tv/url/go?id=db5ea64393fca800733b26552d6eb188f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇬🇷希腊Action 24" tvg-logo="https://epg.112114.xyz/logo/🇬🇷希腊Action 24.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇬🇷希腊Action 24
+http://iptv.zkbhj.com/tv/url/go?id=4db03e9f679d9326568d74d500a9c5a4f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇪爱尔兰AVA Family" tvg-logo="https://epg.112114.xyz/logo/🇮🇪爱尔兰AVA Family.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇪爱尔兰AVA Family
+http://iptv.zkbhj.com/tv/url/go?id=6270d446d0cbc40f4be353e8013efc04f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇪爱尔兰PTE" tvg-logo="https://epg.112114.xyz/logo/🇮🇪爱尔兰PTE.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇪爱尔兰PTE
+http://iptv.zkbhj.com/tv/url/go?id=d4dd1ef144307e03186671c87f7bd80cf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇸🇴索马里Africable TV" tvg-logo="https://epg.112114.xyz/logo/🇸🇴索马里Africable TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇸🇴索马里Africable TV
+http://iptv.zkbhj.com/tv/url/go?id=f1de2b4929f01632961f5f97c5c3477ff2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇸🇴索马里Cherifla TV" tvg-logo="https://epg.112114.xyz/logo/🇸🇴索马里Cherifla TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇸🇴索马里Cherifla TV
+http://iptv.zkbhj.com/tv/url/go?id=ecc3baf428c12aa87ae23f80dd2d1cfbf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇦🇫阿富汗AFP" tvg-logo="https://epg.112114.xyz/logo/🇦🇫阿富汗AFP.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇦🇫阿富汗AFP
+http://iptv.zkbhj.com/tv/url/go?id=10d59bfa8f43d0fa3436a84f77910cabf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇦🇫阿富汗5AAB TV" tvg-logo="https://epg.112114.xyz/logo/🇦🇫阿富汗5AAB TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇦🇫阿富汗5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇧🇷巴西Classique TV" tvg-logo="https://epg.112114.xyz/logo/🇧🇷巴西Classique TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇧🇷巴西Classique TV
+http://iptv.zkbhj.com/tv/url/go?id=2a8cb45c3f7a32b8f3735e302938fa4ff2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇧🇷巴西KMKYV" tvg-logo="https://epg.112114.xyz/logo/🇧🇷巴西KMKYV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇧🇷巴西KMKYV
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇷🇺俄罗斯Astrakhan Sport" tvg-logo="https://epg.112114.xyz/logo/🇷🇺俄罗斯Astrakhan Sport.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇷🇺俄罗斯Astrakhan Sport
+http://iptv.zkbhj.com/tv/url/go?id=3cf26103fa35806de782cbf3d1454b2df2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇷🇺俄罗斯MIR" tvg-logo="https://epg.112114.xyz/logo/🇷🇺俄罗斯MIR.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇷🇺俄罗斯MIR
+http://iptv.zkbhj.com/tv/url/go?id=171f8e7331b3b2c5281f377ddfc445f4f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇷🇺俄罗斯Zvezda TV" tvg-logo="https://epg.112114.xyz/logo/🇷🇺俄罗斯Zvezda TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇷🇺俄罗斯Zvezda TV
+http://iptv.zkbhj.com/tv/url/go?id=6414b076391433933457f71277ba6947f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇶伊拉克Dijlah TV" tvg-logo="https://epg.112114.xyz/logo/🇮🇶伊拉克Dijlah TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇶伊拉克Dijlah TV
+https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇶伊拉克Al Sharqiya" tvg-logo="https://epg.112114.xyz/logo/🇮🇶伊拉克Al Sharqiya.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇶伊拉克Al Sharqiya
+http://iptv.zkbhj.com/tv/url/go?id=31c41d899589de3591b8ac0157fc3a26f2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇶伊拉克Sharqiya News" tvg-logo="https://epg.112114.xyz/logo/🇮🇶伊拉克Sharqiya News.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇶伊拉克Sharqiya News
+http://iptv.zkbhj.com/tv/url/go?id=22631bd2308603231957203b0436f7cdf2325e82e1723382000c25c9009b1449703a53d8cb741b92224765715d1a7388d43b8da7f422852ecf86f83de913c00f
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇰🇷韩国MBC" tvg-logo="https://epg.112114.xyz/logo/🇰🇷韩国MBC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇰🇷韩国MBC
+http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇰🇷韩国AriangTV" tvg-logo="https://epg.112114.xyz/logo/🇰🇷韩国AriangTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇰🇷韩国AriangTV
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇰🇷韩国GS Shop" tvg-logo="https://epg.112114.xyz/logo/🇰🇷韩国GS Shop.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇰🇷韩国GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇺🇸美国BOOMERANG" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国BOOMERANG.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇺🇸美国BOOMERANG
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇺🇸美国BratTV" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国BratTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇺🇸美国BratTV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇺🇸美国Fox weather" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Fox weather.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇺🇸美国Fox weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇺🇸美国Cable News Network" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Cable News Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇺🇸美国Cable News Network
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇺🇸美国Pac-12 Network" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Pac-12 Network.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇺🇸美国Pac-12 Network
+https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇺🇸美国Palm Beaches TV" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Palm Beaches TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇺🇸美国Palm Beaches TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇺🇸美国Brevard FL" tvg-logo="https://epg.112114.xyz/logo/🇺🇸美国Brevard FL.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇺🇸美国Brevard FL
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇳印度 Kappa TV" tvg-logo="https://epg.112114.xyz/logo/🇮🇳印度 Kappa TV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇳印度 Kappa TV
+https://cdn-3.pishow.tv/live/1123/master.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇳印度9Bharatvarsh" tvg-logo="https://epg.112114.xyz/logo/🇮🇳印度9Bharatvarsh.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇳印度9Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇳印度NDTV India" tvg-logo="https://epg.112114.xyz/logo/🇮🇳印度NDTV India.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇳印度NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="🌏全球直播" tvg-name="🇮🇳印度NDTV 24x7" tvg-logo="https://epg.112114.xyz/logo/🇮🇳印度NDTV 24x7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",🇮🇳印度NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
