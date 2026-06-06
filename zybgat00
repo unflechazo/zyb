@@ -188,7 +188,7 @@ http://115.44.143.127:18180/TV00000000000000000045@HHZT
 
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="香港",NOW新闻台
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="香港",NOW新闻台
+https://cdn.19891230.eu.org/hk/now-332/index.m3u8
 http://rihou.cc:555/tv/[Cx]Now新闻
 #EXTINF:-1 tvg-id="1" tvg-name="Now爆谷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now爆谷.png" group-title="香港",Now爆谷
 http://124.244.129.167:7007/0.ts
@@ -198,6 +198,10 @@ http://77.90.60.172:55555/1/
 #EXTINF:-1 tvg-id="1" tvg-name="Now星影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影.png" group-title="香港",Now星影
 http://124.244.129.167:7003/0.ts
 http://77.90.60.172:55555/2/
+#EXTINF:-1 tvg-id="1" tvg-name="Now直播台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now直播台.png" group-title="香港",Now直播台
+https://cdn.19891230.eu.org/hk/now-331/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="NOW财经台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NOW财经台.png" group-title="香港",NOW财经台
+https://cdn.19891230.eu.org/hk/now-333/index.m3u8
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png" group-title="香港",TVB亚洲武侠
 http://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 tvg-name="天映频道马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png" group-title="香港",天映频道
@@ -276,6 +280,7 @@ http://rihou.cc:555/tv/中天新闻
 http://77.90.60.172:55555/4/
 http://rihou.cc:555/tv/中天亚洲
 #EXTINF:-1 tvg-id="1" tvg-name="中天综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天综合.png" group-title="台湾",中天综合
+https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 http://rihou.cc:555/tv/中天综合
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS.png" group-title="台湾",TVBS
 http://dbmlasvgas.sylu.cc:8880/stream/13884e44-5dda-4fc9-9809-3aa05f166e51/playlist.m3u8
@@ -299,7 +304,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=55
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-name="民視影劇" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視影劇.png" group-title="台湾",民視影劇
 https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
-#EXTINF:-1 tvg-name="民視影劇" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視影劇.png" group-title="台湾",民視影劇
 http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 tvg-id="1" tvg-name="民视第一台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视第一台.png" group-title="台湾",民视第一台
 http://220.135.241.47:8309/0.ts
