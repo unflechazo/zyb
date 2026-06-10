@@ -1162,11 +1162,11 @@ iHOT爱体育,http://nas.yzs10000.com:17777/udp/239.94.1.143:5140
 华数4K,http://thhomes.cn:4000/rtp/239.3.1.236:2000
 华数4K,http://nas.yzs10000.com:17777/rtp/239.94.0.021:5140
 华数4K,http://yuwentao114.x3322.net:4022/udp/239.252.220.212:5140
-北京IPTV4K,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
+北京IPTV4K,http://route.079915.xyz:4022/rtp/239.3.1.249:8001
 北京IPTV4K,http://123.114.17.150:4000/udp/239.3.1.249:8001
-IPTV淘电影,http://api.kkhk.itv888.vip:8080/streams/6403327f992/index.m3u8
+IPTV淘电影,http://route.079915.xyz:4022/rtp/239.3.1.250:8001
 IPTV淘电影,http://r.xace.fun:4999/udp/239.3.1.250:8001
-IPTV淘电影,http://thhomes.cn:4000/rtp/239.3.1.250:8001
+IPTV淘电影,http://route.079915.xyz:4022/rtp/239.3.1.111:8001
 IPTV淘电影,http://123.114.17.150:4000/udp/239.3.1.250:8001
 IPTV淘电影,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.250:8001
 IPTV淘电影,http://route.079915.xyz:4022/rtp/239.3.1.250:8001
@@ -1175,9 +1175,11 @@ IPTV淘电影,http://route.alexex.fun:4022/rtp/239.3.1.250:8001
 IPTV淘电影,http://iptv.chen2912.online:4022/rtp/239.3.1.250:8001
 IPTV淘电影,http://gmk.ddns.wangbin.us:4022/rtp/239.3.1.250:8001
 IPTV淘剧场,http://r.xace.fun:4999/udp/239.3.1.95:8001
+IPTV淘剧场,http://route.079915.xyz:4022/rtp/239.3.1.95:8001
+IPTV淘剧场,http://route.079915.xyz:4022/rtp/239.3.1.112:8001
 IPTV淘剧场,http://thhomes.cn:4000/rtp/239.3.1.95:8001
 IPTV淘剧场,http://123.114.17.150:4000/udp/239.3.1.95:8001
-IPTV淘娱乐,http://r.xace.fun:4999/udp/239.3.1.100:8001
+IPTV淘娱乐,http://route.079915.xyz:4022/rtp/239.3.1.100:8001
 IPTV淘娱乐,http://thhomes.cn:4000/rtp/239.3.1.100:8001
 IPTV淘娱乐,http://123.114.17.150:4000/udp/239.3.1.100:8001
 IPTV淘BABY,http://r.xace.fun:4999/udp/239.3.1.238:8001
