@@ -546,12 +546,12 @@ DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 南京文旅,https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京少儿,https://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 南京18,https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-苏州新闻综合1,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州社会经济2,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州文化生活3,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州电影娱乐信息4,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-苏州生活资讯5,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-
+苏州综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8 
+苏州4K台,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 📺浙江,#genre#
 浙江新闻,http://l3.negative.video:50000/rtp/233.50.201.137:5140
 浙江民生,http://l3.negative.video:50000/rtp/233.50.201.136:5140
@@ -1027,6 +1027,10 @@ NBTV-4,http://zj-zb-lt.sohu.blog:7912/rtp/233.50.201.180:5140
 宜昌综合,http://219.139.43.49:44444/hls/4/index.m3u8
 重温经典-湖北宜昌市兴山县,http://219.139.43.49:44444/hls/5/index.m3u8
 兴山综合,http://219.139.43.49:44444/hls/6/index.m3u8
+宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
+井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 
 
 
