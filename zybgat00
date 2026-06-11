@@ -354,4 +354,15 @@ https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="大立电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大立电视台.png" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
+https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="高码率CCTV5",cctv5
+http://192.168.1.170:38766/cctv5.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="4KUHD-FIFA",cctv16-4k
+http://192.168.1.170:38766/cctv16.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="4KUHD-FIFA",cctv4k
+http://192.168.1.170:38766/cctv4k.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="8K频道",cctv8k
+http://192.168.1.170:38766/cctv8k.m3u8
 
