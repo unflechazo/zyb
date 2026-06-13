@@ -12,13 +12,9 @@ http://cdn6.163189.xyz/163189/ylxw
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png" group-title="香港",娱乐新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=36
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="香港",TVB无线新闻台
-http://115.44.140.170:18180/TV00000000000000000034@HHZT
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="香港",TVB无线新闻台
 http://120.234.44.98:18180/TV00000000000000000034@HHZT
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="香港",TVB无线新闻台
 http://120.234.11.131:18180/TV00000000000000000034@HHZT
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="香港",TVB无线新闻台
-https://flv-play.clouda.com/live/wxxw-PrjYXHNt8mryMgEqtujqXAFlhFyikJj6FxMLBgaPIvfG8jFcYPL1RDavsEcwOc7teWgx4EwkFM9xphPmgWpNN4.flv
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="香港",TVB无线新闻台
 http://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="1" tvg-name="有线新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/有线新闻台.png" group-title="香港",有线新闻台
@@ -28,25 +24,17 @@ http://wan1.tangwudi.cc:47859/rtp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="香港",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="香港",凤凰中文
-http://115.44.140.170:18180/TV00000000000000000008@HHZT
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="香港",凤凰中文
 http://120.234.44.98:18180/TV00000000000000000008@HHZT
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="香港",凤凰资讯
 http://wan1.tangwudi.cc:47859/rtp/239.94.2.49:5140
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="香港",凤凰资讯
-http://115.44.140.170:18180/TV00000000000000000009@HHZT
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="香港",凤凰资讯
 http://120.234.44.98:18180/TV00000000000000000009@HHZT
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="香港",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="香港",凤凰香港
-http://115.44.140.170:18180/TV00000000000000000024@HHZT
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://120.234.44.98:18180/TV00000000000000000024@HHZT
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="香港",凤凰香港
-https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰电影台.png" group-title="香港",凤凰电影台
 http://103.213.161.148:18180/TV00000000000000000072@HHZT
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台
@@ -58,11 +46,7 @@ http://cdn6.163189.xyz/163189/jade
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
 http://120.234.11.131:18180/TV00000000000000000032@HHZT
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
-http://115.44.140.170:18180/TV00000000000000000032@HHZT
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
 http://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
-http://122.100.242.52:12179/stream/channelid/614956956?profile=pass
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
@@ -75,12 +59,6 @@ https://o11.163189.xyz/stream/tvb/fct4k/#http://o11.163189.xyz/stream/tvb/fct4k/
 http://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="香港",TVB明珠台
 http://120.234.11.131:18180/TV00000000000000000035@HHZT
-#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="香港",TVB明珠台
-http://115.44.140.170:18180/TV00000000000000000035@HHZT
-#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="香港",TVB明珠台
-http://122.100.242.52:12179/stream/channelid/2051586642?profile=pass#http://67.220.71.199:2347/livehttpplay?channel_id=20125#http://67.220.71.199:2347/livehttpplay?channel_id=30026#https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="香港",TVB明珠台
-https://flv-play.clouda.com/live/mz-dnyjgkXIxzCPvOCTONq8y8kIGcBB5GC4Kx9LOcL6lz8omT5vej9YY3gaCDTOndbkl9UQUGJvriuccFaiCTplkj.flv
 #EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="香港",TVB明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=29
 #EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="香港",TVB明珠台
@@ -140,30 +118,20 @@ http://smteu.huayitv.vip:8080/livehttpplay?channel_id=13022
 #EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="香港",myTV SUPER亚洲剧
 http://67.220.71.199:2347/livehttpplay?channel_id=13022
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="香港",TVB PLUS
-http://122.100.242.52:12179/stream/channelid/2134513294?profile=pass
-#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="香港",TVB PLUS
 https://flv-play.clouda.com/live/tvb-2VHDPgWQ8xRwBFCabyiXImeAHX2KhGA3QCIqMzGFsc0lipfw0Pw9wNG6qOG8LADAiIEGqo9DbPIdLsxBxyFpNA.flv
-#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="香港",TVB PLUS
 http://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="香港",TVB PLUS
 http://67.220.71.199:2347/livehttpplay?channel_id=30023
-#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="香港",TVB PLUS
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="香港",HOYTV
 http://cdn6.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="香港",HOYTV
 http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-name="HOY国际财经" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/HOY国际财经.png" group-title="香港",HOY国际财经台
 https://cdn11.163189.xyz/163189/2c86601a7180416e
 #EXTINF:-1 tvg-name="HOY资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="香港",HOY资讯台
 http://120.234.11.131:18180/TV00000000000000000088@HHZT
-#EXTINF:-1 tvg-name="HOY资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="香港",HOY资讯台
 http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTV.png" group-title="香港",VIUTV
 http://120.234.44.98:18180/TV00000000000000000037@HHZT
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTV.png" group-title="香港",VIUTV
-http://115.44.140.170:18180/TV00000000000000000037@HHZT
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTV.png" group-title="香港",VIUTV
 http://67.220.71.199:2347/livehttpplay?channel_id=20131#http://67.220.71.199:2347/livehttpplay?channel_id=30032#https://cdn10.163189.xyz/stream/163189/viu/
 #EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTVsix.png" group-title="香港",VIUTVSIX
 http://120.234.44.98:18180/TV00000000000000000084@HHZT
@@ -171,8 +139,6 @@ http://120.234.44.98:18180/TV00000000000000000084@HHZT
 http://67.220.71.199:2347/livehttpplay?channel_id=20132#http://67.220.71.199:2347/livehttpplay?channel_id=30033#https://cdn10.163189.xyz/stream/163189/viu6/
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="香港",RTHK 31
 http://120.234.11.131:18180/TV00000000000000000019@HHZT
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="香港",RTHK 31
-http://115.44.140.170:18180/TV00000000000000000019@HHZT
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="香港",RTHK 31
 http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 32.png" group-title="香港",RTHK 32
@@ -183,7 +149,6 @@ http://115.44.140.170:18180/TV00000000000000000017@HHZT
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 35.png" group-title="香港",RTHK 35
 http://115.44.143.127:18180/TV00000000000000000045@HHZT
-
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="香港",NOW新闻台
 http://cdn.163189.xyz/163189/now
 https://cdn.19891230.eu.org/hk/now-332/index.m3u8
