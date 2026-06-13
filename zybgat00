@@ -317,6 +317,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="1" tvg-name="大立电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大立电视台.png" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
+#EXTINF:-1 tvg-id="1" tvg-name="SBS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SBS.png" group-title="台湾",SBS
 SBS,http://103.79.187.237:8080/memfs/a87f06ca-0675-40c1-87d4-0697786b52db.m3u8
 
