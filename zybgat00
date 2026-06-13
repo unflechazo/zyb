@@ -139,16 +139,12 @@ http://120.234.44.98:18180/TV00000000000000000084@HHZT
 http://67.220.71.199:2347/livehttpplay?channel_id=20132#http://67.220.71.199:2347/livehttpplay?channel_id=30033#https://cdn10.163189.xyz/stream/163189/viu6/
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="香港",RTHK 31
 http://120.234.11.131:18180/TV00000000000000000019@HHZT
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="香港",RTHK 31
 http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 32.png" group-title="香港",RTHK 32
 http://120.234.11.131:18180/TV00000000000000000017@HHZT
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 32.png" group-title="香港",RTHK 32
-http://115.44.140.170:18180/TV00000000000000000017@HHZT
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 32.png" group-title="香港",RTHK 32
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 35.png" group-title="香港",RTHK 35
-http://115.44.143.127:18180/TV00000000000000000045@HHZT
+
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="香港",NOW新闻台
 http://cdn.163189.xyz/163189/now
 https://cdn.19891230.eu.org/hk/now-332/index.m3u8
@@ -229,6 +225,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 tvg-id="1" tvg-name="东森综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森综合.png" group-title="台湾",东森综合
 http://iptv.4666888.xyz/iptv2A.php?id=58
 #EXTINF:-1 tvg-id="1" tvg-name="东森新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森新闻.png" group-title="台湾",东森新闻
+
 http://103.79.187.237:8080/memfs/5c6c20db-7846-4934-b4e2-5e83d3b08d58.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="华视新闻资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视新闻资讯.png" group-title="台湾",华视新闻资讯
 http://220.135.241.47:8319/0.ts
@@ -321,13 +318,5 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
-https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
-#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="高码率CCTV5",cctv5
-http://192.168.1.170:38766/cctv5.m3u8
-#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="4KUHD-FIFA",cctv16-4k
-http://192.168.1.170:38766/cctv16.m3u8
-#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="4KUHD-FIFA",cctv4k
-http://192.168.1.170:38766/cctv4k.m3u8
-#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="8K频道",cctv8k
-http://192.168.1.170:38766/cctv8k.m3u8
+SBS,http://103.79.187.237:8080/memfs/a87f06ca-0675-40c1-87d4-0697786b52db.m3u8
 
