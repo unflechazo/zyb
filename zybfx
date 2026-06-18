@@ -991,6 +991,16 @@ NBTV-4,http://zj-zb-lt.sohu.blog:7912/rtp/233.50.201.180:5140
 海南少儿,http://47.108.20.161:8866/hainan/hainan.php?id=sepd
 海南少儿,https://tv1288.xyz/hainantv.php?proxy=1&id=sepd
 
+📺安徽,#genre#
+安庆经济生活,http://60.175.47.78:8480/hls/28/index.m3u8
+安庆综合,http://60.175.47.78:8480/hls/27/index.m3u8
+安徽公共,http://60.175.47.78:8480/hls/31/index.m3u8
+安徽影视,http://60.175.47.78:8480/hls/35/index.m3u8
+安徽经济生活,http://60.175.47.78:8480/hls/34/index.m3u8
+安徽综艺体育,http://60.175.47.78:8480/hls/32/index.m3u8
+安徽衣业科教,http://60.175.47.78:8480/hls/29/index.m3u8
+宜秀有线,http://60.175.47.78:8480/hls/26/index.m3u8
+
 
 
 📺其他,#genre#
@@ -1309,7 +1319,7 @@ CHC动作电影,http://zczb.aylzline.top:8899/rtp/225.1.2.215:11428
 中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
 影迷数位电影,https://cdn12.178.indevs.in/163189/a643783ec587540e
 经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
-重温经典,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8
+重温经典,http://60.175.47.78:8480/hls/50/index.m3u8
 amc,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
