@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
 #EXTINF:-1 tvg-id="1" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="香港",CNA
-http://103.213.161.148:18180/TV00000000000000000071@HHZT
 #EXTINF:-1 tvg-id="1" tvg-name="环球电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视台.png" group-title="香港",环球电视台
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/香港卫视.png" group-title="香港",香港卫视
@@ -153,7 +152,7 @@ http://77.90.60.172:55555/1/
 #EXTINF:-1 tvg-id="1" tvg-name="Now星影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影.png" group-title="香港",Now星影
 http://124.244.129.167:7003/0.ts
 http://77.90.60.172:55555/2/
-#EXTINF:-1 tvg-id="1" tvg-name="Now直播台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now直播台.png" group-title="香港",Now直播台
+#EXTINF:-1 tvg-id="1" tvg-name="NOW直播台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NOW直播台.png" group-title="香港",NOW直播台
 https://cdn.19891230.eu.org/hk/now-331/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="NOW财经台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NOW财经台.png" group-title="香港",NOW财经台
 https://cdn.19891230.eu.org/hk/now-333/index.m3u8
@@ -279,7 +278,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS台剧.png" group-title="台湾",TVBS台剧
 http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 http://iptv.4666888.xyz/iptv2A.php?id=58
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS欢乐台.png" group-title="台湾",TVBS欢乐台
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS欢乐台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS欢乐台.png" group-title="台湾",TVBS欢乐台
 http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="华艺中文台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华艺中文台.png" group-title="台湾",华艺中文台
 http://iptv.4666888.xyz/iptv2A.php?id=37
@@ -357,11 +356,11 @@ http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
 http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="靖天综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天综合台.png" group-title="台湾",靖天综合台
 http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-id="1" tvg-name="NiceTV靖天欢乐台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NiceTV靖天欢乐台.png" group-title="台湾",NiceTV靖天欢乐台
+#EXTINF:-1 tvg-id="1" tvg-name="Nice TV 靖天欢乐台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nice TV 靖天欢乐台.png" group-title="台湾",Nice TV 靖天欢乐台
 http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="靖洋戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖洋戏剧台.png" group-title="台湾",靖洋戏剧台
 https://cdn12.178.indevs.in/163189/jyxj
-#EXTINF:-1 tvg-id="1" tvg-name="三立新闻iNEWS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻iNEWS.png" group-title="台湾",三立新闻iNEWS
+#EXTINF:-1 tvg-id="1" tvg-name="三立新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻台.png" group-title="台湾",三立新闻台
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="三立综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立综合台.png" group-title="台湾",三立综合台
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
