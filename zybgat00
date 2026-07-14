@@ -133,20 +133,15 @@ https://cdn.qd.je/163189/rthk32
 https://cdn.qd.je/163189/now
 http://rihou.cc:555/tv/[Cx]Now新闻
 #EXTINF:-1 tvg-id="1" tvg-name="Now爆谷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now爆谷.png" group-title="香港",Now爆谷
-http://124.244.129.167:7007/0.ts
-http://qingyi.7766.org:7007/0.ts
-http://124.244.129.167:7007/0.ts
-http://77.90.60.172:55555/1/
+
 #EXTINF:-1 tvg-id="1" tvg-name="Now星影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影.png" group-title="香港",Now星影
-http://124.244.129.167:7003/0.ts
-http://77.90.60.172:55555/2/
+
 #EXTINF:-1 tvg-id="1" tvg-name="NOW直播台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NOW直播台.png" group-title="香港",NOW直播台
-https://cdn.19891230.eu.org/hk/now-331/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="NOW财经台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NOW财经台.png" group-title="香港",NOW财经台
-https://cdn.19891230.eu.org/hk/now-333/index.m3u8
+
 #EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png" group-title="香港",TVB亚洲武侠
 https://cdn.qd.je/163189/yzwx
-http://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 tvg-name="天映频道马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png" group-title="香港",天映频道
 https://cdn.qd.je/163189/typd
 https://cdn3.indevs.in/stream/live/typd/
@@ -215,15 +210,15 @@ https://cdn6.cc.cd/163189/ch8
 #EXTINF:-1 tvg-name="CHANNELU" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNELU.png" group-title="香港",CHANNEL U
 https://cdn.qd.je/163189/chu
 https://cdn6.cc.cd/163189/chu
-#EXTINF:-1 tvg-name="澳视澳门" group-title="mytv",澳视澳门
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视澳门.png" group-title="香港",澳视澳门
 https://cdn.qd.je/163189/asam
-#EXTINF:-1 tvg-name="澳视卫星" group-title="mytv",澳视卫星
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视卫星.png" group-title="香港",澳视卫星
 https://cdn.qd.je/163189/as
-#EXTINF:-1 tvg-name="澳视体育" group-title="mytv",澳门体育
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门体育.png" group-title="香港",澳门体育
 https://cdn.qd.je/163189/amty
-#EXTINF:-1 tvg-name="澳视综艺" group-title="mytv",澳门综艺
+#EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视综艺.png" group-title="香港",澳视综艺
 https://cdn.qd.je/163189/amzy
-#EXTINF:-1 tvg-name="澳门莲花" group-title="mytv",澳门莲花
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门莲花.png" group-title="香港",澳门莲花
 https://cdn.qd.je/163189/amlh
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/重温经典.png" group-title="香港",重温经典
 http://cdn6.163189.xyz/163189/cwjd
@@ -276,7 +271,7 @@ http://rihou.cc:555/tv/[FY]tvbS新闻
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS综艺台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS综艺台.png" group-title="台湾",TVBS综艺台
 http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS精采.png" group-title="台湾",TVBS精采
-http://00123.168ro.top:44345/4gtv-4gtv067/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
+
 http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
 http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS台剧.png" group-title="台湾",TVBS台剧
@@ -303,13 +298,13 @@ http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
 https://cdn12.178.indevs.in/163189/msyj
 http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 tvg-id="1" tvg-name="民视第一台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视第一台.png" group-title="台湾",民视第一台
-http://00123.168ro.top:44345/4gtv-4gtv003/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
+
 http://220.135.241.47:8309/0.ts
 http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="民视台湾台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视台湾台.png" group-title="台湾",民视台湾台
 http://220.135.241.47:8311/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="民视旅游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/v.png" group-title="台湾",民视旅游
-http://00123.168ro.top:44345/litv-ftv07/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
+
 #EXTINF:-1 tvg-name="台視" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/台視.png" group-title="台湾",台視
 http://220.135.241.47:8313/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾",台视新闻
@@ -319,7 +314,6 @@ http://220.135.241.47:8315/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="台视综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视综合.png" group-title="台湾",台视综合
 http://220.135.241.47:8316/0.ts
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中视新闻.png" group-title="台湾",中视新闻
-http://00123.168ro.top:44345/4gtv-4gtv074/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
 http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 http://103.79.187.237:8080/memfs/00b944e3-b266-4c58-affd-da93ab30bf9d.m3u8
 http://rihou.cc:555/tv/中视新闻 
@@ -349,9 +343,9 @@ http://220.135.241.47:8303/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="客家電視" tvg-logo="https://www.xn--rgv465a.top/tvlogo/客家電視.png" group-title="台湾",客家電視
 http://220.135.241.47:8307/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="KLT靖天国际台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/KLT靖天国际台.png" group-title="台湾",KLT靖天国际台
-http://00123.168ro.top:44345/4gtv-4gtv063/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
+
 #EXTINF:-1 tvg-id="1" tvg-name="靖天卡通台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天卡通台.png" group-title="台湾",靖天卡通台
-http://00123.168ro.top:44345/4gtv-4gtv044/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
+
 #EXTINF:-1 tvg-id="1" tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="台湾",靖天映画
 https://cdn.qd.je/163189/jtyh
 https://cdn12.178.indevs.in/163189/jtyh
@@ -400,19 +394,17 @@ https://cdn.qd.je/163189/cinemaworld
 https://cdn.qd.je/163189/mce
 #EXTINF:-1 tvg-id="1" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典电影.png" group-title="电影",经典电影
 https://cdn.qd.je/163189/jddyt
-#EXTINF:-1 tvg-id="1" tvg-name="CMusic" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CMusic.png" group-title="电影",CMusic
+#EXTINF:-1 tvg-id="1" tvg-name="电影原声台CMUSIC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影原声台CMUSIC.png" group-title="电影",电影原声台CMUSIC
 https://cdn.qd.je/163189/cmusic
-#EXTINF:-1 tvg-name="纬来电影台" group-title="电影",纬来电影台
+#EXTINF:-1 tvg-id="1" tvg-name="纬来电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影台.png" group-title="电影",纬来电影台
 https://cdn.qd.je/163189/wldy
-#EXTINF:-1 tvg-name="纬来戏剧台" group-title="电影",纬来戏剧台
+#EXTINF:-1 tvg-id="1" tvg-name="纬来戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来戏剧台.png" group-title="电影",纬来戏剧台
 https://cdn.qd.je/163189/wlxj
-#EXTINF:-1 tvg-name="纬来体育台" group-title="电影",纬来体育台
-https://cdn.qd.je/163189/wlty
-#EXTINF:-1 tvg-name="龙祥时代" group-title="电影",龙祥时代
+#EXTINF:-1 tvg-id="1" tvg-name="龙祥时代" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥时代.png" group-title="电影",龙祥时代
 https://cdn.qd.je/163189/lxsd
-#EXTINF:-1 tvg-name="东森电影" group-title="电影",东森电影
+#EXTINF:-1 tvg-id="1" tvg-name="东森电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森电影.png" group-title="电影",东森电影
 https://cdn.qd.je/163189/dsdy
-#EXTINF:-1 tvg-name="东森戏剧" group-title="电影",东森戏剧
+#EXTINF:-1 tvg-id="1" tvg-name="东森戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森戏剧.png" group-title="电影",东森戏剧
 https://cdn.qd.je/163189/dsxj
-#EXTINF:-1 tvg-name="东森洋片" group-title="电影",东森洋片
+#EXTINF:-1 tvg-id="1" tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="电影",东森洋片
 https://cdn.qd.je/163189/dsyp
