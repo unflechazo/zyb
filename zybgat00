@@ -37,13 +37,13 @@ http://cdn6.163189.xyz/163189/fhhk
 http://103.213.161.148:18180/TV00000000000000000072@HHZT
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台
 https://cdn.qd.je/163189/jade
-https://cdn.qd.je/163189/jade2
-https://cdn.qd.je/163189/hlfct
-https://cdn3.indevs.in/stream/live/hlt/
-https://cdn3.indevs.in/stream/live/jade/
 https://cdn6.cc.cd/163189/jade
+#EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台壹
+https://cdn.qd.je/163189/jade2
+https://cdn3.indevs.in/stream/live/hlt/
+#EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台贰
+https://cdn.qd.je/163189/hlfct
 https://cdn6.cc.cd/163189/hlfct
-
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="香港",TVB翡翠台
 https://cdn.qd.je/163189/fct
 https://cdn.qd.je/163189/fct2
