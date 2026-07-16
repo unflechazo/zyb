@@ -208,7 +208,6 @@ rtsp://10.11.43.21/PLTV/88888912/224/3221226595/10000100000000060000000001126563
 rtsp://10.11.43.21/PLTV/88888912/224/3221226599/10000100000000060000000001126561_0.smil
 #EXTINF:0 CUID="185" tvg-name="呼伦贝尔新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古呼伦贝尔新闻综合.png" group-title="内蒙古频道",呼伦贝尔新闻综合
 rtsp://10.11.43.21/PLTV/88888912/224/3221226590/10000100000000060000000001125948_0.smil
-rtsp://10.11.43.21/PLTV/88888912/224/3221226581/10000100000000060000000001126189_0.smil
 #EXTINF:0 CUID="186" tvg-name="呼伦贝尔文化旅游" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古呼伦贝尔文化旅游.png" group-title="内蒙古频道",呼伦贝尔文化旅游
 rtsp://10.11.43.21/PLTV/88888912/224/3221226575/10000100000000060000000001125947_0.smil
 #EXTINF:0 CUID="184" tvg-name="呼伦贝尔生活资讯" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古呼伦贝尔生活资讯.png" group-title="内蒙古频道",呼伦贝尔生活资讯
