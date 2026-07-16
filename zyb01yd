@@ -281,17 +281,17 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 #EXTINF:0 CUID="215" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/游戏风云.png" group-title="其它",游戏风云
 http://39.136.35.18:6610/000000001000/5000000011000031114/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/第一财经.png" group-title="其它",第一财经
-第一财经,http://39.136.35.15:6610/000000001000/5000000010000027146/index.m3u8?fmt=ts2hls
+http://39.136.35.15:6610/000000001000/5000000010000027146/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/东方财经.png" group-title="其它",东方财经
-东方财经,http://39.136.35.15:6610/000000001000/5000000007000010003/index.m3u8?fmt=ts2hls
+http://39.136.35.15:6610/000000001000/5000000007000010003/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/快乐垂钓.png" group-title="其它",快乐垂钓
-快乐垂钓,http://39.136.35.18:6610/000000001000/5000000011000031206/index.m3u8?fmt=ts2hls
+http://39.136.35.18:6610/000000001000/5000000011000031206/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/茶频道.png" group-title="其它",茶频道
-茶频道,http://39.136.35.18:6610/000000001000/5000000011000031209/index.m3u8?fmt=ts2hls
-#EXTINF:0 CUID="215" tvg-name="乐游频道" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/乐游频道.png" group-title="其它",乐游频道
-乐游频道,http://39.136.35.18:6610/000000001000/5000000011000031112/index.m3u8?fmt=ts2hls
+http://39.136.35.18:6610/000000001000/5000000011000031209/index.m3u8?fmt=ts2hls
+#EXTINF:0 CUID="215" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/乐游.png" group-title="其它",乐游
+http://39.136.35.18:6610/000000001000/5000000011000031112/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/生活时尚.png" group-title="其它",生活时尚
-生活时尚,http://39.136.35.18:6610/000000001000/5000000002000019634/index.m3u8?fmt=ts2hls
+http://39.136.35.18:6610/000000001000/5000000002000019634/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/金色学堂.png" group-title="其它",金色学堂
-金色学堂,http://39.136.35.18:6610/000000001000/5000000010000026105/index.m3u8?fmt=ts2hls
+http://39.136.35.18:6610/000000001000/5000000010000026105/index.m3u8?fmt=ts2hls
 
