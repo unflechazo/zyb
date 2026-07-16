@@ -11,7 +11,7 @@ http://sckonlan.youankj.cn:8888/rtp/239.94.1.173:5140
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.175:5140
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱上4K.png" group-title="电影",爱上4K
 http://sckonlan.youankj.cn:8888/rtp/239.94.0.21:5140
-#EXTINF:-1 tvg-id="1" tvg-name="4K乐享超清" tvg-logo="https://www.xn--rgv465a.top/tvlogo/4K乐享超清.png" group-title="电影",4K乐享超清
+#EXTINF:-1 tvg-id="1" tvg-name="4K乐享超清" tvg-logo="https://www.xn--rgv465a.top/tvlogo/4k乐享.png" group-title="电影",4K乐享超清
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.162:5140
 #EXTINF:-1 tvg-name="绚影4K" tvg-logo="https://raw.githubusercontent.com/rain12335/logo/main/tv/绚影4K.png" group-title="电影",绚影4K
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.150:5140
