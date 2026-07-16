@@ -1,28 +1,9 @@
-体育,#genre#
-cctv5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
-cctv5p,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
-cctv16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
-cctv4k,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
-cctv8k,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
-cctv5-av3a,http://82.156.243.185:36888/av3a/cctv5.m3u8
-cctv5p-av3a,http://82.156.243.185:36888/av3a/cctv5p.m3u8
-cctv16-av3a,http://82.156.243.185:36888/av3a/cctv16.m3u8
-cctv4k-av3a,http://82.156.243.185:36888/av3a/cctv4k.m3u8
-cctv8k-av3a,http://82.156.243.185:36888/av3a/cctv8k.m3u8
-
 特区,#genre#
-娱乐新闻,http://cdn6.163189.xyz/163189/ylxw
-无线新闻台,http://cdn6.163189.xyz/163189/wxxw
 凤凰卫视中文,http://sckonlan.youankj.cn:8888/rtp/239.94.2.51:5140
 凤凰卫视资讯,http://sckonlan.youankj.cn:8888/rtp/239.94.2.49:5140
 凤凰卫视香港,http://cdn6.163189.xyz/163189/fhhk
-星空卫视,http://sckonlan.youankj.cn:8888/rtp/239.94.2.53:5140
 TVB翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-澳视综艺,http://cdn6.163189.xyz/163189/amzy
-澳门莲花,http://cdn6.163189.xyz/163189/amlh
-澳视MACAU,http://cdn6.163189.xyz/163189/as
+
 电影,#genre#
 精彩影视1,http://sckonlan.youankj.cn:8888/rtp/239.94.1.172:5140
 精彩导视2,http://sckonlan.youankj.cn:8888/rtp/239.94.2.10:5140
@@ -35,6 +16,9 @@ BesTV4K电影,http://nas.yzs10000.com:17777/rtp/239.94.1.60:5140
 BesTV4K纪实,http://wan1.tangwudi.cc:47859/udp/239.94.1.69:5140
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 内蒙动作电影,http://111.56.121.176:80/050000001888/5000000188800000190/index.m3u8
+淘电影,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.250:8001
+淘剧场,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.95:8001
+淘娱乐,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.100:8001
 
 北京,#genre#
 北京新闻,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.159:8000
@@ -51,9 +35,6 @@ BesTV4K纪实,http://wan1.tangwudi.cc:47859/udp/239.94.1.69:5140
 北京房山,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.96:8001
 北京通州,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.221:8001
 北京门头沟,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.59:8001
-淘电影,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.250:8001
-淘剧场,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.95:8001
-淘娱乐,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.100:8001
 淘baby,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.238:8001
 萌宠TV,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.102:8001
 睛彩竞技,http://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/rtp/239.3.1.125:8001
@@ -70,22 +51,6 @@ BesTV4K纪实,http://wan1.tangwudi.cc:47859/udp/239.94.1.69:5140
 江苏新闻,http://www.frankgb.cn:4022/rtp/239.49.8.120:8000
 江苏教育,http://www.frankgb.cn:4022/rtp/239.49.8.122:8000
 江苏国际,http://www.frankgb.cn:4022/rtp/239.49.1.23:6000
-
-
-
-
-
-
-
-河北,#genre#
-河北卫视,http://60.10.139.113:8801/hls/16/index.m3u8
-河北影视剧,http://60.10.139.113:8801/hls/42/index.m3u8
-河北幼儿科教,http://60.10.139.113:8801/hls/43/index.m3u8
-河北经济生活,http://60.10.139.113:8801/hls/40/index.m3u8
-河北都市,http://60.10.139.113:8801/hls/41/index.m3u8
-河北农民,http://60.10.139.113:8801/hls/45/index.m3u8
-廊坊生活,http://60.10.139.113:8801/hls/49/index.m3u8
-睛彩河北,http://60.10.139.113:8801/hls/46/index.m3u8
 
 
 内蒙古,#genre#
@@ -199,6 +164,8 @@ CCTV-电视指南,http://111.56.121.176:80/050000001888/5000000188800000164/inde
 内蒙精彩纪实,http://111.56.121.176:80/050000001888/5000000188800000187/index.m3u8
 内蒙综艺天地,http://111.56.121.176:80/050000001888/5000000188800000188/index.m3u8
 内蒙情感大剧,http://111.56.121.176:80/050000001888/5000000188800000189/index.m3u8
+
+
  浙江杭州市,#genre#
 CCTV1综合,http://47.110.243.216:7088/央视/CCTV1综合
 CCTV2财经,http://47.110.243.216:7088/央视/CCTV2财经
