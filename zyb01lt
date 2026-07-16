@@ -10,6 +10,22 @@ rtsp://10.11.43.21/PLTV/88888912/224/3221226792/514021991.smil
 rtsp://10.11.43.21/PLTV/88888912/224/3221226723/520196039.smil
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视4K.png" group-title="4K频道",深圳卫视-4K
 rtsp://10.11.43.21/PLTV/88888912/224/3221226762/520196043.smil
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视4K.png" group-title="4K频道",浙江卫视-4K
+rtsp://10.11.43.21/PLTV/88888912/224/3221226743/527371997.smil
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视4K.png" group-title="4K频道",东方卫视-4K
+rtsp://10.11.43.21/PLTV/88888912/224/3221226770/527371993.smil
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视4K.png" group-title="4K频道",江苏卫视-4K
+rtsp://10.11.43.21/PLTV/88888912/224/3221226761/527371567.smil
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视4K.png" group-title="4K频道",四川卫视-4K
+rtsp://10.11.43.21/PLTV/88888912/224/3221226774/527563930.smil
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视4K.png" group-title="4K频道",山东卫视-4K
+rtsp://10.11.43.21/PLTV/88888912/224/3221226796/527563879.smil
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="4K频道",北京卫视4K超高清25p
+rtsp://10.11.43.21/PLTV/88888912/224/3221226792/514021991.smil
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视4K.png" group-title="4K频道",湖南卫视-4K
+rtsp://10.11.43.21/PLTV/88888912/224/3221226766/527371999.smil
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV1
 rtsp://10.11.43.21/PLTV/88888912/224/3221226446/10000100000000060000000000870185_0.smil
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV2
