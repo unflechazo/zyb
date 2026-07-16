@@ -211,12 +211,12 @@ rtsp://10.11.43.21/PLTV/88888912/224/3221226632/10000100000000060000000001126452
 rtsp://10.11.43.21/PLTV/88888912/224/3221226608/10000100000000060000000001126186_0.smil
 #EXTINF:0 CUID="208" tvg-name="乌兰察布经济生活" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古乌兰察布经济生活.png" group-title="内蒙古频道",乌兰察布经济生活
 rtsp://10.11.43.21/PLTV/88888912/224/3221226579/10000100000000060000000001126187_0.smil
-#EXTINF:0 CUID="209" tvg-name="兴安盟影视娱乐" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古兴安盟影视娱乐.png" group-title="内蒙古频道",兴安盟影视娱乐
-rtsp://10.11.43.21/PLTV/88888912/224/3221226606/10000100000000060000000001126808_0.smil
-#EXTINF:0 CUID="210" tvg-name="兴安盟文化旅游" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古兴安盟文化旅游.png" group-title="内蒙古频道",兴安盟文化旅游
-rtsp://10.11.43.21/PLTV/88888912/224/3221226644/10000100000000060000000001126809_0.smil
 #EXTINF:0 CUID="211" tvg-name="兴安盟新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古兴安盟新闻综合.png" group-title="内蒙古频道",兴安盟新闻综合
 rtsp://10.11.43.21/PLTV/88888912/224/3221226605/10000100000000060000000001126810_0.smil
+#EXTINF:0 CUID="210" tvg-name="兴安盟文化旅游" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古兴安盟文化旅游.png" group-title="内蒙古频道",兴安盟文化旅游
+rtsp://10.11.43.21/PLTV/88888912/224/3221226644/10000100000000060000000001126809_0.smil
+#EXTINF:0 CUID="209" tvg-name="兴安盟影视娱乐" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古兴安盟影视娱乐.png" group-title="内蒙古频道",兴安盟影视娱乐
+rtsp://10.11.43.21/PLTV/88888912/224/3221226606/10000100000000060000000001126808_0.smil
 #EXTINF:0 CUID="212" tvg-name="阿拉善新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古阿拉善新闻综合.png" group-title="内蒙古频道",阿拉善新闻综合
 rtsp://10.11.43.21/PLTV/88888912/224/3221226573/10000100000000060000000001125899_0.smil
 #EXTINF:0 CUID="214" tvg-name="苏尼特右旗电视台" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古苏尼特右旗电视台.png" group-title="内蒙古频道",苏尼特右旗电视台
