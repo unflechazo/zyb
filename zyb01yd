@@ -159,10 +159,9 @@ http://39.136.35.18:6610/000000001000/5000000004000007275/index.m3u8?fmt=ts2hls
 http://39.136.35.18:6610/000000001000/5000000011000031111/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/上海都市.png" group-title="卫视频道",上海都市
 http://39.136.35.15:6610/000000001000/5000000010000018926/index.m3u8?fmt=ts2hls
-#EXTINF:0 CUID="215" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/动漫秀场.png" group-title="卫视频道",动漫秀场
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动漫秀场.png" group-title="卫视频道",动漫秀场
 http://39.136.35.18:6610/000000001000/5000000011000031113/index.m3u8?fmt=ts2hls
-#EXTINF:0 CUID="215" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/哈哈炫动.png" group-title="卫视频道",哈哈炫动
-http://39.136.35.18:6610/000000001000/5000000011000031123/index.m3u8?fmt=ts2hls
+
 
 
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV央视台球.png" group-title="数字频道",CCTV央视台球
@@ -222,7 +221,8 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 
 #EXTINF:0 CUID="197" tvg-name="包头生活服务" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古包头生活服务.png" group-title="内蒙古频道",包头生活服务
 
-#EXTINF:0 CUID="197" tvg-name="包头经济" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古包头经济.png" group-title="内蒙古频道",包头经济
+
+#EXTINF:0 CUID="197" tvg-name="包头经济" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/包头经济.png" group-title="内蒙古频道",包头经济
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225835/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="193" tvg-name="鄂尔多斯新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古鄂尔多斯新闻综合.png" group-title="内蒙古频道",鄂尔多斯新闻综合
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225835/1.m3u8?fmt=ts2hls
@@ -249,7 +249,7 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 #EXTINF:0 CUID="186" tvg-name="呼伦贝尔文化旅游" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古呼伦贝尔文化旅游.png" group-title="内蒙古频道",呼伦贝尔文化旅游
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225934/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="184" tvg-name="呼伦贝尔生活资讯" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古呼伦贝尔生活资讯.png" group-title="内蒙古频道",呼伦贝尔生活资讯
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225935/1.m3u8?fmt=ts2hls
+
 #EXTINF:0 CUID="187" tvg-name="赤峰影视娱乐" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古赤峰影视娱乐.png" group-title="内蒙古频道",赤峰影视娱乐
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225819/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="188" tvg-name="赤峰经济服务" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古赤峰经济服务.png" group-title="内蒙古频道",赤峰经济服务
@@ -276,7 +276,7 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 
 #EXTINF:0 CUID="214" tvg-name="苏尼特右旗电视台" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古苏尼特右旗电视台.png" group-title="内蒙古频道",苏尼特右旗电视台
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225839/1.m3u8?fmt=ts2hls
-#EXTINF:0 CUID="214" tvg-name="苏尼特左旗电视台" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古苏尼特左旗电视台.png" group-title="内蒙古频道",苏尼特左旗电视台
+#EXTINF:0 CUID="214" tvg-name="苏尼特左旗电视台" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古苏尼特右旗电视台.png" group-title="内蒙古频道",苏尼特左旗电视台
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225797/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="满洲里电视台" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古满洲里电视台.png" group-title="内蒙古频道",满洲里电视台
 
