@@ -219,7 +219,7 @@ rtsp://10.11.43.21/PLTV/88888912/224/3221226644/10000100000000060000000001126809
 rtsp://10.11.43.21/PLTV/88888912/224/3221226605/10000100000000060000000001126810_0.smil
 #EXTINF:0 CUID="212" tvg-name="阿拉善新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古阿拉善新闻综合.png" group-title="内蒙古频道",阿拉善新闻综合
 rtsp://10.11.43.21/PLTV/88888912/224/3221226573/10000100000000060000000001125899_0.smil
-#EXTINF:0 CUID="3077" tvg-name="苏尼特右旗电视台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/nmgsntyq.png" group-title="内蒙古频道",苏尼特右旗电视台
+#EXTINF:0 CUID="214" tvg-name="苏尼特右旗电视台" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古苏尼特右旗电视台.png" group-title="内蒙古频道",苏尼特右旗电视台
 rtsp://10.11.43.21/PLTV/88888912/224/3221226604/10000100000000060000000001125946_0.smil
 #EXTINF:0 CUID="215" tvg-name="满洲里电视台" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古满洲里电视台.png" group-title="内蒙古频道",满洲里电视台
 rtsp://10.11.43.21/PLTV/88888912/224/3221226603/10000100000000060000000001126867_0.smil
