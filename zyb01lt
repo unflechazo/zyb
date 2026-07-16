@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
 rtsp://10.11.43.21/PLTV/88888912/224/3221226776/475516698.smil
-#EXTINF:-1 tvg-name="CCTV-16-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV164K.png" group-title="4K频道",CCTV-16-4K
+#EXTINF:-1 tvg-name="CCTV-16-4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="4K频道",CCTV-16-4K
 rtsp://10.11.43.21/PLTV/88888912/224/3221226643/411164633.smil
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="4K频道",北京卫视-4K
 rtsp://10.11.43.21/PLTV/88888912/224/3221226792/514021991.smil
