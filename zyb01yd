@@ -1,6 +1,9 @@
 
 #EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
 
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://github.com/unflechazo/zyb/tree/main/img/CCTV-16奥运.png" group-title="111",CCTV-4K
+http://sckonlan.youankj.cn:8888/rtp/239.94.1.172:5140
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/精彩影视.png" group-title="电影",精彩影视
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.172:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC影迷电影.png" group-title="电影",CHC影迷电影
