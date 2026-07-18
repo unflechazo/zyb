@@ -368,9 +368,9 @@ http://39.136.35.15:6610/000000001000/5000000010000027146/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/东方财经.png" group-title="其它",东方财经
 http://39.136.35.15:6610/000000001000/5000000007000010003/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/快乐垂钓.png" group-title="其它",快乐垂钓
-http://39.136.35.18:6610/000000001000/5000000011000031206/index.m3u8?fmt=ts2hls
+
 #EXTINF:0 CUID="215" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/茶频道.png" group-title="其它",茶频道
-http://39.136.35.18:6610/000000001000/5000000011000031209/index.m3u8?fmt=ts2hls
+
 #EXTINF:0 CUID="215" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/乐游.png" group-title="其它",乐游
 http://39.136.35.18:6610/000000001000/5000000011000031112/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/生活时尚.png" group-title="其它",生活时尚
