@@ -7,35 +7,30 @@ http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png" group-title="香港",娱乐新闻台
 
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB无线新闻台.png" group-title="香港",TVB无线新闻台
-http://www.kaniptv.cn/uadl.php?etoken=09mifIFf028KDTPOvrTq3OHYyN273rL%2BBsFsh1zSGlvtc2Ew9rqiRBm0QEq%2FHkjpLNWV7gAhlQQSHfCQtvEzEcap3BaqgcD62RcP3tGNHPcV%2FB8SXGRmdMBmgCAPYDcaNcxL12BP4Lqq%2BUXEmXF7embT5HZNlAMTFWaC4FxEWQbTNue22GaFdIkjQG1L7V6MUPxTjJR3HVm0b0FJfxtrdSSIbOV72d0cmdUyRURBkAXTpheMxOtK6g6iTwASE9ZqNfSW39LfIapHjTf02Pu3pu5fqUB7Z61zbzlrL3hh0JBYYjg%2FKRAfu2STkwPjqY44Sf2us77%2F%2BxHdVgr2Li01Nw%3D%3D
+http://120.234.11.131:18180/TV00000000000000000034@HHZT
 #EXTINF:-1 tvg-id="1" tvg-name="有线新闻台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/有线新闻台.png" group-title="香港",有线新闻台
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/凤凰中文.png" group-title="香港",凤凰中文
-http://www.kaniptv.cn/uadl.php?etoken=O1q3Z18SS%2BUUkDxIOETBxSx6RSVzboPmhMiqdSd4A1wKC2yamgRq8MreGEFleWTL9jKa8g6DUSUd9gB8HWUDxxKHrm%2FG2WMYigEgYgS4wye9wWRNk0K0DfuNg8EaNHafcMCup5PMNPngGS1ggK%2F2kFnDvZ7GK93kc5RWK19D7HDEaVRxUIuP0rdoKig5mNB76IcwPdmNxavoYFizyGJjCFwjYVez%2BsfNaz7Q8T2fWu6%2Fy2uDvuOymrTaU3UifTlXm%2FU4tKi%2FMW5sw3EbXzRzF8vAxfgoR1Ar%2Bf4hp22mt0BPjUbaB10d71pMjMESNqzM2r8B%2FVD123ouGyDhtfUXLA%3D%3D
+http://wan1.tangwudi.cc:47859/rtp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/凤凰资讯.png" group-title="香港",凤凰资讯
-http://www.kaniptv.cn/uadl.php?etoken=rq%2Bk3uBkzrpLFG7ddIIk4WTQzISz1y9zzIRiF%2F8PmUXv2vZlA9Gbkwg7iUGNIXO46WA7KCMzjxhWYq1PMjE4rRebztvCfa7di%2FCPJMi7y20WJBRlqHEJTR%2FHWWsv%2BjLsxzZMWGTDpKo8FY6sFuPxfZVz1%2BIS%2FOWi7bqi%2BRnB3P1uLCWRAfK1H%2FhQ9EvQAv1RRDjfccsA%2BIjIioVJCsLanKzFUdpwRnDyqyooVxEXzLljU6tvy9rwBnMpPucglxC0e6e6fGsq5Yi3leLc6n5XsRer6kWCEEhEfq6RLR%2FCXehmlicRmHum7X9jvOxly7y48SxJ%2Fh2OYfOYW36G4u1Ocg%3D%3D
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="香港",凤凰香港
-
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰电影台.png" group-title="香港",凤凰电影台
-
+http://wan1.tangwudi.cc:47859/rtp/239.94.2.49:5140
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/凤凰香港.png" group-title="香港",凤凰香港
+http://139.196.28.189:18888/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台
-
+https://cdn3.indevs.in/stream/live/jade/
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台壹
-
+https://cdn3.indevs.in/stream/live/hlt/
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="香港",华丽翡翠台贰
-
+https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB翡翠台.png" group-title="香港",TVB翡翠台
 http://www.kaniptv.cn/uadl.php?etoken=TyzWwmQsya3KU5N%2FAcWgGDofyS1xcXmy014%2BMNiaelYimwL1%2BVxtsPGui6Zji1jQqM3Ljy%2Biy6InIjlVSK5BFaX92PnFsH38qiuYu1XFKoyrYoo1vKvuRIVa4H5blx7evfeIExDClkIyz%2BHX5Ix9q1NLiBPY19GbxdUFvv4C738YsvmMFxcjC3ZW7M%2B51RkWHnOcnBYidgkK2Hxrw6lIWBhmt1QILPSfvC6ZqtLXCuNx7RDPnYECzpyxjDNU3t50YtOKd8QltCo5kAgeH87TL4aMXZOFlFtJKjq8RYJZyzs7ODWRGcBuiPwzXUTIXTRH%2BjYCM%2FtX7e8SaNpWfKFsQA%3D%3D
+http://120.234.11.131:18180/TV00000000000000000032@HHZT
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/翡翠.png" group-title="香港",翡翠台4K
-
+https://cdn3.indevs.in/stream/tvb/fct4k/#https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-name="明珠" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB明珠台.png" group-title="香港",TVB明珠台
-http://www.kaniptv.cn/uadl.php?etoken=uDMlWtVkuf6RXWdnVe3JulgRC9Y6yb7TS4I6LW%2FH1m5wVQAZFHbyQcNMBYkkZcd3BBCIIY%2BQrTwZIP%2FJfFqvva4lMM9T4tsbycyzm%2Fr12DIUf327bIUlgC1CxIVMq%2BcZ%2B3HjeSqzkRiGvUy%2BzkqIs7wpoTHHWOfa77ANaIV5ByvRSInZ1XM6ZGcHh3%2FyM%2FMsu6Yfz033gtzbK1nSyRVYi0jvBCyQiip4gHunq2n9nc%2FnuGU7y5x6UdjNXcH%2BNq%2Bwlxdcl3RRcifUsqRMs%2FPuBX8pMpPi7oFs1VlX%2FxQZB6cs%2F95HFvEpk%2FUIHAoO0q8jIIg2%2BqS0ym6NXg1pEM8org%3D%3D
+http://120.234.11.131:18180/TV00000000000000000035@HHZT
 #EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB星河台.png" group-title="香港",TVB星河(国语)
-http://www.kaniptv.cn/uadl.php?etoken=6yNnTi1PRlHftXv4EmKMnnSLgNyegNoBGkT8tjTWKeBatA42cv4Ac0AR7hI4%2Fal3Dt3DPa4wgm0GdyUxEjQMbGY5AEjUaI8dUUv397mGsOIdNT7sh7K2QmFOLXWhoaHhjonkZzQbb1TWXq3I1IfSpSAb0FbeLrfocdnMN09xVKdDNB%2FDLYKi4yjzKBPWYrgGN6NR1wq9BoeLt4sx8julLwZZ%2FBxcXLdwYSjy3EgmY2AdOkG6xU0lim0V5OUXD4GWVk%2FA4luR%2BPC0a8ShQRWK9l8p6RVF%2Fwf1F5adYMvTwwPIia5mbeJA3l7F5qc0RmSWMShYfnU0AMie3XJf4X0x8w%3D%3D
-#EXTINF:-1 tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="香港",翡翠一台(TVB1)
-
-#EXTINF:-1 tvg-id="1" tvg-name="TVBJ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBJ.png" group-title="香港",TVBJ1
-1
+https://cdn3.indevs.in/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="香港",TVB翡翠剧集台
 
 #EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="香港",TVB翡翠华剧台
@@ -50,8 +45,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=34
 
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="香港",千禧经典台
 
-#EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="香港",myTV SUPER
-
+#EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/myTV SUPER.png" group-title="香港",myTV SUPER
+http://120.234.11.131:18180/TV00000000000000000034@HHZT
 #EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/MyTV Super 粤语片.png" group-title="香港",MyTV Super 粤语片
 http://iptv.4666888.xyz/iptv2A.php?id=22
 #EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="香港",myTV SUPERFOOTBALL3
@@ -71,13 +66,7 @@ http://www.kaniptv.cn/uadl.php?etoken=bhDbU16ushLuXZABfolnbb1w3omhIxamjYh7L3GgrQ
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/ViuTV.png" group-title="香港",VIUTV
 http://www.kaniptv.cn/uadl.php?etoken=7js9gZQLaW9QjGHGsl7ggDkOYb1Ke96Xao6djYJlIYRjR9jqWa1SAdDWeLYgmQVVnb6bi2ZPYZp%2FYAzt%2FguJiYBhOgwE9nsqTI9bW%2F3xqxiKKRw6%2FeCLp9JS0g37ZFb0pabv1LPJ7%2Bmrq%2FxRoK2a4iu8rs83HQ%2BJZZhIbUfgNrFgEDWYtLE3wEwH%2FBNSJ1prmW96ZLhpd6pSfdxkmvckngPBJWTiwkX1j2IoTfYkKZFhQGtgwwLPkLH6dy%2BC8DrN29YX%2BeIaDmc%2BmXR1hysWpNonrfSISgA0T%2F940GXQGi3V8VEWA9v20Bv8PydmOD5LEaRQsmxvysE%2FSjXsdn7mCQ%3D%3D
 #EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/ViuTV6.png" group-title="香港",VIUTVSIX
-http://www.kaniptv.cn/uadl.php?etoken=zhW8b1Ow7un4GdkqeIwdyPZ%2F4%2FtJoaVnN0AFRtDW6CG0lThHZ7POrJj2gBxAtxKjAbJ1lqkeP38THvpwCMtMalN5IC6tEWZb16pgmRL8mGoH0GCwhHjV32KxJfAlI2Cdul3f6Ti9vJL6s9w3gHqPd8ahF8ciPTsFNyimoZkG8sLwfzlt7qgredCHUIDWItR8TI7qmPlpZWPk7UF7fqiOiBbiAD1o4J5bmaRsMZNrOJH2VNKxrk1er0XpM3QYZOpz6iivlgz4y0Zs7C%2Fz%2FD9J6w9QUC2v4aISHE8DUGSpft9f2imJEOxfrNDO%2BZfbsfH7aRhHIGD0m87BHjMPUs%2BFug%3D%3D
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="香港",RTHK 31
-
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 32.png" group-title="香港",RTHK 32
-
-#EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 35.png" group-title="香港",RTHK 35
-
+http://120.234.11.131:18180/TV00000000000000000084@HHZT
 #EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/NOW新闻台.png" group-title="香港",NOW新闻台
 http://www.kaniptv.cn/uadl.php?etoken=O7GBbnRGS8E5uqFmeA%2FpP9pZDUEBbOoltluzysQAUOkT%2BhwMgy6MU75MO4AruwnS235INLwQddWjtZBrZQWLn9b4LPgOw9QOsQs0GRI%2F92MR2ttOBfJnbowWCIb6PEM2vBUsMgNz6wryek3GN9z9VENRf6K2qOGycU3zE0LqeJ5i9U7q0VTXq6ypTcB%2BX0wy%2FF6ykpJz%2BgM4yyo5YyCDh7AjNli8CofYp7Djy9MBTvVq9BTu8KmoYmRhH%2Bf1ltF2XOTHepCtClG1Ux%2Bt8VNCxkhI8GgLw8SVhzvzBo9mJVjLm1ABJPOCT4rh5JfCgcsgh8UbskKhcRgKSluTMQm8oA%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="Now爆谷" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now爆谷.png" group-title="香港",Now爆谷
@@ -121,26 +110,12 @@ http://www.kaniptv.cn/uadl.php?etoken=yjoAg90Hs0o5ups89GBlT8Yin6yS0XWUO0HNoHSb1p
 
 #EXTINF:-1 tvg-name="CHANNELU" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNELU.png" group-title="香港",CHANNEL U
 
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/澳视澳门.png" group-title="香港",澳视澳门
-http://iptv.4666888.xyz/iptv2A.php?id=41
-#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/澳视卫星.png" group-title="香港",澳视卫星
-
-#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/澳门体育.png" group-title="香港",澳门体育
-
-#EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/澳视综艺.png" group-title="香港",澳视综艺
-
-#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/澳门莲花.png" group-title="香港",澳门莲花
-
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/重温经典.png" group-title="香港",重温经典
 
 #EXTINF:-1 tvg-name="18 台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/有线18台.png" group-title="香港",18 台
-
 http://www.kaniptv.cn/uadl.php?etoken=Q0jP%2BbhtZEnw2qAkssa6R0NIYOwdu7Lo0RdKrmy1KXxpnpjmCwZtn8qHJwFZ7a54OTATiGQexsOWo5uuQOaapP%2FcRdYmenRW2nce0IIoW4iPktkspWBdfHBlgqGdpYWB%2Fvp3GtznFp%2FXC5n09SJNVKeyROLSypoTb2w6BgAIcU9GuILFOQa9wf%2Fz%2FouRkLpgJN7dJ9Byba0WmgSndeC0Mc1icpkom1JnG%2BFkgF0QhsM8SCJ50ZwcvjsZ88kfciFZvsmly06UzkYi3K%2FiXaCswZ5G0Mas0L5RY084rcUJ%2FvIGTXY1tAwSehgunvcE88chlNcE%2FMcAFsaNpAS%2FaO4CZQ%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻台.png" group-title="台湾",寰宇新闻台
-http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
-http://103.79.187.237:8080/memfs/06f77e1c-7c87-4c23-97da-004c451a15d7.m3u8
 http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-http://rihou.cc:555/tv/寰宇新闻
 #EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台湾台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/寰宇新闻台湾.png" group-title="台湾",寰宇新闻台湾台
 http://www.kaniptv.cn/uadl.php?etoken=s8dUJjzEXZtU7hDGujH%2F3Vam6otJfWu7is%2BRQ7qVm5rnEtjJR%2BotetEk1U8hnwQUAjqpsRX5Khc%2Fel%2FTp9XZcC6WeDmgL4%2F%2FHgQ8XjPLRJBswlPB7ILWjDQUUV6%2FaRa4TsnGhzRauDoRslIT9PbJVjIK1XJXLsYVP9r%2BODLee4a7ww1%2BJ58HDR7wHs3py9o7JfvdEGjb8sBD77scBs502oT4PI0sqq6LtQ2yN7Nrp%2BjvYhcJ%2BdS6pmx35ALZi3r7vnBttQ0EsJzcM%2FiYwpRMGqP2yoXmXibYqNyR9BAMBxE5kFdo5R4ZawmjZ%2FXdBD%2B6xbPOFZtjldAtpNootN5LOg%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="镜新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/镜新闻.png" group-title="台湾",镜新闻
@@ -178,7 +153,6 @@ http://www.kaniptv.cn/uadl.php?etoken=7TRr%2BWczbLgZ4XTHBEZ9Frr5SwP01H7mOfKbnj2T
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS综艺台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/TVBS综艺台.png" group-title="台湾",TVBS综艺台
 http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS精采.png" group-title="台湾",TVBS精采
-
 http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
 http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-name="TVBS台剧" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS台剧.png" group-title="台湾",TVBS台剧
@@ -201,11 +175,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 tvg-id="1" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民视第一.png" group-title="台湾",民视第一台
 http://www.kaniptv.cn/uadl.php?etoken=xwwWz1k%2F80z5DLzgI0Sz2z4jPQ2q9EDgYgUmLlHVdI5QJ5iKJeym6bKk552BL%2Fcv9pJNuTEB%2FZcJeoqDr4atemEGD1QSRynqKCfLKzI0IA8iUPCNnYMxSz2%2FJNRvrwx6Oww6ehAPaYGSa8vNRJoAepp%2BaoUz3wsFAqQHJWyaDKcoRZsoMBjRQlbO5yw1jaHG%2Fn8C%2Bnlnsi2B%2FAshK%2FQdxoBLh4tlfHCbZOCNnovmx3gTf0Yt4Nw5nvSuu%2FY0f6cOymcBi6sRXzAJwSm%2BQzco9PTzGS6ypGroFQ1%2FnBVxw35HRno%2B4NFriQaAEOerkI4ChwMymVfbkajZJQyen9BM1A%3D%3D
 http://220.135.241.47:8309/0.ts
-http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="民视台湾台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民视台湾.png" group-title="台湾",民视台湾台
 http://www.kaniptv.cn/uadl.php?etoken=hlsHIYpft7R2TCwhmfFmLWKwtxK%2BAj4dwlLcgP%2Fp5%2FbNdzBTQIx2XKdE7MDoJhRuDWrGnw%2F04tg0cPjJc4DwZY%2BcqTOqrziBl570AY2i4%2FfggbRiPv2jPBuJCb24sDC6ARDJgul1tAauPWyG8BMgYKNlJWPAPFnQ3zHgzQ94EBwgVhHVo5V2UyP6F%2B%2Br25ro6Ed2O6S0hsFIJ5P0y%2BZ8gAtXggYRXSRRRNl39N45I4oFGRIXauf53S00pMLtFe7tJmSLiwhTug0%2BTcjpFGR1KogAXDwPAwr%2B%2Fs%2FYvrlhNJ01vGpzUpKGiY8WIsyKGcga4%2Fq6PAJkpQE5d%2BeX4VXB1Q%3D%3D
-#EXTINF:-1 tvg-id="1" tvg-name="民视旅游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/v.png" group-title="台湾",民视旅游
-
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/台视.png" group-title="台湾",台视
 http://www.kaniptv.cn/uadl.php?etoken=ezBbNa7la3lnlPZ59kcM0Aan2jUvFAYAAEHCcii4pe3hf7bqjmZSPLCcFE8wcOE3qv5BDqcNioTzAZqH88psXfUsJznB4NoGyDjGm5aJLR%2B4HuxBuqrhX1LT2Ry07vIkg0Jn8E8N9oo6mTxeMFGswP%2FTsQmwLbjkNO2mbEiQY%2BCIr8PtkTquSmEVCdw7OwV84MjNCrTCDBUZ50WT4wQ1qLIcl6KK89cL0dknlnKfAWOVcYvaRFqhHqDic1NmdKzCYZPFkund3ZCT9iGHBqDalqI4XD35D6X6Tz2F5bh6vS2WSNhVjNXeRaWWcjE0Ojf88tjh%2Ff0xdb9eb8QGFAzN8g%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/台视新闻.png" group-title="台湾",台视新闻
@@ -233,14 +204,6 @@ http://www.kaniptv.cn/uadl.php?etoken=pxE75dCX8IYclYHO0HxRtbnncd3j4z%2FaKxwQkxtn
 http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/八大第一.png" group-title="台湾",八大第一台
 http://www.kaniptv.cn/uadl.php?etoken=Qg9v3DOqd7246BMss4dNTMedkJBgD7mj5tHpKM8g3paazEMT0lcqRCjo6aoiEhGXpEiYhdnz4MuHLwYbWKoofu6gZCxq1XCySQNzrbiP02%2F3mQBBRd7KjWgA61TV5pz5KHxgpC%2BARemQskwcdNJWf9O%2BoMVmavJy0fYGybdMLvf1%2BoHpYlLHTa710k9tBbS4XQ6ql%2B6w3YXCKA6aJwNbM7ePCNJOVhVt4KNJN6xWX0%2FNZCPrtuKWU79Opz5OegQz3Rz0ch%2BL0lEEQRyoqo4YGQBbvFrb0doXroyb%2BNU4TbUQcV1k476eh%2FahiZUIXabXPauMteADxDWp0A1jn6YXNQ%3D%3D
-#EXTINF:-1 tvg-id="1" tvg-name="公视台语台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公视台语台.png" group-title="台湾",公视台语台
-http://220.135.241.47:8306/0.ts
-#EXTINF:-1 tvg-id="1" tvg-name="公视戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公视戏剧.png" group-title="台湾",公视戏剧
-https://cdn.qd.je/163189/gsxj
-https://cdn12.178.indevs.in/163189/gsxj
-#EXTINF:-1 tvg-id="1" tvg-name="采昌影剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/采昌影剧台.png" group-title="台湾",采昌影剧台
-https://cdn.qd.je/163189/ccyj
-https://cdn12.178.indevs.in/163189/ccyj
 #EXTINF:-1 tvg-id="1" tvg-name="TITV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TITV.png" group-title="台湾",TITV
 http://220.135.241.47:8303/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="客家電視" tvg-logo="https://www.xn--rgv465a.top/tvlogo/客家電視.png" group-title="台湾",客家電視
@@ -271,21 +234,16 @@ https://cdn12.178.indevs.in/163189/jyxj
 http://www.kaniptv.cn/uadl.php?etoken=8TlAsRn%2F%2BR522NtlFRZm%2FOpbQppvRTDBfqncn%2B1UkokBnRtFdReyTRQ3mr5Tb1DUNLGLB%2BvemxIQp2nrgsrpjZ8S6u%2Bez4gf6lUD1BgomUxP3VgmvPVl2G%2BjfyEA2XyMbwrNgLbxetbwZ5%2BnK%2FgBZcSYz9wQixu7NXSEF2hujRQ5TO8NEY38GTjWlY59yVyWd%2Bpah9lRtVR1zpnKIpVzT%2FriYYe3OFz0aapUhKeCHJ%2B0GIs0qL%2B%2BNyS0LmHvn0jax4no%2FoLRRHg%2BFjWDkffX3Gyxwc5%2FyHhj3KNO1qLY6TcJhOs9DLUyj%2Ftaww4ke%2B1SPfFcc761gPNmkgJUo%2BqQUw%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="三立综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立综合台.png" group-title="台湾",三立综合台
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-id="1" tvg-name="三立都会" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/三立都会.png" group-title="电影",三立都会
+#EXTINF:-1 tvg-id="1" tvg-name="三立都会" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/三立都会.png" group-title="台湾",三立都会
 http://www.kaniptv.cn/uadl.php?etoken=yl5KX0c%2BjFVukoYX1oVHafmk6yFET8CEFIYYrRxojyStxWPP3m9EUVK4ueFaAdaP6WNVLHX7ROuLA%2FI%2Boin9oTRuu2CcYhworw2tU%2FyoFSIScYYeY7cbuRTEPuQB2DJcCC%2Fop%2BSZPQbYPshRwwIKLt4qI5bApEXUeAcUOQHnYzJKvFni0FndqQY5TTJc36MBCCstjl9488KbaUL0IXPHjAmyvveMQBYU6ZnmWGuQZaDDaNDXx1kmIBqMa6uqko6co%2Bv0BF6i57tvTpFu3thm9YkkbsCL%2FIeuPO4Q9X8jzZOUmMd8sF5lqAGv8q9R2MUGOBMRKbmSK9snOIjrvJzkUg%3D%3D
-#EXTINF:-1 tvg-id="1" tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/三立台湾.png" group-title="电影",三立台湾
+#EXTINF:-1 tvg-id="1" tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/三立台湾.png" group-title="台湾",三立台湾
 http://www.kaniptv.cn/uadl.php?etoken=kibapDmNT%2FIFvM5dzVFaKhorGr24PnvVZD%2FGc7Bd1hY9htcEZYPRFobgpr39zu25AvPFoD1x%2FBEkqE%2B9GwZJnEbWJu4kVgvqjlj7rj8bzaUXbzc2iTvn5NdzBCWpNOFjtCXRBBq9iSPjzkgfgqf9UkW5ncoTj2OasO8L3sYJ7cR7pbCNKdi4UaSC609B3rWyYnXzP1cWe4camCU1aQzTfM9SoOBwi%2BgRHbamXsIzYodrfMoIEq5E3sQ0PuBuYd0a5KqNY3bVvr%2FOZcsdLHzlR00p3Jo2j38LvSV9w9i7fm4ecx6OWHRMWMlfhxRYlwGmqCQiUxtscylkSje4sjeAlw%3D%3D
-#EXTINF:-1 tvg-id="1" tvg-name="阿里郎" tvg-logo="https://www.xn--rgv465a.top/tvlogo/阿里郎.png" group-title="台湾",阿里郎
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="大立电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大立电视台.png" group-title="台湾",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="猪哥亮歌厅秀" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猪哥亮歌厅秀.png" group-title="台湾",猪哥亮歌厅秀
-http://00123.168ro.top:44345/4gtv-4gtv006/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
 http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="SBS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SBS.png" group-title="台湾",SBS
 SBS,http://103.79.187.237:8080/memfs/a87f06ca-0675-40c1-87d4-0697786b52db.m3u8
-
 #EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/iQIYI.png" group-title="电影",IQIYI
 https://cdn3.indevs.in/stream/live/iqiyi/
 https://cdn.qd.je/163189/iqiyi
@@ -309,7 +267,6 @@ https://cdn.qd.je/163189/wldy
 https://cdn.qd.je/163189/wlxj
 #EXTINF:-1 tvg-id="1" tvg-name="龙祥时代" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥时代.png" group-title="电影",龙祥时代
 https://cdn.qd.je/163189/lxsd
-
 #EXTINF:-1 tvg-id="1" tvg-name="东森戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森戏剧.png" group-title="电影",东森戏剧
 https://cdn.qd.je/163189/dsxj
 #EXTINF:-1 tvg-id="1" tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="电影",东森洋片
