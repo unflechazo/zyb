@@ -142,44 +142,40 @@ http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 http://103.79.187.237:8080/memfs/06f77e1c-7c87-4c23-97da-004c451a15d7.m3u8
 http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 http://rihou.cc:555/tv/寰宇新闻
-#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台湾台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻台湾台.png" group-title="台湾",寰宇新闻台湾台
-http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-id="1" tvg-name="非凡新聞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/非凡新聞.png" group-title="台湾",非凡新聞
-http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台湾台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/寰宇新闻台湾.png" group-title="台湾",寰宇新闻台湾台
+http://www.kaniptv.cn/uadl.php?etoken=s8dUJjzEXZtU7hDGujH%2F3Vam6otJfWu7is%2BRQ7qVm5rnEtjJR%2BotetEk1U8hnwQUAjqpsRX5Khc%2Fel%2FTp9XZcC6WeDmgL4%2F%2FHgQ8XjPLRJBswlPB7ILWjDQUUV6%2FaRa4TsnGhzRauDoRslIT9PbJVjIK1XJXLsYVP9r%2BODLee4a7ww1%2BJ58HDR7wHs3py9o7JfvdEGjb8sBD77scBs502oT4PI0sqq6LtQ2yN7Nrp%2BjvYhcJ%2BdS6pmx35ALZi3r7vnBttQ0EsJzcM%2FiYwpRMGqP2yoXmXibYqNyR9BAMBxE5kFdo5R4ZawmjZ%2FXdBD%2B6xbPOFZtjldAtpNootN5LOg%3D%3D
+#EXTINF:-1 tvg-id="1" tvg-name="镜新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/镜新闻.png" group-title="台湾",镜新闻
+http://www.kaniptv.cn/uadl.php?etoken=kU2k%2FS0izdVwG1rTMI5nMakDLB8Y3bN4C%2FnlJ3bfRkvJrGRlojl6GpuPyQZL1XuH87b0nvKd85mKfIY0qbPkWS%2Btkm2o3ZQWulkvTyox2fhShujuAp5sbFbPBYEAGSmQbo8Gyyv%2BaG4pevQovx9HguTPslQkWUYJoLUpKhb%2FbdN0scDn3BRL2KKf0WjK1znOdS3Q2a%2FeOKDIq2NI%2FXiCMShrHRvQlTEa%2FWhVBMO2U2QznO%2FqcvWbWGwek6EGTTQgrmgv833pSij%2B2qSDgiY8PrB1uSTd07LSub1PxU74NBq3kPRwsht2%2BZa0HHnSnsIRJVHgbglkX24sBXG%2B63xfrA%3D%3D
+#EXTINF:-1 tvg-id="1" tvg-name="非凡新聞" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/非凡新聞.png" group-title="台湾",非凡新聞
+http://www.kaniptv.cn/uadl.php?etoken=4QBcwCGQYHTLwhjNNVvLFcfurOm3dvLu3zV0prPGpeqSAG3cMVTHXLb9KO1sF0%2Fq4U8ToN10skhKuGdRHeGMzKF85XW%2BT14SAcqhCdKW4W3i2qbY4gC4Yn6XH4MKCcmcFFAjVzBLDmoimnUHFgyXHGxf6B2zUIoXO7GKW%2FnjV3kAyzQnSHnM5tq1HV5DZ88hA2qiuxHovn3AB%2FRhbKXC%2BK48eqHI0Jd9i4Tj2JaaOBdFaOOFgBKANb2HntH2vXPy2kzfPVh%2BwO5kJ%2FUUV1MJtfmbFLinM1SRfHeDhqfP1WgHcNR6cHsPofd1QxGJkEDGRm7ty%2FrE6aiaoM3u0Pym4A%3D%3D
+#EXTINF:-1 tvg-id="1" tvg-name="壹新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/壹新闻.png" group-title="台湾",壹新闻
+http://www.kaniptv.cn/uadl.php?etoken=n8LeKmrvpbMDPWMEVK6vtwx29FVFs9xjt2244B1MVy%2FGGVM%2BEzr%2B%2F9ty0RHP%2BjtlZMyRi1iNi4Aum52SI0LfthI%2FBUWb4kw1V61Ysr15nS%2FaZe%2Figyuf3b2TtAGigcXbIDjG%2FJ4acQuT%2BHrGBa1sbn%2B2WfYMz2xOXn6brgWf9hXfrOty7DFATxVMAjFHsAEhMe5dvlwnVScf51J0zFfnm4wxhBq5GOVb47Wdygv%2B%2FQ9BHiCsAgVdLB6phYHJEPE6t4Drg0lut8PLrumGlo30%2FXdgFw8qh%2BqoqlH%2FhtEzrsvPayWXhhfyYak%2BRhyjVvNqFsdIbM1x%2BpfVH5RcBj3jiA%3D%3D
+#EXTINF:-1 tvg-id="1" tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/年代新闻.png" group-title="台湾",年代新闻
+http://www.kaniptv.cn/uadl.php?etoken=uAVFQYGAXoDujOhd%2F2ElXh5BXlgLdL%2FbAn%2Bj6nXa0OJ3J%2FFEacil140DBfgtaE8yA%2F2TbGVLM7LOwLiMmn0ENdufZGL7ZyOFrdhfQ2ZRCoD3bimF6zi01odX%2BFheMkIx1t6OzLiCrb4tvPv2xp4laYcH3zjmH5BJNpByfEK%2Fi4ixFfSmW8V8GGwmtkDp8j4JYYCb52Z1i6Mdg5Z5SVzOZc4%2Frtfkb2Y4sgUuMlhqxFD0TxjHRZEtcbvp%2F0Itzf6ltSLX%2FnfDpq1CA7a%2BDrniK3DxeESK2XnGB81%2FhonI%2F1MfiCGfIoISXiS3XDafXCG5tewzBWNu82l3x00kGgObpA%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/东森综合.png" group-title="台湾",东森综合
 http://www.kaniptv.cn/uadl.php?etoken=QKwSk4SQy%2FSggj536AShdftI8Qh8OfYnbfW%2BR%2Fw0eYUnNFToDwI3Xak76gkQT8wu8tWA8MFkJKJjD98lEGvRW7t%2FO77r%2FILNdRPgHCBAns8w8fxadx5CD7WDLxHaqzxcVK1otwH%2B1KLPQ7NKPc6hhZsNUXPl5P9TMLpWgu6pVNlSTUbWFfoILJUnn5DvVnCZZcklLpF%2BZyFIQzri2%2BdS8eIfQM4nKmwwsMOLDOFqsRUj%2FaJF9GqUQ6k6zFU6O9dThdaFhJ2heYSxrAHkBNaxibu4dE67b6DWAMkgS0HN%2F1Ad79j1oeK7Y8cp8KJeYz8%2F7fgXtMgTUmMGyhIBpQ0R%2BA%3D%3D
-#EXTINF:-1 tvg-id="1" tvg-name="东森新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森新闻.png" group-title="台湾",东森新闻
-http://00123.168ro.top:44345/4gtv-4gtv152/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
-http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-http://103.79.187.237:8080/memfs/5c6c20db-7846-4934-b4e2-5e83d3b08d58.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/东森新闻.png" group-title="台湾",东森新闻
+http://www.kaniptv.cn/uadl.php?etoken=bO0JsxBVRcHqxui2UZGYDeDbhqXMAPYlK%2B8VE70dYI9FTY5gUiK9W6uP%2BsnGjL29OJhd2LYT3ny34pKcig%2FfygoQi7vpJ%2BrwExsUbTezeiLHs%2FmXsBJmm2vStp249DkxgwuJM1%2B1bLzKNB8BqcCllZ1BSzM8bi5zIdaSLA%2BOtcw3JMcyN%2BvwtDwcOk%2FAErf1KEsUDZn4ZBkdOKNHdwPS3FrrmjirrG1eHlwIM5A6XMQepS1tJKIYLVKfBjmHyXJUl%2FvXEK6bynzbQmUPrQFNS%2B9GCXLeSlIxTWY5HAeQ%2BQFDdOkXlBMzzV154EGld4b0Lmuwde0HklIUQqbFH4%2FeCA%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="东森财经新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森财经新闻台.png" group-title="台湾",东森财经新闻台
 http://00123.168ro.top:44345/4gtv-4gtv153/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
 http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-id="1" tvg-name="华视新闻资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视新闻资讯.png" group-title="台湾",华视新闻资讯
-http://00123.168ro.top:44345/4gtv-4gtv052/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
-http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
-http://220.135.241.47:8319/0.ts
+#EXTINF:-1 tvg-id="1" tvg-name="华视新闻资讯" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/华视新闻.png" group-title="台湾",华视新闻资讯
+http://www.kaniptv.cn/uadl.php?etoken=o8E7mZ%2FKYcqABSuvm6YgeRKdvtiv6TUrDs8MmsWMQ9flP%2FPvWuNEwwnusdLeiuKm0xWxg51KyPwtGIFH7idFzAGFBF3IIHAy5QZg%2FdxK7xVg53sUb9r3Bs4RedR9%2F8uNGjc5IN%2BsUuxTGSh%2BBgRGsgd9s3PyTyUbsdnr8HTlfsf3TZ4a0jT5ioGQVam31kJUO3%2FWUxcIRJB8u%2FMCg1IHKyH4Fydu2WFzKVSsIxqHbuESDa%2BHwnmvzJtZzfHQzvbAHMLfrUtmhKPYdT1fwA7fikbjYci3JrSU3bmOkxfclSqPh1Cr%2FJjzDs3M0mcMayTEPL5F6JMSjyIjYWjcELXBsQ%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/华视.png" group-title="台湾",华视
 http://www.kaniptv.cn/uadl.php?etoken=YzGzP%2BFerc74tnku6nYRvEwi%2FDkjOwnaIQ9OutoZEiH5odcAbyIYt8CjTwaK3zwNyXt8ljUGRQHSUE%2FDRfUXIA0du7pB9ixwO%2FKcyqI6Itv9tUgk8rm01Ti5PojihNmrD%2F%2B3sjvnluBssbUi3VUuwt4bUN%2B0hAHGytUz4DgH%2Fb1Hv0s0RPHbVTfVQ3cdkOleuQxdt9i%2FalRkH9sA2FWeUvCGSelcMaP4pnXdQjJhBlnO%2Fb7A91H9uutFDaUfW5DUlm8160JoriBVczJEpVnnvJ%2BwfC5%2BeZnRJIQDDYZYvxl2wFGRbvyLVc%2BV1%2FyCvf9E%2F92aH9DPRzFm5jg6lQ0Xkg%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="华视教育体育文化台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视教育体育文化台.png" group-title="台湾",华视教育体育文化台
 http://220.135.241.47:8318/0.ts
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/中天新闻.png" group-title="台湾",中天新闻
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-http://103.79.187.237:8080/memfs/c5428072-a17f-476a-ae55-a6745952a02f.m3u8
-http://rihou.cc:555/tv/中天新闻
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/中天新闻.png" group-title="台湾",中天新闻
+http://www.kaniptv.cn/uadl.php?etoken=d2A8AIvYd8EFBaFDYIaOpFlbnAGwT%2FzT3lJSGYFwvgol4EZyKQTj6iqieNoVSedQB7du8u8FvH6GkW3K55fdgSyz%2Bm6qDQE7VEDQrUI4pHxuGUK%2B2Moqi7uqHl1Usa0nM%2FeuUhr38UbwWjHq0iTE49MHRieGi8xEW2UORihsI6Vhzh01XeSfzKQMo%2FPgdof6wiF%2FL17shfM%2F3Loq8vPfAZPPboYmlwx%2BqK65UJg%2Bl3NONW9We0VFp1%2FLeniAGYqbuG6XxaBKLWp8FinNye6bIA0YR7hpqa54fwY4DsLYfoR8uC79%2BIT66Kxd5UyX5kbZumnCbPufkfFtMUYt%2FPe7%2Bw%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="中天亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天亚洲.png" group-title="台湾",中天亚洲
 http://77.90.60.172:55555/4/
 http://rihou.cc:555/tv/中天亚洲
 #EXTINF:-1 tvg-id="1" tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/中天综合.png" group-title="台湾",中天综合
 http://www.kaniptv.cn/uadl.php?etoken=6F8xxC3GNaFnVxo5gjCIhL8QD%2F5cDmfjJE%2FqpjPqdKftEkvfSeMqGcYW4ZMyaWjm1AgFs%2B9ZyPJ3fc3FFtcxA6ywxHkn83SdmyyLJeculv8b81c6t5ZT9rmTXiJWVhT2BW6TjM62IwSxk83eZKLIpuKLML6gGZ894Jo%2BG8z3CKVQ59zhjE1eJdz9j%2Fu9ADIv3jLspvoPsMJTQmpXN%2FTP1XjmMDzI2AUZ2n2vuPFkegIkGEJi%2B4Khl8RnjUcfHjA%2F0doLLK58vvKqV1pvkYOIV47b84dJwsCvvv0n0xdlZMDS%2BzpzpfVb0DLstIJ1ZbdhgO0wp5FCIzNXgQNEhNLdgw%3D%3D
-#EXTINF:-1 tvg-id="1" tvg-name="TVBS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS.png" group-title="台湾",TVBS
-http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
-http://dbmlasvgas.sylu.cc:8880/stream/13884e44-5dda-4fc9-9809-3aa05f166e51/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS新聞.png" group-title="台湾",TVBS新聞
-http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
-http://iptv.4666888.xyz/iptv2A.php?id=43
-http://rihou.cc:555/tv/[FY]tvbS新闻
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/TVBS.png" group-title="台湾",TVBS
+http://www.kaniptv.cn/uadl.php?etoken=wgd28Me6AjCknyDYyliu74kANSXKgd1p1hPzYm4a17rNgHnWxCMh9ncyFixDpHWkzItL%2BjgkfHRzBMNZYQCx6SE6cUbzTYTN1yYPbTKpsPWq%2FsYyCjT8QEznEiZDvrNwE71dpFQvq524L%2B51gLj8jP5WHcymFtLaKE8V2e8foA207y4m1ROJSU8jqUVydgwMqQmrVv9n0l0a7gCa73mQ4%2FsSXMsjEaaTOWsuvjMbpLUbWw%2B6peMPpYflU05mXHHBe5RmB00jsOircSqHijlFKi0tDfEBsxKD8703k2%2BJOPb3oKaYzGHYXWdBfv1K0mSQ1fz%2Bpk9IMlxkQaa13FGg0Q%3D%3D
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/TVBS新闻.png" group-title="台湾",TVBS新聞
+http://www.kaniptv.cn/uadl.php?etoken=7TRr%2BWczbLgZ4XTHBEZ9Frr5SwP01H7mOfKbnj2TuNaxcdU2ByY2TdRYmUIrpd8cei7k%2F3fdP8mHXwS3IzhR7%2BX8KJgj7meafxXIc4NIGRMF9SdShruPrtdL7g2Z6QsTBCJF5mmnumaToRfTjHyJFQe%2FPohlqhaAe3KLDimWL3mgcyZ2O39ZO00xSTQ4wbh2cWaRT9jgCNIKPsmBdMWfPoxR842vkMZFeNAC1h%2FK4DQlJOonqcvSNj%2B3MwsolW64cvg9iSzjLBbUPL3ESpFlDGd8WmHyU8rYTcYdSPKoGs7Enjlafs7brfqLlatGRTOp2Y%2BGNEWJUnhcpHdXTAgtwA%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS综艺台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS综艺台.png" group-title="台湾",TVBS综艺台
 http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVBS精采.png" group-title="台湾",TVBS精采
@@ -193,11 +189,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=58
 http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="华艺中文台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华艺中文台.png" group-title="台湾",华艺中文台
 http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1 tvg-id="1" tvg-name="民视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视新闻.png" group-title="台湾",民视新闻
-http://00123.168ro.top:44345/litv-ftv13/index.m3u8?token=NV6Zy9OZuTcA6gMQDkqK1jtEtKVyVeaFyS1UY9gnyInSmVNBVNifIN8utLLz3I9N&proxy=true
-http://211.72.174.95:8117/0.ts
-http://rihou.cc:555/tv/民视新闻
-http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="1" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民视新闻.png" group-title="台湾",民视新闻
+http://www.kaniptv.cn/uadl.php?etoken=cWDygNuFjT6rwpAVmrvgDj8J3c1J6iia15ORrC9wCBExI%2FArg6ZoHIpwo88zvQJZeS5sl531I88m5R5vgkNnh3Pn29m6OKwSUdGB%2BQk%2FzSmq%2FOnRkQ7lCSfMqvDLhH3qEseCaeq4SEi48TEqyjCwxGab2C8GsYS1ahef%2B6k4EMUI8%2FUcowwWAS6Wc4d39Wwr98EgP0887oK1YMlw5xwE3ItCS2DJ%2BFJ7xqeMhXeSfP3Vi4bUBNbxlTUqHBhLJBCurjwzQeo6Zq4dW4DRhwrdv9Q1XdIIhAhbAXvFRg4wG9WDyphye5SVnD4Vi1yQOf3oUxcWWEO7S94bjwsc6D8zUg%3D%3D
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民视.png" group-title="台湾",民视
 http://www.kaniptv.cn/uadl.php?etoken=%2FhoYSM%2Fg8P4jBbML9YmiEN5t9bM%2FHkNXbO6pPBEGwUgW57hKbOny2JAVFVQPkIejUZ7dbtE5AZyHvE1ztJjdcR5%2BrjGjYgNIStehIFbJ3Ij%2BHeG9wsaBP8gOgRqQrORhMQQhvIyKio2%2FNCMIz1ipz6Hqqmi7HDKFkiy3Qf4YWnJjsMibGVPiu0kl7wbGFeYQkhKtXdsDiXeVis6Ot2L%2FwDLaT%2FoAh3TcaIZHbm47x%2Bz%2F7VA1q1qZI5uyw866ImDaFrZwjSctpEAENfAMTTWyrT3Wyz5SNS7GC99NSGo4JORyX02GOgv85JwXbX0d5wVQYs596BmVl597J9Wu%2FQlXKQ%3D%3D
 #EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/民視綜藝.png" group-title="台湾",民視綜藝
@@ -216,8 +209,8 @@ http://www.kaniptv.cn/uadl.php?etoken=hlsHIYpft7R2TCwhmfFmLWKwtxK%2BAj4dwlLcgP%2
 
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/台视.png" group-title="台湾",台视
 http://www.kaniptv.cn/uadl.php?etoken=ezBbNa7la3lnlPZ59kcM0Aan2jUvFAYAAEHCcii4pe3hf7bqjmZSPLCcFE8wcOE3qv5BDqcNioTzAZqH88psXfUsJznB4NoGyDjGm5aJLR%2B4HuxBuqrhX1LT2Ry07vIkg0Jn8E8N9oo6mTxeMFGswP%2FTsQmwLbjkNO2mbEiQY%2BCIr8PtkTquSmEVCdw7OwV84MjNCrTCDBUZ50WT4wQ1qLIcl6KK89cL0dknlnKfAWOVcYvaRFqhHqDic1NmdKzCYZPFkund3ZCT9iGHBqDalqI4XD35D6X6Tz2F5bh6vS2WSNhVjNXeRaWWcjE0Ojf88tjh%2Ff0xdb9eb8QGFAzN8g%3D%3D
-#EXTINF:-1 tvg-id="1" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="台湾",台视新闻
-http://220.135.241.47:8314/0.ts
+#EXTINF:-1 tvg-id="1" tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/台视新闻.png" group-title="台湾",台视新闻
+http://www.kaniptv.cn/uadl.php?etoken=uVx8jXKWEeuWNRNsJc1n0YcCm%2BzHRMv8fOWQ97nRVSLbmMxjISRraOfHCK3JKGoMp50RcOaFZejZr3YE3a9tKlUFsjxAeFkcENtdYzREuChW%2FPnjia0WUthGC12O4OWWR0wOIdXlt2JNL%2Fw4Z%2BIpq1lsTx7xfsKj%2F%2BPliCPPGUVRsdsWJgwLo84T5U%2BqxnRCz%2Fv8dy8whTLFcHjvxOQG2IlNN1pAqn9Tdff82cAyVtoYcdkAKExhNXFDktJzOZPirO8GIfx8Z%2B0mXgqrEcatZEI5vLeEk%2BbxKISEucul%2B3dIEZTR6sskWlZF9MnMvf2SOilxup1SxrfQ5o55zLFNpg%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="台视财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视财经.png" group-title="台湾",台视财经
 http://220.135.241.47:8315/0.ts
 #EXTINF:-1 tvg-id="1" tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/台视综合.png" group-title="台湾",台视综合
@@ -239,7 +232,7 @@ http://www.kaniptv.cn/uadl.php?etoken=AH6EAAyFgPomKUWxMNZP2xa80mriykkX07uAB6Wj19
 http://www.kaniptv.cn/uadl.php?etoken=pxE75dCX8IYclYHO0HxRtbnncd3j4z%2FaKxwQkxtnVroqnVjJccicZWIbrXDoaKHgDtyRgwuNVPwOSYS22TNBP64UX3mlL%2F0gI9cGW%2BLad7I8ZwQ%2FvmESgRUnHG5dW9ioDSSlEWkxKMVwrT7ruS%2Bi6Y6AXMTX9Bq074KdVaOPtEwInFvbpsMdKV%2B1Mf72GM%2By%2B51RGroD%2BmdncRv%2BVN9L79CVy9FREk66xMtXqOYdWpKr7fzaIbtc%2BTBwrQTcA89kVKALIRiJhS61ymR%2FwbMiUT%2F16LXV7W%2F7UPV3bv7etdsujlVlJh1qhdQopJKRHUFVySrPZ%2Fse0umlkxBNDc6Gxw%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="八大精彩台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/八大精彩台.png" group-title="台湾",八大精彩台
 http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-id="1" tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/八大第一台.png" group-title="台湾",八大第一台
+#EXTINF:-1 tvg-id="1" tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/八大第一.png" group-title="台湾",八大第一台
 http://www.kaniptv.cn/uadl.php?etoken=Qg9v3DOqd7246BMss4dNTMedkJBgD7mj5tHpKM8g3paazEMT0lcqRCjo6aoiEhGXpEiYhdnz4MuHLwYbWKoofu6gZCxq1XCySQNzrbiP02%2F3mQBBRd7KjWgA61TV5pz5KHxgpC%2BARemQskwcdNJWf9O%2BoMVmavJy0fYGybdMLvf1%2BoHpYlLHTa710k9tBbS4XQ6ql%2B6w3YXCKA6aJwNbM7ePCNJOVhVt4KNJN6xWX0%2FNZCPrtuKWU79Opz5OegQz3Rz0ch%2BL0lEEQRyoqo4YGQBbvFrb0doXroyb%2BNU4TbUQcV1k476eh%2FahiZUIXabXPauMteADxDWp0A1jn6YXNQ%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="公视台语台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/公视台语台.png" group-title="台湾",公视台语台
 http://220.135.241.47:8306/0.ts
@@ -275,8 +268,8 @@ http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
 http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="靖洋戏剧台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖洋戏剧台.png" group-title="台湾",靖洋戏剧台
 https://cdn12.178.indevs.in/163189/jyxj
-#EXTINF:-1 tvg-id="1" tvg-name="三立新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻台.png" group-title="台湾",三立新闻台
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="1" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/三立新闻.png" group-title="台湾",三立新闻台
+http://www.kaniptv.cn/uadl.php?etoken=8TlAsRn%2F%2BR522NtlFRZm%2FOpbQppvRTDBfqncn%2B1UkokBnRtFdReyTRQ3mr5Tb1DUNLGLB%2BvemxIQp2nrgsrpjZ8S6u%2Bez4gf6lUD1BgomUxP3VgmvPVl2G%2BjfyEA2XyMbwrNgLbxetbwZ5%2BnK%2FgBZcSYz9wQixu7NXSEF2hujRQ5TO8NEY38GTjWlY59yVyWd%2Bpah9lRtVR1zpnKIpVzT%2FriYYe3OFz0aapUhKeCHJ%2B0GIs0qL%2B%2BNyS0LmHvn0jax4no%2FoLRRHg%2BFjWDkffX3Gyxwc5%2FyHhj3KNO1qLY6TcJhOs9DLUyj%2Ftaww4ke%2B1SPfFcc761gPNmkgJUo%2BqQUw%3D%3D
 #EXTINF:-1 tvg-id="1" tvg-name="三立综合台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立综合台.png" group-title="台湾",三立综合台
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="1" tvg-name="三立都会" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/三立都会.png" group-title="电影",三立都会
