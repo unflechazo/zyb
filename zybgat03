@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.946985.filegear-sg.me/t.xml.gz" 
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz" 
 #EXTINF:-1 tvg-id="1" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="香港",CNA
 #EXTINF:-1 tvg-id="1" tvg-name="环球电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视台.png" group-title="香港",环球电视台
 
@@ -52,6 +52,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="香港",千禧经典台
 
 #EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="香港",myTV SUPER
+
+#EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/MyTV Super 粤语片.png" group-title="香港",MyTV Super 粤语片
 http://iptv.4666888.xyz/iptv2A.php?id=22
 #EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="香港",myTV SUPERFOOTBALL3
 
