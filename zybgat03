@@ -95,7 +95,7 @@ http://www.kaniptv.cn/uadl.php?etoken=yjoAg90Hs0o5ups89GBlT8Yin6yS0XWUO0HNoHSb1p
 #EXTINF:-1 tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="香港",ASTRO AOD
 
 #EXTINF:-1 tvg-name="AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="香港",ASTRO AEC
-
+https://cdn3.indevs.in/stream/live/aec/
 #EXTINF:-1 tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/QJ.png" group-title="香港",ASTRO QJ
 
 #EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="香港",ASTRO 欢喜台
@@ -258,10 +258,10 @@ https://cdn.qd.je/163189/dsxj
 https://cdn.qd.je/163189/dsyp
 #EXTINF:-1 tvg-id="1" tvg-name="中国电影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/CMC中国电影(香港).png" group-title="电影",中国电影
 http://www.kaniptv.cn/uadl.php?etoken=hZO1zHkM%2BQdy1wtQSy1%2BGtzEkE6%2BRknLKEMcaMzX4G2m4PuLOcynN%2FzL5rQVdJC5JSQ6YYu2SCvd7UVbWwCEXGijpyi19BKcwCuXP2zFnngkhlR6DngeuisM%2F6S%2FVHi%2BJwfCLqyRBz6rP1WF7oAmVP38a4ZvmxYY1DxpxNIzKef6mUoMkEnm6Bc7M2Ng37LsKaf5kGN4xOhEKo3VCCeRLEdEa9haT6s3xCZsJIa9qNUxNvz1KWzUb64awSBMMrhfZhUX%2BpNT8wtKcWZr2ceTERH6BcgjQdXTUxQTlvCCi6mPG3wWBFRwLgR61IFAYN63HSqrmJyg080SS5osIsVsQg%3D%3D
-#EXTINF:-1 tvg-name="天映频道马来西亚" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/天映频道.png" group-title="电影",天映频道
-
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/天映频道.png" group-title="电影",天映频道
+https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/天映经典.png" group-title="电影",天映经典频道
-,http://www.kaniptv.cn/uadl.php?etoken=lRPDMvWql5Xl0j%2B%2BA0%2B4YqwcaSQoNe%2BjD6ktzVgfe6%2F6nOrd2SfjfZC%2Byyk%2FE8vBAsG5l0MM1h%2B0mchSe1%2FB4sZUbiMHDTgfJhPkHcIaE3LtM%2FCzkhfKoYhg54Dquw3a%2FRXdC0ERX49t4KZLWgcNydtFQ9kFY%2FxEJ8aNhYm20ABbFxyzmrX3p5YqNmBwlZSkWF8epGRaNw%2BUAx0Tk%2ByDw5QHcfHBb8ZsTZm6FRQBzShOjGrWSI6WBsL75oKoWICeEpTLzQeAxmEo8UNWv0GnQpIzCZfmM5IE9BS7BChUwJ7onXOqjamNrypx5MerQElH%2FINrjtHyVlwSsrmgz0TvAw%3D%3D
+http://www.kaniptv.cn/uadl.php?etoken=lRPDMvWql5Xl0j%2B%2BA0%2B4YqwcaSQoNe%2BjD6ktzVgfe6%2F6nOrd2SfjfZC%2Byyk%2FE8vBAsG5l0MM1h%2B0mchSe1%2FB4sZUbiMHDTgfJhPkHcIaE3LtM%2FCzkhfKoYhg54Dquw3a%2FRXdC0ERX49t4KZLWgcNydtFQ9kFY%2FxEJ8aNhYm20ABbFxyzmrX3p5YqNmBwlZSkWF8epGRaNw%2BUAx0Tk%2ByDw5QHcfHBb8ZsTZm6FRQBzShOjGrWSI6WBsL75oKoWICeEpTLzQeAxmEo8UNWv0GnQpIzCZfmM5IE9BS7BChUwJ7onXOqjamNrypx5MerQElH%2FINrjtHyVlwSsrmgz0TvAw%3D%3D
 #EXTINF:-1 tvg-name="美亚电影香港" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/美亚电影香港.png" group-title="电影",美亚电影香港
 http://www.kaniptv.cn/uadl.php?etoken=UourVB3piNKfDxM5vHTE2DaX%2BotaOI6yvwJlQJqa7b09Tbl%2BEQcpsv6gTq5dUFosjFn6fFwDcuiKI7x0EIDTQLFzlWcVj%2BQXjB9T6%2Bnc6B%2FRk%2FRxyDDlICOBffzotkhG8yTVpOKOdJYNhF%2F2IHeSuQ%2FV6%2FpnJHeXArgY70sn3Tm3By6dLstRmebJxPRH5m7aEvnK0OOE74F5H2Oe1YB5kCKyUaJ5CRe690P74R3V6Lfl4U%2FzmpRxa0zBwhiPgea0ZISeFNyEhLO%2BqbsS535EJn4I%2FBB3o5z2e4Pl%2FrkhDaTy%2BB1RoLcBPK5ehLvMHrxCk6CKs6niN4gD0hwfYLcKzg%3D%3D
 #EXTINF:-1 tvg-name="POPC" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/PopC.png" group-title="电影",POPC
