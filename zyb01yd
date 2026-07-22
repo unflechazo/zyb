@@ -28,24 +28,26 @@ http://107.150.60.122/live/cctv8k.m3u8
 http://39.136.35.18:6610/000000001000/5000000008000023254/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="📺4K频道",北京卫视-4K
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226322/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视4K.png" group-title="📺4K频道",广东卫视-4K
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226357/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视4K.png" group-title="📺4K频道",深圳卫视-4K
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226335/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视4K.png" group-title="📺4K频道",浙江卫视-4K
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226338/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视4K.png" group-title="📺4K频道",东方卫视-4K
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226360/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视4K.png" group-title="📺4K频道",江苏卫视-4K
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226356/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视4K.png" group-title="📺4K频道",四川卫视-4K
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226364/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视4K.png" group-title="📺4K频道",山东卫视-4K
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226365/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="📺4K频道",北京卫视4K超高清25p
 http://sckonlan.youankj.cn:8888/rtp/239.94.0.111:5140
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视4K.png" group-title="📺4K频道",湖南卫视-4K
+#EXTINF:-1 tvg-name="爱上海4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/东方卫视4K.png" group-title="📺4K频道",爱上海4K
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8#http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/东方卫视4K.png" group-title="📺4K频道",东方卫视-4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226360/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/江苏卫视4K.png" group-title="📺4K频道",江苏卫视-4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226356/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/浙江卫视4K.png" group-title="📺4K频道",浙江卫视-4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226338/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/湖南卫视4K.png" group-title="📺4K频道",湖南卫视-4K
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226361/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/广东卫视4K.png" group-title="📺4K频道",广东卫视-4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226357/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/深圳卫视4K.png" group-title="📺4K频道",深圳卫视-4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226335/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东卫视4K.png" group-title="📺4K频道",山东卫视-4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226365/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/四川卫视4K.png" group-title="📺4K频道",四川卫视-4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226364/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/多彩文体4K.png" group-title="📺4K频道",多彩文体-4K
 http://39.136.35.18:6610/000000001000/5000000007000010001/index.m3u8?fmt=ts2hls
 
