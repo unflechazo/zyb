@@ -347,20 +347,10 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225808/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="西乌珠穆沁旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/西乌珠穆沁旗广播电视台.png" group-title="📺内蒙古频道",西乌珠穆沁旗广播电视台
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225840/1.m3u8?fmt=ts2hls
-
-
 #EXTINF:0 CUID="200" tvg-name="锡林郭勒1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古锡林郭勒1.png" group-title="📺内蒙古频道",锡林郭勒1
+http://123.179.62.20:4022/rtp/239.29.0.38:5000
 #EXTINF:0 CUID="199" tvg-name="锡林郭勒2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古锡林郭勒2.png" group-title="📺内蒙古频道",锡林郭勒2
-#EXTINF:0 CUID="207" tvg-name="乌兰察布新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古乌兰察布新闻综合.png" group-title="📺内蒙古频道",乌兰察布新闻综合
-#EXTINF:0 CUID="208" tvg-name="乌兰察布经济生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古乌兰察布经济生活.png" group-title="📺内蒙古频道",乌兰察布经济生活
-#EXTINF:0 CUID="211" tvg-name="兴安盟新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古兴安盟新闻综合.png" group-title="📺内蒙古频道",兴安盟新闻综合
-#EXTINF:0 CUID="210" tvg-name="兴安盟文化旅游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古兴安盟文化旅游.png" group-title="📺内蒙古频道",兴安盟文化旅游
-#EXTINF:0 CUID="209" tvg-name="兴安盟影视娱乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古兴安盟影视娱乐.png" group-title="📺内蒙古频道",兴安盟影视娱乐
-#EXTINF:0 CUID="212" tvg-name="阿拉善新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古阿拉善新闻综合.png" group-title="📺内蒙古频道",阿拉善新闻综合
-
-
-
-
+http://123.179.62.20:4022/rtp/239.29.0.39:5000
 
 
 
