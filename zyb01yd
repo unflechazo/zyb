@@ -245,28 +245,26 @@ http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/浙江国际.png" group-title="📡卫视频道",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 
-#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古农牧.png" group-title="📺内蒙古频道",内蒙古农牧
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古少儿.png" group-title="📺内蒙古频道",内蒙古少儿
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古新闻综合.png" group-title="📺内蒙古频道",内蒙古新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古经济生活.png" group-title="📺内蒙古频道",内蒙古经济生活
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古文体娱乐.png" group-title="📺内蒙古频道",内蒙古文体娱乐
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225877/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古新闻综合.png" group-title="📺内蒙古频道",内蒙古新闻综合
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古农牧.png" group-title="📺内蒙古频道",内蒙古农牧
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古少儿.png" group-title="📺内蒙古频道",内蒙古少儿
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古蒙语.png" group-title="📺内蒙古频道",内蒙古蒙语卫视
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225705/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="内蒙古蒙语2文化" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古蒙语文化.png" group-title="📺内蒙古频道",内蒙古蒙语2文化
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/1.m3u8?fmt=ts2hls
-
-
-
 #EXTINF:0 CUID="181" tvg-name="呼和浩特新闻综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古呼和浩特新闻综合.png" group-title="📺内蒙古频道",呼和浩特新闻综合
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225814/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="183" tvg-name="呼和浩特影视娱乐" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古呼和浩特影视娱乐.png" group-title="📺内蒙古频道",呼和浩特影视娱乐
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225815/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="196" tvg-name="包头新闻综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古包头新闻综合.png" group-title="📺内蒙古频道",包头新闻综合
+http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
 #EXTINF:0 CUID="197" tvg-name="包头生活服务" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古包头生活服务.png" group-title="📺内蒙古频道",包头生活服务
 #EXTINF:0 CUID="197" tvg-name="包头经济" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/包头经济.png" group-title="📺内蒙古频道",包头经济
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225835/1.m3u8?fmt=ts2hls
@@ -276,6 +274,15 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225836/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="190" tvg-name="鄂尔多斯蒙语频道" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古鄂尔多斯蒙语.png" group-title="📺内蒙古频道",鄂尔多斯蒙语频道
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225838/1.m3u8?fmt=ts2hls
+#EXTINF:0 CUID="204" tvg-name="通辽新闻综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/通辽新闻综合.png" group-title="📺内蒙古频道",通辽新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225825/1.m3u8?fmt=ts2hls
+#EXTINF:0 CUID="206" tvg-name="通辽蒙语频道" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古通辽蒙语.png" group-title="📺内蒙古频道",通辽蒙语频道
+
+#EXTINF:0 CUID="204" tvg-name="通辽城市服务" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/通辽城市服务.png" group-title="📺内蒙古频道",通辽城市服务
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225823/1.m3u8?fmt=ts2hls
+
+
+
 #EXTINF:0 CUID="203" tvg-name="巴彦淖尔新闻综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古巴彦淖尔新闻综合.png" group-title="📺内蒙古频道",巴彦淖尔新闻综合
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225830/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="202" tvg-name="巴彦淖尔经济生活" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古巴彦淖尔经济生活.png" group-title="📺内蒙古频道",巴彦淖尔经济生活
@@ -304,10 +311,7 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225812/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="205" tvg-name="通辽新闻综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古通辽新闻综合.png" group-title="📺内蒙古频道",通辽新闻综合
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225825/1.m3u8?fmt=ts2hls
-#EXTINF:0 CUID="206" tvg-name="通辽蒙语频道" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古通辽蒙语.png" group-title="📺内蒙古频道",通辽蒙语频道
 
-#EXTINF:0 CUID="204" tvg-name="通辽城市服务" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古通辽城市服务.png" group-title="📺内蒙古频道",通辽城市服务
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225823/1.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="207" tvg-name="乌兰察布新闻综合" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古乌兰察布新闻综合.png" group-title="📺内蒙古频道",乌兰察布新闻综合
 
 #EXTINF:0 CUID="208" tvg-name="乌兰察布经济生活" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古乌兰察布经济生活.png" group-title="📺内蒙古频道",乌兰察布经济生活
