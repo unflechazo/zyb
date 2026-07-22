@@ -21,9 +21,7 @@ http://sckonlan.youankj.cn:8888/rtp/239.94.1.150:5140
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV4K.png" group-title="📺4K频道",CCTV-4K
 http://39.136.35.18:6610/050000001888/5000000188800000217/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV-8K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV8K.png" group-title="📺4K频道",CCTV-8K
-http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-http://192.151.150.154/live/cctv8k.m3u8
-http://107.150.60.122/live/cctv8k.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub#http://192.151.150.154/live/cctv8k.m3u8#http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV-16-4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV16奥林匹克4K.png" group-title="📺4K频道",CCTV-16-4K
 http://39.136.35.18:6610/000000001000/5000000008000023254/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="📺4K频道",北京卫视-4K
