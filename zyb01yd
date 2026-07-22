@@ -3,11 +3,11 @@
 
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/精彩影视.png" group-title="🎬电影",精彩影视
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.172:5140
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CHC影迷电影.png" group-title="🎬电影",CHC影迷🎬电影
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CHC影迷电影.png" group-title="🎬电影",CHC影迷电影
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.174:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CHC家庭影院.png" group-title="🎬电影",CHC家庭影院
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.173:5140
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CHC动作电影.png" group-title="🎬电影",CHC动作🎬电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CHC动作电影.png" group-title="🎬电影",CHC动作电影
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.175:5140
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/爱上4K测试体验.png" group-title="🎬电影",爱上4K
 http://sckonlan.youankj.cn:8888/rtp/239.94.0.21:5140
