@@ -224,9 +224,9 @@ http://39.136.35.18:6610/000000001000/5000000006000040018/index.m3u8?fmt=ts2hls
 http://39.136.35.18:6610/000000001000/5000000011000031120/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/厦门卫视.png" group-title="📡卫视频道",厦门卫视
 http://111.56.121.176:80/050000001888/5000000188800000062/index.m3u8
-#EXTINF:0 CUID="215" tvg-name="都市剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/都市剧场.png" group-title="📡卫视频道",都市剧场
+#EXTINF:0 CUID="215" tvg-name="都市剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/都市剧场.png" group-title="📡卫视频道",都市剧场
 http://39.136.35.18:6610/000000001000/5000000011000031111/index.m3u8?fmt=ts2hls
-#EXTINF:0 CUID="215" tvg-name="上海都市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/上海都市.png" group-title="📡卫视频道",上海都市
+#EXTINF:0 CUID="215" tvg-name="上海都市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/上海都市.png" group-title="📡卫视频道",上海都市
 http://39.136.35.15:6610/000000001000/5000000010000018926/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/动漫秀场.png" group-title="📡卫视频道",动漫秀场
 http://39.136.35.18:6610/000000001000/5000000011000031113/index.m3u8?fmt=ts2hls
@@ -337,8 +337,6 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225807/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="乌拉特前旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/乌拉特前旗广播电视台.png" group-title="📺内蒙古频道",乌拉特前旗广播电视台
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225796/1.m3u8?fmt=ts2hls
-
-
 #EXTINF:-1 tvg-name="乌拉特中旗电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/乌拉特中旗电视台.png" group-title="📺内蒙古频道",乌拉特中旗电视台
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225804/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="伊金霍洛旗综合频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/伊金霍洛旗综合频道.png" group-title="📺内蒙古频道",伊金霍洛旗综合频道
