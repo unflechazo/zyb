@@ -31,10 +31,7 @@ https://cdn3.indevs.in/stream/tvb/fct4k/#https://cdn.qd.je/163189/fct4k
 http://120.234.11.131:18180/TV00000000000000000035@HHZT
 #EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB星河台.png" group-title="香港",TVB星河(国语)
 https://cdn3.indevs.in/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="香港",TVB翡翠剧集台
-
-#EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="香港",TVB翡翠华剧台
-
+https://cdn.qd.je/163189.php?id=xinghe
 #EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/黄金华剧台.png" group-title="香港",黄金华剧台
 http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-name="TVB獎門人" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/MyTV Super 奖门人.png" group-title="香港",TVB獎門人
@@ -47,10 +44,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=25
 http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 tvg-name="TVB e" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB e翡翠娱乐台.png" group-title="香港",TVB e
 
-#EXTINF:-1 tvg-name="TVB Drama" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB Drama翡翠剧集台.png" group-title="香港",TVB Drama
+#EXTINF:-1 tvg-name="TVB翡翠剧集台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB Drama翡翠剧集台.png" group-title="香港",TVB翡翠剧集台
 http://iptv.4666888.xyz/iptv2A.php?id=33
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="香港",千禧经典台
-
+#EXTINF:-1 tvg-name="TVB翡翠剧集台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB Drama翡翠剧集台.png" group-title="香港",TVB翡翠剧集台
+https://cdn.qd.je/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/myTV SUPER.png" group-title="香港",myTV SUPER
 http://iptv.4666888.xyz/iptv2A.php?id=22
 #EXTINF:-1 tvg-id="1" tvg-name="myTV SUPER" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/MyTV Super 粤语片.png" group-title="香港",MyTV Super 粤语片
@@ -104,13 +101,13 @@ https://cdn3.indevs.in/stream/live/qj/
 #EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="香港",ASTRO 欢喜台
 https://cdn3.indevs.in/stream/live/hxt/
 #EXTINF:-1 tvg-name="8TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="香港",八度空间
-
+https://cdn.qd.je/163189.php?id=8tv
 #EXTINF:-1 tvg-name="CHANNEL5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL5.png" group-title="香港",CHANNEL 5
-
+https://cdn.qd.je/163189.php?id=ch5
 #EXTINF:-1 tvg-name="CHANNEL8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL8.png" group-title="香港",CHANNEL 8
-
+https://cdn.qd.je/163189.php?id=ch8
 #EXTINF:-1 tvg-name="CHANNELU" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNELU.png" group-title="香港",CHANNEL U
-
+https://cdn.qd.je/163189.php?id=chu
 #EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻台.png" group-title="台湾",寰宇新闻台
 http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台湾台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/寰宇新闻台湾.png" group-title="台湾",寰宇新闻台湾台
