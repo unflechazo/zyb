@@ -1,4 +1,4 @@
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-name="西乌珠穆沁旗广播电视台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/西乌珠穆沁旗广播电视台.png" group-title="📺内蒙古频道",西乌珠穆沁旗广播电视台
+#EXTINF:-1 tvg-name="西乌珠穆沁旗广播电视台" tvg-logo="https://cdn.jsdelivr.net/gh/unflechazo/zyb@main/img/内蒙古/西乌珠穆沁旗广播电视台.png" group-title="📺内蒙古频道",西乌珠穆沁旗广播电视台
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225840/1.m3u8?fmt=ts2hls
