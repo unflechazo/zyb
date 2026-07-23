@@ -1,7 +1,13 @@
-#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
-#EXTINF:-1 tvg-name="西乌珠穆沁旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/西乌珠穆沁旗广播电视台.png" group-title="📺内蒙古频道",西乌珠穆沁旗广播电视台
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225840/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV4K.png" group-title="📺4K频道",CCTV-4K
-http://39.136.35.18:6610/050000001888/5000000188800000217/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
-rtsp://10.11.43.21/PLTV/88888912/224/3221226776/475516698.smil
+HISTORY頻道,http://37.27.111.214:8080/live/27/hls.m3u8
+HITs電影頻道,http://37.27.111.214:8080/live/28/hls.m3u8
+龍華電影頻道,http://37.27.111.214:8080/live/19/hls.m3u8
+民視閩南頻道,http://37.27.111.214:8080/live/6/hls.m3u8
+亞洲旅遊頻道,http://37.27.111.214:8080/live/10/hls.m3u8
+中视,http://37.27.111.214:8080/live/7/hls.m3u8
+豬哥亮歌廳國,http://37.27.111.214:8080/live/35/hls.m3u8
+MBC Chuncheon,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+MBC Chungbuk,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+MBC Daegu,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+MBC Daejeon,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MBC Mokpo,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC Yeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
