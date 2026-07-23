@@ -24,8 +24,7 @@ http://sckonlan.youankj.cn:8888/rtp/239.94.0.21:5140
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.162:5140
 #EXTINF:-1 tvg-name="绚影4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/绚影4K.png" group-title="🎬电影",绚影4K  
 http://sckonlan.youankj.cn:8888/rtp/239.94.1.150:5140
-#EXTINF:-1 tvg-name="儿童秀场轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/动画轮播.png" group-title="🎬电影",儿童秀场轮播台  
-http://111.56.121.176/050000001888/5000000188800000185/1.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-name="动作电影轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/电影_轮播影院1.png" group-title="🎬电影",动作电影轮播台  
 http://111.56.121.176/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000190/index.m3u8
 #EXTINF:-1 tvg-name="古装神剧轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/古装剧.png" group-title="🎬电影",古装神剧轮播台  
@@ -108,6 +107,8 @@ http://39.136.35.18:6610/000000001000/5000000011000031109/index.m3u8?fmt=ts2hls
 http://39.136.35.15:6610/000000001000/5000000008000023253/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV17.png" group-title="📺央视频道",CCTV17
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225977/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CETV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/早期教育.png" group-title="📺央视频道",CETV
+http://111.56.121.176/050000001888/5000000188800000165/1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/中国教育1.png" group-title="📺央视频道",CETV1
 http://39.136.35.18:6610/000000001000/5000000002000002652/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/中国教育2.png" group-title="📺央视频道",CETV2
@@ -244,8 +245,6 @@ http://111.56.121.176:80/050000001888/5000000188800000062/index.m3u8
 http://39.136.35.18:6610/000000001000/5000000011000031111/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="215" tvg-name="上海都市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/上海都市.png" group-title="📡卫视频道",上海都市
 http://39.136.35.15:6610/000000001000/5000000010000018926/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/动漫秀场.png" group-title="📡卫视频道",动漫秀场
-http://39.136.35.18:6610/000000001000/5000000011000031113/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/浙江少儿.png" group-title="📡卫视频道",浙江少儿
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/浙江钱江都市.png" group-title="📡卫视频道",浙江钱江都市
@@ -366,8 +365,16 @@ http://123.179.62.20:4022/rtp/239.29.0.38:5000
 #EXTINF:0 CUID="199" tvg-name="锡林郭勒2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古锡林郭勒2.png" group-title="📺内蒙古频道",锡林郭勒2
 http://123.179.62.20:4022/rtp/239.29.0.39:5000
 
-
-
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/动漫秀场.png" group-title="🪁儿童",动漫秀场
+http://39.136.35.18:6610/000000001000/5000000011000031113/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/BesTV-4K.png" group-title="🪁儿童",金鹰卡通
+http://wan1.tangwudi.cc:47859//rtp/239.94.1.70:5140
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/北京卡酷少儿.png" group-title="🪁儿童",北京卡酷少儿
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225687/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="儿童秀场轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/动画轮播.png" group-title="🪁儿童",儿童秀场轮播台  
+http://111.56.121.176/050000001888/5000000188800000185/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/金鹰卡通.png" group-title="🪁儿童",金鹰卡通
+http://111.56.121.176:80/050000001888/5000000188800000054/index.m3u8
 
 
 #EXTINF:0 CUID="215" tvg-name="游戏风云" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/游戏风云.png" group-title="其它",游戏风云
