@@ -27,6 +27,7 @@ http://120.234.11.131:18180/TV00000000000000000035@HHZT
 #EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB星河台.png" group-title="香港",TVB星河(国语)
 https://cdn3.indevs.in/stream/live/tvbxh/
 https://cdn.qd.je/163189.php?id=xinghe
+https://cdn.qd.je/163189/xinghe
 #EXTINF:-1 tvg-name="TVB翡翠剧集台(TVBDRAMA)" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/黄金华剧台.png" group-title="香港",黄金华剧台
 https://cdn.qd.je/163189.php?id=tvbd
 http://iptv.4666888.xyz/iptv2A.php?id=34
