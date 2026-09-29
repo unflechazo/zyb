@@ -52,13 +52,9 @@ http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_97
 #EXTINF:-1 tvg-name="爱情生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV爱情喜剧.png" group-title="🎬电影",爱情生活 
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d 
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/华数TV.png" group-title="🎬电影",军旅剧场 
-
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/华数TV.png"group-title="🎬电影",古装剧场 
-
 #EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/华数TV.png" group-title="🎬电影",喜剧影院 
-
 #EXTINF:-1 tvg-name="动作影院" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/华数TV.png" group-title="🎬电影",动作影院 
-
 #EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/华数TV.png" group-title="🎬电影",城市剧场
 #EXTINF:-1 tvg-id="1" tvg-name="NOW星影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/NOW爆谷星影台.png" group-title="🎬电影",NOW星影
 http://173.208.234.146/live/nowxy.m3u8
@@ -74,15 +70,60 @@ http://63.141.230.178/live/lbsswx.m3u8
 http://192.151.150.154/live/lbssdz.m3u8
 #EXTINF:-1 tvg-name="林正英" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/轮播-林正英.png" group-title="🎬电影",林正英 
 http://63.141.230.178/live/hylzy.m3u8
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB翡翠台.png" group-title="🔥香港",TVB翡翠台
-http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
-#EXTINF:-1 tvg-name="TVB翡翠剧集台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/黄金华剧台.png" group-title="🔥香港",黄金华剧台
-https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
-#EXTINF:-1 tvg-name="myTV SUPER" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/myTV SUPER.png" group-title="🔥香港",myTV SUPER
-https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-#EXTINF:-1 tvg-name="myTV SUPER" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/myTV SUPER.png" group-title="🔥香港",myTV SUPER1
-http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 tvg-name="中國電影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/CMC中国电影(香港).png" group-title="🎬电影",中國電影 
+http://iptv.4666888.xyz/iptv2A.php?id=18
+#EXTINF:-1 tvg-name="愛奇藝" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/爱奇艺/Astro IQIYI.png" group-title="电影",愛奇藝
+http://iptv.4666888.xyz/iptv2A.php?id=52
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/龙华电影.png" group-title="电影",龍華電影
+http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/龙华洋片.png" group-title="电影",龍華洋片
+http://iptv.4666888.xyz/iptv2A.php?id=57
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/靖天电影.png" group-title="电影",靖天电影
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 tvg-name="MCE電影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/MCE光影欧洲.png" group-title="电影",MCE電影
+http://iptv.4666888.xyz/iptv2A.php?id=40
 
+
+#EXTINF:-1 tvg-name="TVB-金曲" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/MyTV Super 金曲.png" group-title="🔥香港",TVB-金曲
+http://iptv.4666888.xyz/iptv2A.php?id=17
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB翡翠台.png" group-title="🔥香港",TVB翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=28v
+#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB明珠台.png" group-title="🔥香港",TVB明珠台
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB J1翡翠综合台.png" group-title="🔥香港",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB 1翡翠1台.png" group-title="🔥香港",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-name="myTV SUPER" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/myTV SUPER.png" group-title="🔥香港",myTV SUPER
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 tvg-name="TVB翡翠剧集台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/黄金华剧台.png" group-title="🔥香港",黄金华剧台
+http://iptv.4666888.xyz/iptv2A.php?id=24
+#EXTINF:-1 tvg-name="TVB Drama翡翠剧集台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/TVB Drama翡翠剧集台.png" group-title="🔥香港",TVB Drama翡翠剧集台
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-name="澳視澳門" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/澳视澳门.png" group-title="🔥香港",澳視澳門
+http://iptv.4666888.xyz/iptv2A.php?id=19
+#EXTINF:-1 tvg-name="創世電視" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/創世電視.png" group-title="香港",創世電視
+http://iptv.4666888.xyz/iptv2A.php?id=20
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/TVBS新闻.png" group-title="香港",TVBS新聞
+http://iptv.4666888.xyz/iptv2A.php?id=43
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民視.png" group-title="香港",民視
+http://iptv.4666888.xyz/iptv2A.php?id=54
+#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民视旅游.png" group-title="香港",民视旅游
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 tvg-name="靖天歡樂" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/靖天欢乐.png" group-title="香港",靖天歡樂
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/靖天卡通.png" group-title="香港",靖天卡通
+http://iptv.4666888.xyz/iptv2A.php?id=42
+#EXTINF:-1 tvg-name="經典卡通" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/CN卡通台湾.png" group-title="香港",經典卡通
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/八度空間.png" group-title="香港",八度空間
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 tvg-name="幸福空間居家" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/幸福空间居家.png" group-title="香港",幸福空間居家
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/時尚運動X.png" group-title="香港",時尚運動X
+http://iptv.4666888.xyz/iptv2A.php?id=49
+#EXTINF:-1 tvg-name="ELTV生活英語" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/ELTV生活英语.png" group-title="香港",ELTV生活英語
+http://iptv.4666888.xyz/iptv2A.php?id=58
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV4K.png" group-title="📺4K频道",CCTV-4K
 http://39.136.35.18:6610/050000001888/5000000188800000217/index.m3u8?
