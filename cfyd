@@ -1,5 +1,20 @@
 
 #EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
+#EXTINF:-1 tvg-name="音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/斗鱼直播.png" group-title="🎵音乐",点播
+http://8.155.43.98:35455/douyu/85894
+#EXTINF:-1 tvg-name="音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/斗鱼直播.png" group-title="🎵音乐",点播1
+http://8.155.43.98:35455/douyu/20415
+#EXTINF:-1 tvg-name="音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/斗鱼直播.png" group-title="🎵音乐",点播2
+http://8.155.43.98:35455/douyu/17732
+#EXTINF:-1 tvg-name="音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/斗鱼直播.png" group-title="🎵音乐",点播3
+http://8.155.43.98:35455/douyu/9629943
+#EXTINF:-1 tvg-name="音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/斗鱼直播.png" group-title="🎵音乐",点播4
+http://8.155.43.98:35455/douyu/8970851
+#EXTINF:-1 tvg-name="音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/斗鱼直播.png" group-title="🎵音乐",点播5
+http://8.155.43.98:35455/douyu/3186217
+#EXTINF:-1 tvg-name="音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/斗鱼直播.png" group-title="🎵音乐",点播6
+http://8.155.43.98:35455/douyu/9575463
+
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩竞技.png" group-title="🏀体育",睛彩竞技
 http://111.56.121.176/050000001888/5000000188800000106/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000106/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩篮球.png" group-title="🏀体育",睛彩篮球
@@ -13,23 +28,21 @@ http://111.56.121.176/050000001888/5000000188800000109/1.m3u8?fmt=ts2hls#http://
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/爱上4K测试体验.png" group-title="🎬电影",爱上4K
 http://4px369674fn3.vicp.fun:7088/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-name="4K乐享超清" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/纯享4K.png" group-title="🎬电影",4K乐享超清
-http://ai.xiaoshudiao.top:10086/rtp/239.94.1.162:5140
+http://nas.yzs10000.com:17777/rtp/239.94.1.162:5140
 #EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/BesTV-4K.png" group-title="🎬电影",BesTV4K电影
-http://www.negative.top:50000/rtp/233.50.200.185:5140
+http://nas.yzs10000.com:17777/rtp/233.50.200.185:5140
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/精彩影视.png" group-title="🎬电影",精彩影视
-http://ai.xiaoshudiao.top:10086/rtp/239.94.1.172:5140
+http://nas.yzs10000.com:17777/rtp/239.94.1.172:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CHC影迷电影.png" group-title="🎬电影",CHC影迷电影
-http://ai.xiaoshudiao.top:10086/rtp/239.94.1.174:5140
+http://nas.yzs10000.com:17777/rtp/239.94.1.174:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CHC家庭影院.png" group-title="🎬电影",CHC家庭影院
-http://ai.xiaoshudiao.top:10086/rtp/239.94.1.173:5140
+http://nas.yzs10000.com:17777/rtp/239.94.1.173:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CHC动作电影.png" group-title="🎬电影",CHC动作电影
-http://ai.xiaoshudiao.top:10086/rtp/239.94.1.175:5140
+http://nas.yzs10000.com:17777/rtp/239.94.1.175:5140
 #EXTINF:-1 tvg-name="华数影院" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/华数TV.png" group-title="🎬电影",华数影院
 http://114.242.62.109:888/hls/54/index.m3u8
 #EXTINF:-1 tvg-name="华数影院壹" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/华数TV.png" group-title="🎬电影",华数影院壹
 http://114.242.62.109:888/hls/100/index.m3u8
-#EXTINF:-1 tvg-name="美亚电影台国" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/美亚电影台湾.png" group-title="🎬电影",美亚电影台国
-https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/重温经典.png" group-title="🎬电影",重温经典  
 http://60.175.47.78:8480/hls/50/index.m3u8
 
@@ -250,9 +263,9 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="📡卫视频道",凤凰中文
-http://ai.xiaoshudiao.top:10086/rtp/239.11.0.153:5140
+http://wan1.tangwudi.cc:47859/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="📡卫视频道",凤凰资讯
-http://ai.xiaoshudiao.top:10086/rtp/239.11.0.154:5140
+http://wan1.tangwudi.cc:47859/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/凤凰香港.png" group-title="📡卫视频道",凤凰香港
 http://139.196.28.189:18888/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -666,33 +679,33 @@ http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
 
 #EXTINF:0 CUID="215" tvg-name="四川经济" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川经济.png" group-title="📡四川",四川经济
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.70:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.70:5140
 #EXTINF:0 CUID="215" tvg-name="四川文化" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川文化旅游.png" group-title="📡四川",四川文化
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.71:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.71:5140
 #EXTINF:0 CUID="215" tvg-name="四川新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川新闻.png" group-title="📡四川",四川新闻
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.72:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.72:5140
 #EXTINF:0 CUID="215" tvg-name="四川影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川影视文艺.png" group-title="📡四川",四川影视
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.73:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.73:5140
 #EXTINF:0 CUID="215" tvg-name="四川科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川科教.png" group-title="📡四川",四川科教
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.76:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.76:5140
 #EXTINF:0 CUID="215" tvg-name="四川乡村" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川乡村.png" group-title="📡四川",四川乡村
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.77:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.77:5140
 #EXTINF:0 CUID="215" tvg-name="峨嵋电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川峨眉电影.png" group-title="📡四川",峨嵋电影
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.103:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.103:5140
 #EXTINF:0 CUID="215" tvg-name="成都新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/成都新闻综合.png" group-title="📡四川",成都新闻
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.154:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.154:5140
 #EXTINF:0 CUID="215" tvg-name="成都经济" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/成都经济资讯.png" group-title="📡四川",成都经济
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.155:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.155:5140
 #EXTINF:0 CUID="215" tvg-name="成都都市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/成都都市生活.png" group-title="📡四川",成都都市
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.156:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.156:5140
 #EXTINF:0 CUID="215" tvg-name="成都影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/成都影视文艺.png" group-title="📡四川",成都影视
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.157:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.157:5140
 #EXTINF:0 CUID="215" tvg-name="成都公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/成都公共.png" group-title="📡四川",成都公共
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.158:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.158:5140
 #EXTINF:0 CUID="215" tvg-name="成都少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/成都少儿.png" group-title="📡四川",成都少儿
-http://ai.xiaoshudiao.top:10086/rtp/239.94.0.159:5140
+http://nas.yzs10000.com:17777/rtp/239.94.0.159:5140
 #EXTINF:0 CUID="215" tvg-name="成都蓉城先锋" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/成都蓉城先锋.png" group-title="📡四川",成都蓉城先锋
-http://ai.xiaoshudiao.top:10086/rtp/239.94.1.57:5140
+http://nas.yzs10000.com:17777/rtp/239.94.1.57:5140
 #EXTINF:0 CUID="215" tvg-name="剑阁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川剑阁综合.png" group-title="📡四川",剑阁综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 #EXTINF:0 CUID="215" tvg-name="广元公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川广元.png" group-title="📡四川",广元公共
@@ -891,7 +904,7 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 
 
 #EXTINF:0 CUID="215" tvg-name="BesTV4K纪实" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/BesTV-4K.png" group-title="🌲其它",BesTV4K纪实
-http://ai.xiaoshudiao.top:10086/rtp/239.94.1.69:5140
+http://nas.yzs10000.com:17777/rtp/239.94.1.69:5140
 #EXTINF:0 CUID="215" tvg-name="吉林纪录片轮播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/NewTV吉林.png" group-title="🌲其它",吉林纪录片轮播
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/da805d8d77a24db8aaa62328eb6d874e/index.m3u8
 #EXTINF:0 CUID="215" tvg-name="游戏风云" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/游戏风云.png" group-title="🌲其它",游戏风云
