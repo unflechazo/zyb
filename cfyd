@@ -72,15 +72,15 @@ http://192.151.150.154/live/lbssdz.m3u8
 http://63.141.230.178/live/hylzy.m3u8
 #EXTINF:-1 tvg-name="中國電影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/CMC中国电影(香港).png" group-title="🎬电影",中國電影 
 http://iptv.4666888.xyz/iptv2A.php?id=18
-#EXTINF:-1 tvg-name="愛奇藝" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/爱奇艺/Astro IQIYI.png" group-title="电影",愛奇藝
+#EXTINF:-1 tvg-name="愛奇藝" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/爱奇艺/Astro IQIYI.png" group-title="🎬电影",愛奇藝
 http://iptv.4666888.xyz/iptv2A.php?id=52
-#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/龙华电影.png" group-title="电影",龍華電影
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/龙华电影.png" group-title="🎬电影",龍華電影
 http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/龙华洋片.png" group-title="电影",龍華洋片
+#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/龙华洋片.png" group-title="🎬电影",龍華洋片
 http://iptv.4666888.xyz/iptv2A.php?id=57
-#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/靖天电影.png" group-title="电影",靖天电影
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/靖天电影.png" group-title="🎬电影",靖天电影
 http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1 tvg-name="MCE電影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/MCE光影欧洲.png" group-title="电影",MCE電影
+#EXTINF:-1 tvg-name="MCE電影" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/MCE光影欧洲.png" group-title="🎬电影",MCE電影
 http://iptv.4666888.xyz/iptv2A.php?id=40
 
 
@@ -102,27 +102,27 @@ http://iptv.4666888.xyz/iptv2A.php?id=24
 http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 tvg-name="澳視澳門" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/澳视澳门.png" group-title="🔥香港",澳視澳門
 http://iptv.4666888.xyz/iptv2A.php?id=19
-#EXTINF:-1 tvg-name="創世電視" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/創世電視.png" group-title="香港",創世電視
+#EXTINF:-1 tvg-name="創世電視" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/創世電視.png" group-title="🔥香港",創世電視
 http://iptv.4666888.xyz/iptv2A.php?id=20
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/TVBS新闻.png" group-title="香港",TVBS新聞
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/TVBS新闻.png" group-title="🔥香港",TVBS新聞
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-name="民視" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民視.png" group-title="香港",民視
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民視.png" group-title="🔥香港",民視
 http://iptv.4666888.xyz/iptv2A.php?id=54
-#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民视旅游.png" group-title="香港",民视旅游
+#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/民视旅游.png" group-title="🔥香港",民视旅游
 http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 tvg-name="靖天歡樂" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/靖天欢乐.png" group-title="香港",靖天歡樂
+#EXTINF:-1 tvg-name="靖天歡樂" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/靖天欢乐.png" group-title="🔥香港",靖天歡樂
 http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/靖天卡通.png" group-title="香港",靖天卡通
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/靖天卡通.png" group-title="🔥香港",靖天卡通
 http://iptv.4666888.xyz/iptv2A.php?id=42
-#EXTINF:-1 tvg-name="經典卡通" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/CN卡通台湾.png" group-title="香港",經典卡通
+#EXTINF:-1 tvg-name="經典卡通" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/CN卡通台湾.png" group-title="🔥香港",經典卡通
 http://iptv.4666888.xyz/iptv2A.php?id=41
-#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/八度空間.png" group-title="香港",八度空間
+#EXTINF:-1 tvg-name="八度空間" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/八度空間.png" group-title="🔥香港",八度空間
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-name="幸福空間居家" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/幸福空间居家.png" group-title="香港",幸福空間居家
 http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/時尚運動X.png" group-title="香港",時尚運動X
+#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/時尚運動X.png" group-title="🔥香港",時尚運動X
 http://iptv.4666888.xyz/iptv2A.php?id=49
-#EXTINF:-1 tvg-name="ELTV生活英語" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/ELTV生活英语.png" group-title="香港",ELTV生活英語
+#EXTINF:-1 tvg-name="ELTV生活英語" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/台湾/ELTV生活英语.png" group-title="🔥香港",ELTV生活英語
 http://iptv.4666888.xyz/iptv2A.php?id=58
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV4K.png" group-title="📺4K频道",CCTV-4K
