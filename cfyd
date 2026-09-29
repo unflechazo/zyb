@@ -656,8 +656,14 @@ http://ai.xiaoshudiao.top:10086/rtp/239.94.0.158:5140
 http://ai.xiaoshudiao.top:10086/rtp/239.94.0.159:5140
 #EXTINF:0 CUID="215" tvg-name="成都蓉城先锋" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/成都蓉城先锋.png" group-title="📡四川",成都蓉城先锋
 http://ai.xiaoshudiao.top:10086/rtp/239.94.1.57:5140
-#EXTINF:0 CUID="215" tvg-name="成都高新" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/成都高新.png" group-title="📡四川",成都高新
-
+#EXTINF:0 CUID="215" tvg-name="剑阁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川剑阁综合.png" group-title="📡四川",剑阁综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:0 CUID="215" tvg-name="广元公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川广元.png" group-title="📡四川",广元公共
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+#EXTINF:0 CUID="215" tvg-name="广元综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川广元综合.png" group-title="📡四川",广元综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+#EXTINF:0 CUID="215" tvg-name="朝天综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川朝天综合.png" group-title="📡四川",朝天综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 
 #EXTINF:0 CUID="215" tvg-name="辽宁都市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/辽宁都市.png" group-title="🏖️地方台",辽宁都市
 http://120.76.248.139/live/bfgd/4200000610.m3u8
