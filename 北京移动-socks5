@@ -1,179 +1,367 @@
-央视,#genre#
-CCTV1,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226933/1.m3u8?1AS
-CCTV1,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?1AS
-CCTV1,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8?1AS
-CCTV1,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8?1AS
-CCTV2,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?1AS
-CCTV2,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8?1AS
-CCTV2,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8?1AS
-CCTV2,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8?1AS
-CCTV3,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?1AS
-CCTV4,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?1AS
-CCTV4,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?1AS
-CCTV5,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?1AS
-CCTV5+,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226929/1.m3u8?1AS
-CCTV5+,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?1AS
-CCTV5+,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8?1AS
-CCTV5+,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?1AS
-CCTV6,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?1AS
-CCTV7,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?1AS
-CCTV7,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?1AS
-CCTV7,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8?1AS
-CCTV8,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?1AS
-CCTV9,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?1AS
-CCTV9,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?1AS
-CCTV9,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?1AS
-CCTV10,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?1AS
-CCTV10,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8?1AS
-CCTV11,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?1AS
-CCTV11,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8?1AS
-CCTV12,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?1AS
-CCTV12,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?1AS
-CCTV12,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8?1AS
-CCTV13,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?1AS
-CCTV14,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?1AS
-CCTV14,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?1AS
-CCTV14,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8?1AS
-CCTV15,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8?1AS
-CCTV15,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?1AS
-CCTV16,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8?1AS
-CCTV16,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?1AS
-CCTV16,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8?1AS
-CCTV16,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?1AS
-CCTV17,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?1AS
-CCTV17,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8?1AS
-卫视,#genre#
-东南卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?1AS
-东南卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?1AS
-东方卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?1AS
-东方卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8?1AS
-东方卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?1AS
-东方卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8?1AS
-东方卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226505/1.m3u8?1AS
-东方卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226983/1.m3u8?1AS
-云南卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?1AS
-北京卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226936/1.m3u8?1AS
-北京卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?1AS
-北京卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?1AS
-北京卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8?1AS
-北京卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?1AS
-北京卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?1AS
-吉林卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?1AS
-四川卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?1AS
-天津卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8?1AS
-天津卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?1AS
-天津卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8?1AS
-安徽卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226499/1.m3u8?1AS
-山东卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?1AS
-山东卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?1AS
-山东卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226501/1.m3u8?1AS
-广东卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8?1AS
-广东卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?1AS
-广东卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8?1AS
-广西卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?1AS
-江苏卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?1AS
-江苏卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8?1AS
-江苏卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?1AS
-江苏卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8?1AS
-江苏卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226506/1.m3u8?1AS
-江苏卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227009/1.m3u8?1AS
-江西卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?1AS
-江西卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?1AS
-江西卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226570/1.m3u8?1AS
-河北卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?1AS
-河北卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8?1AS
-浙江卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?1AS
-浙江卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226964/1.m3u8?1AS
-浙江卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?1AS
-浙江卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8?1AS
-浙江卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226504/1.m3u8?1AS
-浙江卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226998/1.m3u8?1AS
-海南卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?1AS
-深圳卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?1AS
-深圳卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?1AS
-深圳卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8?1AS
-湖北卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?1AS
-湖北卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?1AS
-湖北卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/1.m3u8?1AS
-湖南卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?1AS
-甘肃卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?1AS
-贵州卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?1AS
-贵州卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8?1AS
-辽宁卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8?1AS
-重庆卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?1AS
-重庆卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8?1AS
-青海卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?1AS
-黑龙江卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?1AS
-黑龙江卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?1AS
-黑龙江卫视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/1.m3u8?1AS
-北京,#genre#
-中国交通,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8?1AS
-北京卡酷少儿,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8?1AS
-北京影视,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?1AS
-北京文艺,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?1AS
-北京新闻,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?1AS
-北京生活,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8?1AS
-北京纪实科教,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226559/1.m3u8?1AS
-北京财经,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?1AS
-北京体育休闲,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?1AS
-湖南,#genre#
-湖南金鹰纪实,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8?1AS
-湖南快乐垂钓,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?1AS
-湖南茶,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?1AS
-NewTV,#genre#
-NewTV中国功夫,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8?1AS
-NewTV中国功夫,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8?1AS
-NewTV军事评论,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8?1AS
-NewTV军事评论,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8?1AS
-NewTV军旅剧场,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8?1AS
-NewTV军旅剧场,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?1AS
-NewTV农业致富,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8?1AS
-NewTV农业致富,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?1AS
-NewTV动作电影,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8?1AS
-NewTV动作电影,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?1AS
-NewTV古装剧场,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8?1AS
-NewTV古装剧场,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?1AS
-NewTV家庭剧场,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8?1AS
-NewTV家庭剧场,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8?1AS
-NewTV怡伴健康,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8?1AS
-NewTV怡伴健康,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?1AS
-NewTV惊悚悬疑,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?1AS
-NewTV明星大片,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8?1AS
-NewTV欢乐剧场,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8?1AS
-NewTV武搏世界,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8?1AS
-NewTV潮妈辣婆,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8?1AS
-NewTV潮妈辣婆,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?1AS
-NewTV炫舞未来,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?1AS
-NewTV炫舞未来,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8?1AS
-NewTV爱情喜剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8?1AS
-NewTV爱情喜剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?1AS
-NewTV精品体育,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8?1AS
-NewTV精品体育,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?1AS
-NewTV精品大剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8?1AS
-NewTV精品大剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?1AS
-NewTV精品纪录,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8?1AS
-NewTV精品纪录,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?1AS
-NewTV精品萌宠,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?1AS
-NewTV超级体育,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?1AS
-NewTV超级体育,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?1AS
-NewTV超级电影,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8?1AS
-NewTV超级电影,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?1AS
-NewTV超级电视剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8?1AS
-NewTV超级电视剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8?1AS
-NewTV超级电视剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8?1AS
-NewTV超级电视剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?1AS
-NewTV超级综艺,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?1AS
-NewTV超级综艺,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226940/1.m3u8?1AS
-NewTV超级综艺,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8?1AS
-NewTV超级综艺,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?1AS
-NewTV谍战大剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8?1AS
-NewTV谍战大剧,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?1AS
-黑莓动画,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?1AS
-黑莓电影,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?1AS
-哒啵电竞,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?1AS
-哒啵赛事,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?1AS
-咪咕,#genre#
-咪咕视界4K,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8?1AS
-睛彩青少,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?1AS
-睛彩篮球,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?1AS
-睛彩竞技,http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?1AS
+
+#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
+#EXTINF:-1 tvg-name="咪咕视界4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/至臻视界4K.png" group-title="🏀体育",咪咕视界4K
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8?1AS
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩竞技.png" group-title="🏀体育",睛彩竞技
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?1AS
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩篮球.png" group-title="🏀体育",睛彩篮球
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?1AS
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩青少.png" group-title="🏀体育",睛彩青少
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV中国功夫.png" group-title="🎬NewTV",NewTV中国功夫
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV军事评论.png" group-title="🎬NewTV",NewTV军事评论
+NewTVhttp://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8?1AS
+NewTVhttp://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV军旅剧场.png" group-title="🎬NewTV",NewTV军旅剧场
+NewTVhttp://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8?1AS
+NewTVhttp://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV农业致富.png" group-title="🎬NewTV",NewTV农业致富
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV动作NewTV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV动作NewTV.png" group-title="🎬NewTV",NewTV动作NewTV
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV古装剧场.png" group-title="🎬NewTV",NewTV古装剧场
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV家庭剧场.png" group-title="🎬NewTV",NewTV家庭剧场
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV怡伴健康.png" group-title="🎬NewTV",NewTV怡伴健康
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV惊悚悬疑.png" group-title="🎬NewTV",NewTV惊悚悬疑
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV明星大片.png" group-title="🎬NewTV",NewTV明星大片
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV欢乐剧场.png" group-title="🎬NewTV",NewTV欢乐剧场
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV武搏世界.png" group-title="🎬NewTV",NewTV武搏世界
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV潮妈辣婆.png" group-title="🎬NewTV",NewTV潮妈辣婆
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV炫舞未来.png" group-title="🎬NewTV",NewTV炫舞未来
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV爱情喜剧.png" group-title="🎬NewTV",NewTV爱情喜剧
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV精品体育.png" group-title="🎬NewTV",NewTV精品体育
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV精品大剧.png" group-title="🎬NewTV",NewTV精品大剧
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV精品纪录.png" group-title="🎬NewTV",NewTV精品纪录
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV精品萌宠.png" group-title="🎬NewTV",NewTV精品萌宠
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV超级体育.png" group-title="🎬NewTV",NewTV超级体育
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV超级NewTV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV超级NewTV.png" group-title="🎬NewTV",NewTV超级NewTV
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV超级电视剧.png" group-title="🎬NewTV",NewTV超级电视剧
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV超级综艺.png" group-title="🎬NewTV",NewTV超级综艺
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226940/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV谍战大剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV谍战大剧.png" group-title="🎬NewTV",NewTV谍战大剧
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/黑莓动画.png" group-title="🎬NewTV",NewTV黑莓动画
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV黑莓NewTV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/黑莓NewTV.png" group-title="🎬NewTV",NewTV黑莓NewTV
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/哒啵电竞.png" group-title="🎬NewTV",NewTV哒啵电竞
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?1AS
+#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/哒啵赛事.png" group-title="🎬NewTV",NewTV哒啵赛事
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?1AS
+
+
+
+
+#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京国际.png" group-title="📡北京",北京国际
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京新闻.png" group-title="📡北京",北京新闻
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?1AS
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京生活.png" group-title="📡北京",北京生活
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8?1AS
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京文艺.png" group-title="📡北京",北京文艺
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?1AS
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京影视.png" group-title="📡北京",北京影视
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?1AS
+#EXTINF:-1 tvg-name="北京休闲体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京体育休闲.png" group-title="📡北京",北京休闲体育
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?1AS
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京财经.png" group-title="📡北京",北京财经
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?1AS
+#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京IPTV淘4K.png" group-title="📡北京",北京IPTV4K
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京IPTV淘剧场.png" group-title="📡北京",淘剧场
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
+#EXTINF:-1 tvg-name="IPTV淘娱乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京IPTV淘娱乐.png" group-title="📡北京",IPTV淘娱乐
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
+#EXTINF:-1 tvg-name="IPTV淘BABY" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京IPTV淘Baby.png" group-title="📡北京",IPTV淘BABY
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/中国交通.png" group-title="📡北京",中国交通
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8?1AS
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/卡酷少儿.png" group-title="📡北京",北京卡酷少儿
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8?1AS
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/北京纪实科教.png" group-title="📡北京",北京纪实科教
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226559/1.m3u8?1AS
+#EXTINF:-1 tvg-name="北京IPTV淘电影 CQ" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京IPTV淘电影.png" group-title="📡北京",北京IPTV淘电影 CQ
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 tvg-name="北京IPTV萌宠TV CQ" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京IPTV萌宠TV.png" group-title="📡北京",北京IPTV萌宠TV CQ
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
+
+
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/金鹰纪实.png" group-title="📡湖南",湖南金鹰纪实
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8?1AS
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/快乐垂钓.png" group-title="📡湖南",湖南快乐垂钓
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?1AS
+#EXTINF:-1 tvg-name="湖南茶" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/茶.png" group-title="📡湖南",湖南茶
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?1AS
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV1.png" group-title="📺央视频道",CCTV1
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226933/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV2.png" group-title="📺央视频道",CCTV2
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV3.png" group-title="📺央视频道",CCTV3
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV4.png" group-title="📺央视频道",CCTV4
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?1AS
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV5+.png" group-title="📺央视频道",CCTV5+
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226929/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV5.png" group-title="📺央视频道",CCTV5
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV5.png" group-title="📺央视频道",CCTV5
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?1AS
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV7.png" group-title="📺央视频道",CCTV7
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV8.png" group-title="📺央视频道",CCTV8
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV9.png" group-title="📺央视频道",CCTV9
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV10.png" group-title="📺央视频道",CCTV10
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV11.png" group-title="📺央视频道",CCTV11
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV12.png" group-title="📺央视频道",CCTV12
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV13.png" group-title="📺央视频道",CCTV13
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV14.png" group-title="📺央视频道",CCTV14
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV15.png" group-title="📺央视频道",CCTV15
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV16.png" group-title="📺央视频道",CCTV16
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CCTV17.png" group-title="📺央视频道",CCTV17
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8?1AS
+#EXTINF:-1 tvg-name="CETV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/早期教育.png" group-title="📺央视频道",CETV
+
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/中国教育1.png" group-title="📺央视频道",CETV1
+
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/中国教育2.png" group-title="📺央视频道",CETV2
+
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/中国教育3.png" group-title="📺央视频道",CETV3
+
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/中国教育4.png" group-title="📺央视频道",CETV4
+
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CGTN纪录.png" group-title="📺央视频道",CGTN纪录
+
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CGTN.png" group-title="📺央视频道",CGTN英语
+
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CGTN俄语.png" group-title="📺央视频道",CGTN俄语
+
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CGTN法语.png" group-title="📺央视频道",CGTN法语
+
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CGTN阿语.png" group-title="📺央视频道",CGTN阿语
+
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/CGTN西语.png" group-title="📺央视频道",CGTN西语
+
+
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/北京纪实科教.png" group-title="📺数字频道",纪实科教
+
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东教育.png" group-title="📺数字频道",山东教育
+
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="📡卫视频道",凤凰中文
+
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="📡卫视频道",凤凰资讯
+
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/凤凰香港.png" group-title="📡卫视频道",凤凰香港
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/北京卫视.png" group-title="📡卫视频道",北京卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226936/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?1AS
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/东方卫视.png" group-title="📡卫视频道",东方卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226505/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226983/1.m3u8?1AS
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226506/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227009/1.m3u8?1AS
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226964/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226504/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226998/1.m3u8?1AS
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?1AS
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/广东卫视.png" group-title="📡卫视频道",广东卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8?1AS
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8?1AS
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东卫视.png" group-title="📡卫视频道",山东卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226501/1.m3u8?1AS
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/四川卫视.png" group-title="📡卫视频道",四川卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?1AS
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/河北卫视.png" group-title="📡卫视频道",河北卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8?1AS
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226499/1.m3u8?1AS
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/兵团卫视.png" group-title="📡卫视频道",兵团卫视
+
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8?1AS
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/东南卫视.png" group-title="📡卫视频道",东南卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?1AS
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?1AS
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/广西卫视.png" group-title="📡卫视频道",广西卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?1AS
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8?1AS
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/海南卫视.png" group-title="📡卫视频道",海南卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?1AS
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/河南卫视.png" group-title="📡卫视频道",河南卫视
+
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/1.m3u8?1AS
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/1.m3u8?1AS
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?1AS
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/江西卫视.png" group-title="📡卫视频道",江西卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?1AS
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226570/1.m3u8?1AS
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+
+http://39.134.135.10:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8?1AS
+
+
+
+
