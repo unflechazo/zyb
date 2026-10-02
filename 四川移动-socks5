@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://diyp0731.112114.xyz/pp.xml.gz" 
 
-#蜀小果，四川广电源
 #EXT-X-SUB-URL https://live.404003.xyz/m3u/sxg.m3u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视",CCTV-1 综合
