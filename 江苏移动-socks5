@@ -402,60 +402,48 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/军旅剧场.png" group-title="数字频道",军旅剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
 
-#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",咪咕音乐
+#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/咪咕音乐.png" group-title="其他",咪咕音乐
 http://ott.mobaibox.com/PLTV/-/224/3221228794/index.m3u8
-#EXTINF:-1 tvg-name="咪咕音乐2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",咪咕音乐2
+#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/咪咕音乐.png" group-title="其他",咪咕音乐1
 http://ott.mobaibox.com/PLTV/-/224/3221228444/index.m3u8
-#EXTINF:-1 tvg-name="中歌会" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",中歌会
+#EXTINF:-1 tvg-name="中歌会" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/咪咕音乐.png" group-title="其他",中歌会
 http://ott.mobaibox.com/PLTV/-/224/3221228592/index.m3u8
-#EXTINF:-1 tvg-name="音乐" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",音乐
-http://ott.mobaibox.com/PLTV/-/224/3221228591/index.m3u8
-#EXTINF:-1 tvg-name="美食" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",美食
-http://ott.mobaibox.com/PLTV/-/224/3221228562/index.m3u8
-#EXTINF:-1 tvg-name="无台标纪实" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标纪实
-http://ott.mobaibox.com/PLTV/-/224/3221228559/index.m3u8
-#EXTINF:-1 tvg-name="无台标纪实2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标纪实2
-http://ott.mobaibox.com/PLTV/-/224/3221228723/index.m3u8
-#EXTINF:-1 tvg-name="无台标纪实3" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标纪实3
-http://ott.mobaibox.com/PLTV/-/224/3221228700/index.m3u8
-#EXTINF:-1 tvg-name="无台标纪实4" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标纪实4
-http://ott.mobaibox.com/PLTV/-/224/3221228588/index.m3u8
-#EXTINF:-1 tvg-name="无台标健康" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标健康
-http://ott.mobaibox.com/PLTV/-/224/3221228706/index.m3u8
-#EXTINF:-1 tvg-name="无台标歌曲" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标歌曲
+#EXTINF:-1 tvg-name="MTV歌曲" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/MTV.png" group-title="其他",MTV歌曲
 http://ott.mobaibox.com/PLTV/-/224/3221228815/index.m3u8
-#EXTINF:-1 tvg-name="无台标戏剧" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标戏剧
+#EXTINF:-1 tvg-name="美食" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/亚洲美食频道.png"  group-title="其他",美食
+http://ott.mobaibox.com/PLTV/-/224/3221228591/index.m3u8
+#EXTINF:-1 tvg-name="美食" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/亚洲美食频道.png" group-title="其他",美食1
+http://ott.mobaibox.com/PLTV/-/224/3221228562/index.m3u8
+#EXTINF:-1 tvg-name="无台标纪实" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/全纪实.png" group-title="其他",无台标纪实
+http://ott.mobaibox.com/PLTV/-/224/3221228559/index.m3u8
+#EXTINF:-1 tvg-name="无台标纪实2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/全纪实.png" group-title="其他",无台标纪实2
+http://ott.mobaibox.com/PLTV/-/224/3221228723/index.m3u8
+#EXTINF:-1 tvg-name="无台标纪实3" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/全纪实.png" group-title="其他",无台标纪实3
+http://ott.mobaibox.com/PLTV/-/224/3221228700/index.m3u8
+#EXTINF:-1 tvg-name="无台标纪实4" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/全纪实.png" group-title="其他",无台标纪实4
+http://ott.mobaibox.com/PLTV/-/224/3221228588/index.m3u8
+#EXTINF:-1 tvg-name="无台标健康" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/百姓健康.png" group-title="其他",无台标健康
+http://ott.mobaibox.com/PLTV/-/224/3221228706/index.m3u8
+#EXTINF:-1 tvg-name="无台标戏剧" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/戏曲.png" group-title="其他",无台标戏剧
 http://ott.mobaibox.com/PLTV/-/224/3221228673/index.m3u8
-#EXTINF:-1 tvg-name="无台标小品" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标小品
+#EXTINF:-1 tvg-name="无台标相声小品" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/小品.png" group-title="其他",无台标相声小品
 http://ott.mobaibox.com/PLTV/-/224/3221228717/index.m3u8
-#EXTINF:-1 tvg-name="无台标新白娘子传奇" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标新白娘子传奇
+#EXTINF:-1 tvg-name="动画" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/少儿动画.png" group-title="其他",动画
 http://ott.mobaibox.com/PLTV/-/224/3221228441/index.m3u8
-#EXTINF:-1 tvg-name="无台标健身" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标健身
-http://ott.mobaibox.com/PLTV/-/224/3221228454/index.m3u8
-#EXTINF:-1 tvg-name="动画奥特曼" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",动画奥特曼
-http://ott.mobaibox.com/PLTV/-/224/3221228456/index.m3u8
-#EXTINF:-1 tvg-name="动画小猪佩奇" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",动画小猪佩奇
-http://ott.mobaibox.com/PLTV/-/224/3221228460/index.m3u8
-#EXTINF:-1 tvg-name="动画熊出没" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",动画熊出没
-http://ott.mobaibox.com/PLTV/-/224/3221228536/index.m3u8
-#EXTINF:-1 tvg-name="动画" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",动画
+#EXTINF:-1 tvg-name="动画" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/少儿动画.png" group-title="其他",动画1
 http://ott.mobaibox.com/PLTV/-/224/3221228463/index.m3u8
-#EXTINF:-1 tvg-name="动画2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",动画2
+#EXTINF:-1 tvg-name="动画2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/少儿动画.png" group-title="其他",动画2
 http://ott.mobaibox.com/PLTV/-/224/3221228539/index.m3u8
-#EXTINF:-1 tvg-name="动画3" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",动画3
+#EXTINF:-1 tvg-name="动画3" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/少儿动画.png" group-title="其他",动画3
 http://ott.mobaibox.com/PLTV/-/224/3221228579/index.m3u8
-#EXTINF:-1 tvg-name="动画4" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",动画4
+#EXTINF:-1 tvg-name="动画4" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/少儿动画.png" group-title="其他",动画4
 http://ott.mobaibox.com/PLTV/-/224/3221228603/index.m3u8
-#EXTINF:-1 tvg-name="纸牌竞技" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",纸牌竞技
-http://ott.mobaibox.com/PLTV/-/224/3221228586/index.m3u8
-#EXTINF:-1 tvg-name="电视剧" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",电视剧
-http://ott.mobaibox.com/PLTV/-/224/3221228120/index.m3u8
-#EXTINF:-1 tvg-name="电视剧2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",电视剧2
-http://ott.mobaibox.com/PLTV/-/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-name="电视剧3" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",电视剧3
-http://ott.mobaibox.com/PLTV/-/224/3221227512/index.m3u8
-#EXTINF:-1 tvg-name="电视剧4" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",电视剧4
-http://ott.mobaibox.com/PLTV/-/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-name="动画奥特曼" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/少儿动画.png" group-title="其他",动画奥特曼
+http://ott.mobaibox.com/PLTV/-/224/3221228456/index.m3u8
+#EXTINF:-1 tvg-name="动画小猪佩奇" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/少儿动画.png" group-title="其他",动画小猪佩奇
+http://ott.mobaibox.com/PLTV/-/224/3221228460/index.m3u8
+#EXTINF:-1 tvg-name="动画熊出没" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/少儿动画.png" group-title="其他",动画熊出没
+http://ott.mobaibox.com/PLTV/-/224/3221228536/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影1" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影1
 http://ott.mobaibox.com/PLTV/-/224/3221228465/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影2
@@ -474,8 +462,6 @@ http://ott.mobaibox.com/PLTV/-/224/3221228621/index.m3u8
 http://ott.mobaibox.com/PLTV/-/224/3221228618/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影9" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影9
 http://ott.mobaibox.com/PLTV/-/224/3221228624/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧1" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧1
-http://ott.mobaibox.com/PLTV/-/224/3221228627/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影10" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影10
 http://ott.mobaibox.com/PLTV/-/224/3221228644/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影11" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影11
@@ -496,63 +482,75 @@ http://ott.mobaibox.com/PLTV/-/224/3221228678/index.m3u8
 http://ott.mobaibox.com/PLTV/-/224/3221228681/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影19" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影19
 http://ott.mobaibox.com/PLTV/-/224/3221228685/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧2
-http://ott.mobaibox.com/PLTV/-/224/3221228690/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧楚乔传" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧楚乔传
-http://ott.mobaibox.com/PLTV/-/224/3221228687/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧3" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧3
-http://ott.mobaibox.com/PLTV/-/224/3221228693/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧4" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧4
-http://ott.mobaibox.com/PLTV/-/224/3221228699/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧5" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧5
-http://ott.mobaibox.com/PLTV/-/224/3221228705/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影20" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影20
 http://ott.mobaibox.com/PLTV/-/224/3221228708/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影21" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影21
 http://ott.mobaibox.com/PLTV/-/224/3221228714/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影22" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影22
 http://ott.mobaibox.com/PLTV/-/224/3221228710/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧6" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧6
-http://ott.mobaibox.com/PLTV/-/224/3221228719/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧7" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧7
-http://ott.mobaibox.com/PLTV/-/224/3221228716/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧花千骨" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧花千骨
-http://ott.mobaibox.com/PLTV/-/224/3221228711/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧亮剑" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧亮剑
-http://ott.mobaibox.com/PLTV/-/224/3221228724/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影23" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影23
 http://ott.mobaibox.com/PLTV/-/224/3221228740/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影24" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影24
 http://ott.mobaibox.com/PLTV/-/224/3221228756/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影25" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影25
 http://ott.mobaibox.com/PLTV/-/224/3221228776/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧8" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧8
-http://ott.mobaibox.com/PLTV/-/224/3221228779/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧9" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧9
-http://ott.mobaibox.com/PLTV/-/224/3221228782/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧10" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧10
-http://ott.mobaibox.com/PLTV/-/224/3221228785/index.m3u8
 #EXTINF:-1 tvg-name="无台标电影26" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电影26
 http://ott.mobaibox.com/PLTV/-/224/3221228791/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧11" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧11
+
+
+#EXTINF:-1 tvg-name="电视剧" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",电视剧
+http://ott.mobaibox.com/PLTV/-/224/3221228120/index.m3u8
+#EXTINF:-1 tvg-name="电视剧2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",电视剧2
+http://ott.mobaibox.com/PLTV/-/224/3221227579/index.m3u8
+#EXTINF:-1 tvg-name="电视剧3" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",电视剧3
+http://ott.mobaibox.com/PLTV/-/224/3221227512/index.m3u8
+#EXTINF:-1 tvg-name="电视剧4" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",电视剧4
+http://ott.mobaibox.com/PLTV/-/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧花千骨" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧花千骨
+http://ott.mobaibox.com/PLTV/-/224/3221228711/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧亮剑" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧亮剑
+http://ott.mobaibox.com/PLTV/-/224/3221228724/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧楚乔传" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧楚乔传
+http://ott.mobaibox.com/PLTV/-/224/3221228687/index.m3u
+#EXTINF:-1 tvg-name="无台标电视剧1" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧1
+http://ott.mobaibox.com/PLTV/-/224/3221228627/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧2" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧2
+http://ott.mobaibox.com/PLTV/-/224/3221228690/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧3" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧3
+http://ott.mobaibox.com/PLTV/-/224/3221228693/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧4" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧4
+http://ott.mobaibox.com/PLTV/-/224/3221228699/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧5" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧5
+http://ott.mobaibox.com/PLTV/-/224/3221228705/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧6" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧6
+http://ott.mobaibox.com/PLTV/-/224/3221228719/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧7" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧7
+http://ott.mobaibox.com/PLTV/-/224/3221228716/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧8" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧8
+http://ott.mobaibox.com/PLTV/-/224/3221228779/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧9" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧9
+http://ott.mobaibox.com/PLTV/-/224/3221228782/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧10" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧10
+http://ott.mobaibox.com/PLTV/-/224/3221228785/index.m3u8
+#EXTINF:-1 tvg-name="无台标电视剧11" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧11
 http://ott.mobaibox.com/PLTV/-/224/3221228788/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧12" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧12
+#EXTINF:-1 tvg-name="无台标电视剧12" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧12
 http://ott.mobaibox.com/PLTV/-/224/3221228797/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧13" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧13
+#EXTINF:-1 tvg-name="无台标电视剧13" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧13
 http://ott.mobaibox.com/PLTV/-/224/3221228809/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧14" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧14
+#EXTINF:-1 tvg-name="无台标电视剧14" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧14
 http://ott.mobaibox.com/PLTV/-/224/3221228823/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧15" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧15
+#EXTINF:-1 tvg-name="无台标电视剧15" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧15
 http://ott.mobaibox.com/PLTV/-/224/3221228893/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧16" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧16
+#EXTINF:-1 tvg-name="无台标电视剧16" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧16
 http://ott.mobaibox.com/PLTV/-/224/3221228896/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧17" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧17
+#EXTINF:-1 tvg-name="无台标电视剧17" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧17
 http://ott.mobaibox.com/PLTV/-/224/3221228899/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧18" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧18
+#EXTINF:-1 tvg-name="无台标电视剧18" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧18
 http://ott.mobaibox.com/PLTV/-/224/3221228911/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧19" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧19
+#EXTINF:-1 tvg-name="无台标电视剧19" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧19
 http://ott.mobaibox.com/PLTV/-/224/3221228582/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧20" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧20
+#EXTINF:-1 tvg-name="无台标电视剧20" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧20
 http://ott.mobaibox.com/PLTV/-/224/3221228598/index.m3u8
-#EXTINF:-1 tvg-name="无台标电视剧21" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/ys/电影轮播.png" group-title="其他",无台标电视剧21
+#EXTINF:-1 tvg-name="无台标电视剧21" tvg-logo="https://gh-proxy.org/https://raw.github.com/unflechazo/zyb/main/img/logo/电视剧.png" group-title="其他",无台标电视剧21
 http://ott.mobaibox.com/PLTV/-/224/3221228615/index.m3u8
