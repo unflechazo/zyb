@@ -58,7 +58,30 @@ http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV-17(1080P)
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
-
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV兵器科技.png" group-title="CCTV",CCTV兵器科技
+http://112.86.202.37:8112/JSBC_iptv/C10000207@JSBC
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV电视指南.png" group-title="CCTV",CCTV电视指南
+http://112.86.202.37:8112/JSBC_iptv/C10000203@JSBC
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV风云剧场.png" group-title="CCTV",CCTV风云剧场
+http://112.86.202.37:8112/JSBC_iptv/C10000208@JSBC
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV风云音乐.png" group-title="CCTV",CCTV风云音乐
+http://112.86.202.37:8112/JSBC_iptv/C10000211@JSBC
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV风云足球.png" group-title="CCTV",CCTV风云足球
+http://112.86.202.37:8112/JSBC_iptv/C10000204@JSBC
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV高尔夫网球.png" group-title="CCTV",CCTV高尔夫网球
+http://112.86.202.37:8112/JSBC_iptv/C10000205@JSBC
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV怀旧剧场.png" group-title="CCTV",CCTV怀旧剧场
+http://112.86.202.37:8112/JSBC_iptv/C10000210@JSBC
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV女性时尚.png" group-title="CCTV",CCTV女性时尚
+http://112.86.202.37:8112/JSBC_iptv/C10000212@JSBC
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV世界地理.png" group-title="CCTV",CCTV世界地理
+http://112.86.202.37:8112/JSBC_iptv/C10000206@JSBC
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV卫生健康.png" group-title="CCTV",CCTV卫生健康
+http://112.86.202.37:8112/JSBC_iptv/C10000416@JSBC
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV央视台球.png" group-title="CCTV",CCTV央视台球
+http://112.86.202.37:8112/JSBC_iptv/C10000217@JSBC
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV央视文化精品.png" group-title="CCTV",CCTV央视文化精品
+http://112.86.202.37:8112/JSBC_iptv/C10000209@JSBC
 
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视(1080P)
 http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
