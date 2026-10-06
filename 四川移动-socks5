@@ -1,6 +1,17 @@
 #EXTM3U x-tvg-url="https://diyp0731.112114.xyz/pp.xml.gz" 
 
 #EXT-X-SUB-URL https://live.404003.xyz/m3u/sxg.m3u
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.404003.xyz/LOGO/CCTV4K.png" group-title="4K",CCTV-4K 超高清
+http://live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="峨眉电影4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/峨眉电影4K.png" group-title="4K",峨眉电影4K
+http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.404003.xyz/LOGO/欢笑剧场.png" group-title="4K",欢笑剧场4K
+http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.404003.xyz/LOGO/凤凰中文.png" group-title="香港",凤凰中文
+http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.404003.xyz/LOGO/凤凰资讯.png" group-title="香港",凤凰资讯
+http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视",CCTV-1 综合
 http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
@@ -40,16 +51,27 @@ http://live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 http://live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.404003.xyz/LOGO/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-http://live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="4K超高清电影 4K" tvg-name="4K超高清电影 4K" tvg-logo="https://live.404003.xyz/LOGO/4K电影4K.png" group-title="其他",4K超高清电影 4K
-http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.404003.xyz/LOGO/欢笑剧场.png" group-title="其他",欢笑剧场4K
-http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.404003.xyz/LOGO/凤凰中文.png" group-title="香港",凤凰中文
-http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.404003.xyz/LOGO/凤凰资讯.png" group-title="香港",凤凰资讯
-http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.404003.xyz/LOGO/CGTN俄语.png" group-title="央视",CGTN-俄语
+http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.404003.xyz/LOGO/CGTN法语.png" group-title="央视",CGTN-法语
+http://live2.rxip.sc96655.com/live/fy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.404003.xyz/LOGO/CGTN西语.png" group-title="央视",CGTN-西语
+http://live2.rxip.sc96655.com/live/xbyy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="CGTN-英语" tvg-name="CGTN-英语" tvg-logo="https://live.404003.xyz/LOGO/CGTN英语.png" group-title="央视",CGTN-英语
+http://live2.rxip.sc96655.com/live/CGTN_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" http-user-agent="VLC/1.0" group-title="央视",CETV-1
+http://live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" http-user-agent="VLC/1.0" group-title="央视",CETV-4
+http://live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.404003.xyz/LOGO/中国天气.png" group-title="央视",中国天气
+http://live2.rxip.sc96655.com/live/zgqx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.404003.xyz/LOGO/发现之旅.png" group-title="央视",央视-发现之旅
+http://live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.404003.xyz/LOGO/老故事.png" group-title="央视",央视-老故事
+http://live2.rxip.sc96655.com/live/lgs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.404003.xyz/LOGO/中学生.png" group-title="央视",央视-中学生
+http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.404003.xyz/LOGO/安徽卫视.png" group-title="卫视",安徽卫视
 http://live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.404003.xyz/LOGO/北京卫视.png" group-title="卫视",北京卫视
@@ -112,440 +134,401 @@ http://live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 http://live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视.png" group-title="卫视",浙江卫视
 http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.404003.xyz/LOGO/CETV1.png" group-title="其他",CETV-1
-http://live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://live.404003.xyz/LOGO/CETV4.png" group-title="其他",CETV-4
-http://live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CBN风尚生活" tvg-name="CBN风尚生活" tvg-logo="https://live.404003.xyz/LOGO/CBN风尚生活.png" group-title="其他",CBN风尚生活
+
+#EXTINF:-1 tvg-id="CBN风尚生活" tvg-name="CBN风尚生活" tvg-logo="https://live.404003.xyz/LOGO/CBN风尚生活.png" group-title="电影频道",CBN风尚生活
 http://live2.rxip.sc96655.com/live/fssh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CBN每日影院" tvg-name="CBN每日影院" tvg-logo="https://live.404003.xyz/LOGO/CBN每日影院.png" group-title="其他",CBN每日影院
+#EXTINF:-1 tvg-id="CBN每日影院" tvg-name="CBN每日影院" tvg-logo="https://live.404003.xyz/LOGO/CBN每日影院.png" group-title="电影频道",CBN每日影院
 http://live2.rxip.sc96655.com/live/mryy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CBN幸福剧场" tvg-name="CBN幸福剧场" tvg-logo="https://live.404003.xyz/LOGO/CBN幸福剧场.png" group-title="其他",CBN幸福剧场
+#EXTINF:-1 tvg-id="CBN幸福剧场" tvg-name="CBN幸福剧场" tvg-logo="https://live.404003.xyz/LOGO/CBN幸福剧场.png" group-title="电影频道",CBN幸福剧场
 http://live2.rxip.sc96655.com/live/xfjc_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CBN幸福娱乐" tvg-name="CBN幸福娱乐" tvg-logo="https://live.404003.xyz/LOGO/CBN幸福娱乐.png" group-title="其他",CBN幸福娱乐
+#EXTINF:-1 tvg-id="CBN幸福娱乐" tvg-name="CBN幸福娱乐" tvg-logo="https://live.404003.xyz/LOGO/CBN幸福娱乐.png" group-title="电影频道",CBN幸福娱乐
 http://live2.rxip.sc96655.com/live/xfyl_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.404003.xyz/LOGO/CHC动作电影.png" group-title="其他",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC动作电影.png" http-user-agent="VLC/1.0" group-title="电影频道",CHC动作电影
 http://live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.404003.xyz/LOGO/CHC高清电影.png" group-title="其他",CHC高清电影
-http://live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.404003.xyz/LOGO/CHC家庭影院.png" group-title="其他",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC家庭影院.png" http-user-agent="VLC/1.0" group-title="电影频道",CHC家庭影院
 http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.404003.xyz/LOGO/动漫秀场.png" group-title="其他",动漫秀场
-http://live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.404003.xyz/LOGO/都市剧场.png" group-title="其他",都市剧场
-http://live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.404003.xyz/LOGO/法治天地.png" group-title="其他",法治天地
-http://live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="极速汽车" tvg-name="极速汽车" tvg-logo="https://live.404003.xyz/LOGO/极速汽车.png" group-title="其他",极速汽车
-http://live2.rxip.sc96655.com/live/jsqcH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.404003.xyz/LOGO/纪实科教.png" group-title="其他",纪实科教
-http://live2.rxip.sc96655.com/live/bjjs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.404003.xyz/LOGO/嘉佳卡通.png" group-title="其他",嘉佳卡通
-http://live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://live.404003.xyz/LOGO/家庭理财.png" group-title="其他",家庭理财
-http://live2.rxip.sc96655.com/live/jtlc_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.404003.xyz/LOGO/财富天下.png" group-title="江苏",江苏财富天下
-http://live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.404003.xyz/LOGO/金鹰纪实.png" group-title="其他",金鹰纪实
-http://live2.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.404003.xyz/LOGO/金鹰卡通.png" group-title="其他",金鹰卡通
-http://live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.404003.xyz/LOGO/劲爆体育.png" group-title="其他",劲爆体育
-http://live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://live.404003.xyz/LOGO/聚鲨环球精选.png" group-title="其他",聚鲨环球精选
-http://live2.rxip.sc96655.com/live/jshqjxHD_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.404003.xyz/LOGO/卡酷少儿.png" group-title="其他",卡酷少儿
-http://live2.rxip.sc96655.com/live/kkkt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.404003.xyz/LOGO/快乐垂钓.png" group-title="其他",快乐垂钓
-http://live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.404003.xyz/LOGO/乐游.png" group-title="其他",乐游
-http://live2.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.404003.xyz/LOGO/梨园.png" group-title="其他",梨园频道
-http://live2.rxip.sc96655.com/live/ly_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.404003.xyz/LOGO/魅力足球.png" group-title="其他",魅力足球
-http://live2.rxip.sc96655.com/live/mlyy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.404003.xyz/LOGO/七彩戏剧.png" group-title="其他",七彩戏剧
-http://live2.rxip.sc96655.com/live/qcxj_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="摄影" tvg-name="摄影" tvg-logo="https://live.404003.xyz/LOGO/摄影.png" group-title="其他",摄影频道
-http://live2.rxip.sc96655.com/live/sy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.404003.xyz/LOGO/生活时尚.png" group-title="其他",生活时尚
-http://live2.rxip.sc96655.com/live/shssH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://live.404003.xyz/LOGO/四海钓鱼.png" group-title="其他",四海钓鱼
-http://live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://live.404003.xyz/LOGO/天元围棋.png" group-title="其他",天元围棋
-http://live2.rxip.sc96655.com/live/tywq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.404003.xyz/LOGO/武术世界.png" group-title="其他",武术世界
-http://live2.rxip.sc96655.com/live/wssj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.404003.xyz/LOGO/先锋乒羽.png" group-title="其他",先锋乒羽
-http://live2.rxip.sc96655.com/live/xfpy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.404003.xyz/LOGO/新视觉.png" group-title="其他",新视觉
-http://live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="证劵服务" tvg-name="证劵服务" tvg-logo="https://live.404003.xyz/LOGO/证劵服务.png" group-title="其他",证劵服务
-http://live2.rxip.sc96655.com/live/jz_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.404003.xyz/LOGO/中国天气.png" group-title="其他",中国天气
-http://live2.rxip.sc96655.com/live/zgqx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.404003.xyz/LOGO/发现之旅.png" group-title="央视",中央新影-发现之旅
-http://live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.404003.xyz/LOGO/老故事.png" group-title="央视",中央新影-老故事
-http://live2.rxip.sc96655.com/live/lgs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.404003.xyz/LOGO/中学生.png" group-title="央视",中央新影-中学生
-http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="川广融媒" tvg-name="川广融媒" tvg-logo="https://live.404003.xyz/LOGO/川广融媒.png" group-title="其他",川广融媒
-http://live2.rxip.sc96655.com/live/cgrh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="川网导视" tvg-name="川网导视" tvg-logo="https://live.404003.xyz/LOGO/川网导视.png" group-title="其他",川网导视
-http://live2.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="精品导视" tvg-name="精品导视" tvg-logo="https://live.404003.xyz/LOGO/精品导视.png" group-title="其他",精品导视
-http://live2.rxip.sc96655.com/live/jpdsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="沙湾融媒" tvg-name="沙湾融媒" tvg-logo="https://live.404003.xyz/LOGO/沙湾融媒.png" group-title="其他",沙湾融媒
-http://live2.rxip.sc96655.com/live/swxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://live.404003.xyz/LOGO/四川文化旅游.png" group-title="四川",四川文化旅游
-http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://live.404003.xyz/LOGO/四川经济.png" group-title="四川",四川经济
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC影迷电影.png" http-user-agent="VLC/1.0" group-title="电影频道",CHC影迷电影
+http://live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川经济.png" http-user-agent="VLC/1.0" group-title="四川省级",四川经济
 http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://live.404003.xyz/LOGO/四川新闻.png" group-title="四川",四川新闻
-http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视文艺" tvg-logo="https://live.404003.xyz/LOGO/四川影视文艺.png" group-title="四川",四川影视文艺
-http://live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女儿童" tvg-logo="https://live.404003.xyz/LOGO/四川妇女儿童.png" group-title="四川",四川妇女儿童
-http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://live.404003.xyz/LOGO/四川科教.png" group-title="四川",四川科教
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川科教.png" http-user-agent="VLC/1.0" group-title="四川省级",四川科教
 http://live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://live.404003.xyz/LOGO/四川乡村.png" group-title="四川",四川乡村
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川乡村.png" http-user-agent="VLC/1.0" group-title="四川省级",四川乡村
 http://live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://live.404003.xyz/LOGO/峨嵋电影.png" group-title="四川",四川峨嵋电影
+#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川新闻.png" http-user-agent="VLC/1.0" group-title="四川省级",四川新闻
+http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川文化旅游.png" http-user-agent="VLC/1.0" group-title="四川省级",四川文化旅游
+http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川影视文艺.png" http-user-agent="VLC/1.0" group-title="四川省级",四川影视文艺
+http://live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川康巴卫视.png" http-user-agent="VLC/1.0" group-title="四川省级",四川康巴卫视
+http://live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川峨眉电影.png" http-user-agent="VLC/1.0" group-title="四川省级",四川峨眉电影
 http://live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="成都新闻综合" tvg-name="成都新闻综合" tvg-logo="https://live.404003.xyz/LOGO/成都新闻综合.png" group-title="其他",成都新闻综合
-http://live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="成都经济资讯" tvg-name="成都经济资讯" tvg-logo="https://live.404003.xyz/LOGO/成都经济资讯.png" group-title="其他",成都经济资讯
-http://live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="成都都市生活" tvg-name="成都都市生活" tvg-logo="https://live.404003.xyz/LOGO/成都都市生活.png" group-title="其他",成都都市生活
-http://live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="成都影视文艺" tvg-name="成都影视文艺" tvg-logo="https://live.404003.xyz/LOGO/成都影视文艺.png" group-title="其他",成都影视文艺
-http://live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="成都公共频道" tvg-name="成都公共频道" tvg-logo="https://live.404003.xyz/LOGO/成都公共.png" group-title="其他",成都公共频道
-http://live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="成都高新区" tvg-name="成都高新区" tvg-logo="https://live.404003.xyz/LOGO/成都高新区.png" group-title="其他",成都高新区
-http://live2.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="成都每日购物" tvg-name="成都每日购物" tvg-logo="https://live.404003.xyz/LOGO/成都每日购物.png" group-title="其他",成都每日购物
-http://live2.rxip.sc96655.com/live/mrgw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="阿坝州TV" tvg-name="阿坝州TV" tvg-logo="https://live.404003.xyz/LOGO/阿坝州TV.png" group-title="其他",阿坝州TV
-http://live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="阿坝州藏语" tvg-name="阿坝州藏语" tvg-logo="https://live.404003.xyz/LOGO/阿坝州藏语.png" group-title="其他",阿坝州藏语
+#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川妇女儿童.png" http-user-agent="VLC/1.0" group-title="四川省级",四川妇女儿童
+http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川精品导视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川精品导视.png" http-user-agent="VLC/1.0" group-title="四川省级",四川精品导视
+http://live2.rxip.sc96655.com/live/jpdsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国天气.png" http-user-agent="VLC/1.0" group-title="数字频道",中国天气
+http://live2.rxip.sc96655.com/live/zgqx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/都市剧场.png" http-user-agent="VLC/1.0" group-title="数字频道",都市剧场
+http://live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京纪实科教.png" http-user-agent="VLC/1.0" group-title="数字频道",纪实科教
+http://live2.rxip.sc96655.com/live/bjjs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/卡酷少儿.png" http-user-agent="VLC/1.0" group-title="数字频道",卡酷少儿
+http://live2.rxip.sc96655.com/live/kkkt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/嘉佳卡通.png" http-user-agent="VLC/1.0" group-title="数字频道",嘉佳卡通
+http://live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动漫秀场.png" http-user-agent="VLC/1.0" group-title="数字频道",动漫秀场
+http://live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰纪实.png" http-user-agent="VLC/1.0" group-title="数字频道",金鹰纪实
+http://live2.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/快乐垂钓.png" http-user-agent="VLC/1.0" group-title="数字频道",快乐垂钓
+http://live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰卡通.png" http-user-agent="VLC/1.0" group-title="数字频道",金鹰卡通
+http://live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/梨园.png" http-user-agent="VLC/1.0" group-title="数字频道",梨园频道
+http://live2.rxip.sc96655.com/live/ly_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/武术世界.png" http-user-agent="VLC/1.0" group-title="数字频道",武术世界
+http://live2.rxip.sc96655.com/live/wssj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/劲爆体育.png" http-user-agent="VLC/1.0" group-title="数字频道",劲爆体育
+http://live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/财富天下.png" http-user-agent="VLC/1.0" group-title="数字频道",财富天下
+http://live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/法治天地.png" http-user-agent="VLC/1.0" group-title="数字频道",法治天地
+http://live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/生活时尚.png" http-user-agent="VLC/1.0" group-title="数字频道",生活时尚
+http://live2.rxip.sc96655.com/live/shssH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四海钓鱼.png" http-user-agent="VLC/1.0" group-title="数字频道",四海钓鱼
+http://live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天元围棋.png" http-user-agent="VLC/1.0" group-title="数字频道",天元围棋
+http://live2.rxip.sc96655.com/live/tywq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/新视觉.png" http-user-agent="VLC/1.0" group-title="数字频道",新视觉
+http://live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/乐游.png" http-user-agent="VLC/1.0" group-title="数字频道",乐游
+http://live2.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png" http-user-agent="VLC/1.0" group-title="数字频道",山东教育卫视
+http://live2.rxip.sc96655.com/live/sdjy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
+#EXTINF:-1 tvg-name="阿坝州藏语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",阿坝州藏语
 http://live2.rxip.sc96655.com/live/wypdgqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="安居综合" tvg-name="安居综合" tvg-logo="https://live.404003.xyz/LOGO/安居综合.png" group-title="其他",安居综合
+#EXTINF:-1 tvg-name="阿坝州TV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",阿坝州TV
+http://live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="安居综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",安居综合
 http://live2.rxip.sc96655.com/live/ajxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="安岳综合频道" tvg-name="安岳综合频道" tvg-logo="https://live.404003.xyz/LOGO/安岳综合.png" group-title="其他",安岳综合频道
+#EXTINF:-1 tvg-name="安岳综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",安岳综合
 http://live2.rxip.sc96655.com/live/ayxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="安州综合频道" tvg-name="安州综合频道" tvg-logo="https://live.404003.xyz/LOGO/安州综合.png" group-title="其他",安州综合频道
+#EXTINF:-1 tvg-name="安州综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",安州综合
 http://live2.rxip.sc96655.com/live/azgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="巴中文旅生活" tvg-name="巴中文旅生活" tvg-logo="https://live.404003.xyz/LOGO/巴中文旅生活.png" group-title="其他",巴中文旅生活
+#EXTINF:-1 tvg-name="巴中文旅生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",巴中文旅生活
 http://live2.rxip.sc96655.com/live/bzetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="巴中综合" tvg-name="巴中综合" tvg-logo="https://live.404003.xyz/LOGO/巴中综合.png" group-title="其他",巴中综合
+#EXTINF:-1 tvg-name="巴中综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",巴中综合
 http://live2.rxip.sc96655.com/live/bzytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="巴州电视" tvg-name="巴州电视" tvg-logo="https://live.404003.xyz/LOGO/巴州电视.png" group-title="其他",巴州电视
+#EXTINF:-1 tvg-name="巴州电视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",巴州电视
 http://live2.rxip.sc96655.com/live/bzxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="宝兴综合" tvg-name="宝兴综合" tvg-logo="https://live.404003.xyz/LOGO/宝兴综合.png" group-title="其他",宝兴综合
+#EXTINF:-1 tvg-name="宝兴综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宝兴综合
 http://live2.rxip.sc96655.com/live/bxdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="北川综合" tvg-name="北川综合" tvg-logo="https://live.404003.xyz/LOGO/北川综合.png" group-title="其他",北川综合
+#EXTINF:-1 tvg-name="北川综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",北川综合
 http://live2.rxip.sc96655.com/live/bcxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="苍溪综合" tvg-name="苍溪综合" tvg-logo="https://live.404003.xyz/LOGO/苍溪综合.png" group-title="其他",苍溪综合
+#EXTINF:-1 tvg-name="苍溪综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",苍溪综合
 http://live2.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="长宁综合" tvg-name="长宁综合" tvg-logo="https://live.404003.xyz/LOGO/长宁综合.png" group-title="其他",长宁综合
-http://live2.rxip.sc96655.com/live/znzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="朝天综合" tvg-name="朝天综合" tvg-logo="https://live.404003.xyz/LOGO/朝天综合.png" group-title="其他",朝天综合
+#EXTINF:-1 tvg-name="朝天综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",朝天综合
 http://live2.rxip.sc96655.com/live/ctxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="崇州" tvg-name="崇州" tvg-logo="https://live.404003.xyz/LOGO/崇州.png" group-title="其他",崇州
+#EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都都市生活
+http://live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都高新区" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都高新区
+http://live2.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都公共频道
+http://live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都经济资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都经济资讯
+http://live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都新闻综合
+http://live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都影视文艺
+http://live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="崇州" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",崇州
 http://live2.rxip.sc96655.com/live/czyt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="船山综合" tvg-name="船山综合" tvg-logo="https://live.404003.xyz/LOGO/船山综合.png" group-title="其他",船山综合
+#EXTINF:-1 tvg-name="川网导视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",川网导视
+http://live2.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="船山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",船山综合
 http://live2.rxip.sc96655.com/live/csxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="达川新闻综合" tvg-name="达川新闻综合" tvg-logo="https://live.404003.xyz/LOGO/达川新闻综合.png" group-title="其他",达川新闻综合
+#EXTINF:-1 tvg-name="达川新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",达川新闻综合
 http://live2.rxip.sc96655.com/live/dcxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="达州导视" tvg-name="达州导视" tvg-logo="https://live.404003.xyz/LOGO/达州导视.png" group-title="其他",达州导视
+#EXTINF:-1 tvg-name="达州导视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",达州导视
 http://live2.rxip.sc96655.com/live/dzds_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="达州公共" tvg-name="达州公共" tvg-logo="https://live.404003.xyz/LOGO/达州公共.png" group-title="其他",达州公共
+#EXTINF:-1 tvg-name="达州公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",达州公共
 http://live2.rxip.sc96655.com/live/dzgg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="达州通川" tvg-name="达州通川" tvg-logo="https://live.404003.xyz/LOGO/达州通川.png" group-title="其他",达州通川
-http://live2.rxip.sc96655.com/live/tcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="达州新闻综合" tvg-name="达州新闻综合" tvg-logo="https://live.404003.xyz/LOGO/达州新闻综合.png" group-title="其他",达州新闻综合
+#EXTINF:-1 tvg-name="达州新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",达州新闻综合
 http://live2.rxip.sc96655.com/live/dzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="大邑电视台" tvg-name="大邑电视台" tvg-logo="https://live.404003.xyz/LOGO/大邑电视台.png" group-title="其他",大邑电视台
+#EXTINF:-1 tvg-name="大邑电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",大邑电视台
 http://live2.rxip.sc96655.com/live/dyytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="大英新闻综合" tvg-name="大英新闻综合" tvg-logo="https://live.404003.xyz/LOGO/大英新闻综合.png" group-title="其他",大英新闻综合
+#EXTINF:-1 tvg-name="大英新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",大英新闻综合
 http://live2.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="丹棱综合" tvg-name="丹棱综合" tvg-logo="https://live.404003.xyz/LOGO/丹棱综合.png" group-title="其他",丹棱综合
+#EXTINF:-1 tvg-name="丹棱综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",丹棱综合
 http://live2.rxip.sc96655.com/live/dlxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="德昌电视台" tvg-name="德昌电视台" tvg-logo="https://live.404003.xyz/LOGO/德昌电视台.png" group-title="其他",德昌电视台
+#EXTINF:-1 tvg-name="德昌电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",德昌电视台
 http://live2.rxip.sc96655.com/live/dcxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="东兴综合" tvg-name="东兴综合" tvg-logo="https://live.404003.xyz/LOGO/东兴综合.png" group-title="其他",东兴综合
+#EXTINF:-1 tvg-name="东兴综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",东兴综合
 http://live2.rxip.sc96655.com/live/dxxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="都江堰" tvg-name="都江堰" tvg-logo="https://live.404003.xyz/LOGO/都江堰.png" group-title="其他",都江堰
+#EXTINF:-1 tvg-name="都江堰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",都江堰
 http://live2.rxip.sc96655.com/live/djyzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="峨边电视台" tvg-name="峨边电视台" tvg-logo="https://live.404003.xyz/LOGO/峨边电视台.png" group-title="其他",峨边电视台
+#EXTINF:-1 tvg-name="峨边电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",峨边电视台
 http://live2.rxip.sc96655.com/live/ebdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="峨眉综合" tvg-name="峨眉综合" tvg-logo="https://live.404003.xyz/LOGO/峨眉综合.png" group-title="其他",峨眉综合
+#EXTINF:-1 tvg-name="峨眉综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",峨眉综合
 http://live2.rxip.sc96655.com/live/emsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="恩阳新闻" tvg-name="恩阳新闻" tvg-logo="https://live.404003.xyz/LOGO/恩阳新闻.png" group-title="其他",恩阳新闻
+#EXTINF:-1 tvg-name="恩阳新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",恩阳新闻
 http://live2.rxip.sc96655.com/live/eyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="涪城综合" tvg-name="涪城综合" tvg-logo="https://live.404003.xyz/LOGO/涪城综合.png" group-title="其他",涪城综合
+#EXTINF:-1 tvg-name="涪城综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",涪城综合
 http://live2.rxip.sc96655.com/live/fcgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="富顺综合" tvg-name="富顺综合" tvg-logo="https://live.404003.xyz/LOGO/富顺综合.png" group-title="其他",富顺综合
+#EXTINF:-1 tvg-name="富顺综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",富顺综合
 http://live2.rxip.sc96655.com/live/fszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="甘洛" tvg-name="甘洛" tvg-logo="https://live.404003.xyz/LOGO/甘洛.png" group-title="其他",甘洛
-http://live2.rxip.sc96655.com/live/glt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="甘孜综合" tvg-name="甘孜综合" tvg-logo="https://live.404003.xyz/LOGO/甘孜综合.png" group-title="其他",甘孜综合
+#EXTINF:-1 tvg-name="甘孜综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",甘孜综合
 http://live2.rxip.sc96655.com/live/gzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="高县-1" tvg-name="高县-1" tvg-logo="https://live.404003.xyz/LOGO/高县1.png" group-title="其他",高县-1
+#EXTINF:-1 tvg-name="高县1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",高县-1
 http://live2.rxip.sc96655.com/live/gxt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="古蔺新闻综合" tvg-name="古蔺新闻综合" tvg-logo="https://live.404003.xyz/LOGO/古蔺新闻综合.png" group-title="其他",古蔺新闻综合
-http://live2.rxip.sc96655.com/live/glxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="广安公共" tvg-name="广安公共" tvg-logo="https://live.404003.xyz/LOGO/广安公共.png" group-title="其他",广安公共
-http://live2.rxip.sc96655.com/live/gagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="广安区电视台" tvg-name="广安区电视台" tvg-logo="https://live.404003.xyz/LOGO/广安区电视台.png" group-title="其他",广安区电视台
-http://live2.rxip.sc96655.com/live/gaqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="广安新闻综合" tvg-name="广安新闻综合" tvg-logo="https://live.404003.xyz/LOGO/广安新闻综合.png" group-title="其他",广安新闻综合
-http://live2.rxip.sc96655.com/live/gaxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="广汉综合" tvg-name="广汉综合" tvg-logo="https://live.404003.xyz/LOGO/广汉综合.png" group-title="其他",广汉综合
-http://live2.rxip.sc96655.com/live/ghxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="广元文化生活" tvg-name="广元文化生活" tvg-logo="https://live.404003.xyz/LOGO/广元文化生活.png" group-title="其他",广元文化生活
-http://live2.rxip.sc96655.com/live/gyggH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="广元综合" tvg-name="广元综合" tvg-logo="https://live.404003.xyz/LOGO/广元综合.png" group-title="其他",广元综合
-http://live2.rxip.sc96655.com/live/gyzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="汉源综合" tvg-name="汉源综合" tvg-logo="https://live.404003.xyz/LOGO/汉源综合.png" group-title="其他",汉源综合
-http://live2.rxip.sc96655.com/live/hyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="合江新闻综合" tvg-name="合江新闻综合" tvg-logo="https://live.404003.xyz/LOGO/合江新闻综合.png" group-title="其他",合江新闻综合
-http://live2.rxip.sc96655.com/live/hjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="黑水" tvg-name="黑水" tvg-logo="https://live.404003.xyz/LOGO/黑水.png" group-title="其他",黑水
-http://live2.rxip.sc96655.com/live/hsxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="洪雅新闻综合" tvg-name="洪雅新闻综合" tvg-logo="https://live.404003.xyz/LOGO/洪雅新闻综合.png" group-title="其他",洪雅新闻综合
-http://live2.rxip.sc96655.com/live/hyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="华蓥综合" tvg-name="华蓥综合" tvg-logo="https://live.404003.xyz/LOGO/华蓥综合.png" group-title="其他",华蓥综合
-http://live2.rxip.sc96655.com/live/hyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="会理新闻" tvg-name="会理新闻" tvg-logo="https://live.404003.xyz/LOGO/会理新闻.png" group-title="其他",会理新闻
-http://live2.rxip.sc96655.com/live/hlyt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="夹江新闻综合" tvg-name="夹江新闻综合" tvg-logo="https://live.404003.xyz/LOGO/夹江新闻综合.png" group-title="其他",夹江新闻综合
-http://live2.rxip.sc96655.com/live/jjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="简阳新闻综合" tvg-name="简阳新闻综合" tvg-logo="https://live.404003.xyz/LOGO/简阳新闻综合.png" group-title="其他",简阳新闻综合
-http://live2.rxip.sc96655.com/live/jyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="剑阁综合" tvg-name="剑阁综合" tvg-logo="https://live.404003.xyz/LOGO/剑阁综合.png" group-title="其他",剑阁综合
-http://live2.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="江安电视台" tvg-name="江安电视台" tvg-logo="https://live.404003.xyz/LOGO/江安电视台.png" group-title="其他",江安电视台
-http://live2.rxip.sc96655.com/live/jat_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="江油综合" tvg-name="江油综合" tvg-logo="https://live.404003.xyz/LOGO/江油综合.png" group-title="其他",江油综合
-http://live2.rxip.sc96655.com/live/jyxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="金口河综合" tvg-name="金口河综合" tvg-logo="https://live.404003.xyz/LOGO/金口河综合.png" group-title="其他",金口河综合
-http://live2.rxip.sc96655.com/live/jkhdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="金牛" tvg-name="金牛" tvg-logo="https://live.404003.xyz/LOGO/金牛.png" group-title="其他",金牛
-http://live2.rxip.sc96655.com/live/jnyx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="金堂电视台" tvg-name="金堂电视台" tvg-logo="https://live.404003.xyz/LOGO/金堂电视台.png" group-title="其他",金堂电视台
-http://live2.rxip.sc96655.com/live/jtzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="开江新闻综合" tvg-name="开江新闻综合" tvg-logo="https://live.404003.xyz/LOGO/开江新闻综合.png" group-title="其他",开江新闻综合
-http://live2.rxip.sc96655.com/live/kjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="乐山公共" tvg-name="乐山公共" tvg-logo="https://live.404003.xyz/LOGO/乐山公共.png" group-title="其他",乐山公共
-http://live2.rxip.sc96655.com/live/lsggpd_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="乐山新闻综合" tvg-name="乐山新闻综合" tvg-logo="https://live.404003.xyz/LOGO/乐山新闻综合.png" group-title="其他",乐山新闻综合
-http://live2.rxip.sc96655.com/live/lsxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="利州综合" tvg-name="利州综合" tvg-logo="https://live.404003.xyz/LOGO/利州综合.png" group-title="其他",利州综合
-http://live2.rxip.sc96655.com/live/lzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="凉山新闻综合" tvg-name="凉山新闻综合" tvg-logo="https://live.404003.xyz/LOGO/凉山新闻综合.png" group-title="其他",凉山新闻综合
-http://live2.rxip.sc96655.com/live/lsxwHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="凉山彝语综合" tvg-name="凉山彝语综合" tvg-logo="https://live.404003.xyz/LOGO/凉山彝语综合.png" group-title="其他",凉山彝语综合
-http://live2.rxip.sc96655.com/live/yyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="邻水" tvg-name="邻水" tvg-logo="https://live.404003.xyz/LOGO/邻水.png" group-title="其他",邻水
-http://live2.rxip.sc96655.com/live/lsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="龙泉综合" tvg-name="龙泉综合" tvg-logo="https://live.404003.xyz/LOGO/龙泉综合.png" group-title="其他",龙泉综合
-http://live2.rxip.sc96655.com/live/lqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="隆昌综合" tvg-name="隆昌综合" tvg-logo="https://live.404003.xyz/LOGO/隆昌综合.png" group-title="其他",隆昌综合
-http://live2.rxip.sc96655.com/live/lcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="芦山综合频道" tvg-name="芦山综合频道" tvg-logo="https://live.404003.xyz/LOGO/芦山综合.png" group-title="其他",芦山综合频道
-http://live2.rxip.sc96655.com/live/lszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="罗江" tvg-name="罗江" tvg-logo="https://live.404003.xyz/LOGO/罗江.png" group-title="其他",罗江
-http://live2.rxip.sc96655.com/live/ljxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="马边综合" tvg-name="马边综合" tvg-logo="https://live.404003.xyz/LOGO/马边综合.png" group-title="其他",马边综合
-http://live2.rxip.sc96655.com/live/mbxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="马尔康" tvg-name="马尔康" tvg-logo="https://live.404003.xyz/LOGO/马尔康.png" group-title="其他",马尔康
-http://live2.rxip.sc96655.com/live/mekxwzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="眉山综合" tvg-name="眉山综合" tvg-logo="https://live.404003.xyz/LOGO/眉山综合.png" group-title="其他",眉山综合
-http://live2.rxip.sc96655.com/live/msxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="米易综合" tvg-name="米易综合" tvg-logo="https://live.404003.xyz/LOGO/米易综合.png" group-title="其他",米易综合
-http://live2.rxip.sc96655.com/live/myxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="绵阳科技" tvg-name="绵阳科技" tvg-logo="https://live.404003.xyz/LOGO/绵阳科技.png" group-title="其他",绵阳科技
-http://live2.rxip.sc96655.com/live/myetH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="绵阳新闻综合" tvg-name="绵阳新闻综合" tvg-logo="https://live.404003.xyz/LOGO/绵阳新闻综合.png" group-title="其他",绵阳新闻综合
-http://live2.rxip.sc96655.com/live/myytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="绵竹" tvg-name="绵竹" tvg-logo="https://live.404003.xyz/LOGO/绵竹.png" group-title="其他",绵竹
-http://live2.rxip.sc96655.com/live/mzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="冕宁综合" tvg-name="冕宁综合" tvg-logo="https://live.404003.xyz/LOGO/冕宁综合.png" group-title="其他",冕宁综合
-http://live2.rxip.sc96655.com/live/mnxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="名山电视台" tvg-name="名山电视台" tvg-logo="https://live.404003.xyz/LOGO/名山电视台.png" group-title="其他",名山电视台
-http://live2.rxip.sc96655.com/live/msdstH265_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="木里" tvg-name="木里" tvg-logo="https://live.404003.xyz/LOGO/木里.png" group-title="其他",木里
-http://live2.rxip.sc96655.com/live/mltHD_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="纳溪-1" tvg-name="纳溪-1" tvg-logo="https://live.404003.xyz/LOGO/纳溪1.png" group-title="其他",纳溪-1
-http://live2.rxip.sc96655.com/live/nxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="南部综合" tvg-name="南部综合" tvg-logo="https://live.404003.xyz/LOGO/南部综合.png" group-title="其他",南部综合
-http://live2.rxip.sc96655.com/live/nbxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="南充综合" tvg-name="南充综合" tvg-logo="https://live.404003.xyz/LOGO/南充综合.png" group-title="其他",南充综合
-http://live2.rxip.sc96655.com/live/ncxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="南江电视台" tvg-name="南江电视台" tvg-logo="https://live.404003.xyz/LOGO/南江电视台.png" group-title="其他",南江电视台
-http://live2.rxip.sc96655.com/live/njxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="南溪综合" tvg-name="南溪综合" tvg-logo="https://live.404003.xyz/LOGO/南溪综合.png" group-title="其他",南溪综合
-http://live2.rxip.sc96655.com/live/nxt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="内江公共" tvg-name="内江公共" tvg-logo="https://live.404003.xyz/LOGO/内江公共.png" group-title="其他",内江公共
-http://live2.rxip.sc96655.com/live/njgg_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="内江综合" tvg-name="内江综合" tvg-logo="https://live.404003.xyz/LOGO/内江综合.png" group-title="其他",内江综合
-http://live2.rxip.sc96655.com/live/njzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="宁南综合" tvg-name="宁南综合" tvg-logo="https://live.404003.xyz/LOGO/宁南综合.png" group-title="其他",宁南综合
-http://live2.rxip.sc96655.com/live/nnt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="攀钢新闻综合" tvg-name="攀钢新闻综合" tvg-logo="https://live.404003.xyz/LOGO/攀钢新闻综合.png" group-title="其他",攀钢新闻综合
-http://live2.rxip.sc96655.com/live/pgxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="攀枝花新闻综合" tvg-name="攀枝花新闻综合" tvg-logo="https://live.404003.xyz/LOGO/攀枝花新闻综合.png" group-title="其他",攀枝花新闻综合
-http://live2.rxip.sc96655.com/live/pzhytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="彭山综合" tvg-name="彭山综合" tvg-logo="https://live.404003.xyz/LOGO/彭山综合.png" group-title="其他",彭山综合
-http://live2.rxip.sc96655.com/live/pszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="彭州综合" tvg-name="彭州综合" tvg-logo="https://live.404003.xyz/LOGO/彭州综合.png" group-title="其他",彭州综合
-http://live2.rxip.sc96655.com/live/pzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="蓬安综合" tvg-name="蓬安综合" tvg-logo="https://live.404003.xyz/LOGO/蓬安综合.png" group-title="其他",蓬安综合
-http://live2.rxip.sc96655.com/live/pazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="蓬溪新闻综合" tvg-name="蓬溪新闻综合" tvg-logo="https://live.404003.xyz/LOGO/蓬溪新闻综合.png" group-title="其他",蓬溪新闻综合
-http://live2.rxip.sc96655.com/live/pxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="平昌综合" tvg-name="平昌综合" tvg-logo="https://live.404003.xyz/LOGO/平昌综合.png" group-title="其他",平昌综合
-http://live2.rxip.sc96655.com/live/pcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="平武综合" tvg-name="平武综合" tvg-logo="https://live.404003.xyz/LOGO/平武综合.png" group-title="其他",平武综合
-http://live2.rxip.sc96655.com/live/pwgq_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="屏山综合" tvg-name="屏山综合" tvg-logo="https://live.404003.xyz/LOGO/屏山综合.png" group-title="其他",屏山综合
-http://live2.rxip.sc96655.com/live/psxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="蒲江综合" tvg-name="蒲江综合" tvg-logo="https://live.404003.xyz/LOGO/蒲江综合.png" group-title="其他",蒲江综合
-http://live2.rxip.sc96655.com/live/pjxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="普格综合" tvg-name="普格综合" tvg-logo="https://live.404003.xyz/LOGO/普格综合.png" group-title="其他",普格综合
-http://live2.rxip.sc96655.com/live/pgt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="前锋" tvg-name="前锋" tvg-logo="https://live.404003.xyz/LOGO/前锋.png" group-title="其他",前锋
-http://live2.rxip.sc96655.com/live/qfxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="青白江综合" tvg-name="青白江综合" tvg-logo="https://live.404003.xyz/LOGO/青白江综合.png" group-title="其他",青白江综合
-http://live2.rxip.sc96655.com/live/qbjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="青川综合" tvg-name="青川综合" tvg-logo="https://live.404003.xyz/LOGO/青川综合.png" group-title="其他",青川综合
-http://live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="青神综合" tvg-name="青神综合" tvg-logo="https://live.404003.xyz/LOGO/青神综合.png" group-title="其他",青神综合
-http://live2.rxip.sc96655.com/live/qszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="渠县新闻综合" tvg-name="渠县新闻综合" tvg-logo="https://live.404003.xyz/LOGO/渠县新闻综合.png" group-title="其他",渠县新闻综合
-http://live2.rxip.sc96655.com/live/qxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="仁和新闻" tvg-name="仁和新闻" tvg-logo="https://live.404003.xyz/LOGO/仁和新闻.png" group-title="其他",仁和新闻
-http://live2.rxip.sc96655.com/live/rhxwH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="荣县综合" tvg-name="荣县综合" tvg-logo="https://live.404003.xyz/LOGO/荣县综合.png" group-title="其他",荣县综合
-http://live2.rxip.sc96655.com/live/rxzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="三台TV" tvg-name="三台TV" tvg-logo="https://live.404003.xyz/LOGO/三台TV.png" group-title="其他",三台TV
-http://live2.rxip.sc96655.com/live/stxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="射洪综合" tvg-name="射洪综合" tvg-logo="https://live.404003.xyz/LOGO/射洪综合.png" group-title="其他",射洪综合
-http://live2.rxip.sc96655.com/live/shzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="石棉" tvg-name="石棉" tvg-logo="https://live.404003.xyz/LOGO/石棉.png" group-title="其他",石棉
-http://live2.rxip.sc96655.com/live/smxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="什邡新闻综合" tvg-name="什邡新闻综合" tvg-logo="https://live.404003.xyz/LOGO/什邡新闻综合.png" group-title="其他",什邡新闻综合
-http://live2.rxip.sc96655.com/live/sfx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="双流综合" tvg-name="双流综合" tvg-logo="https://live.404003.xyz/LOGO/双流综合.png" group-title="其他",双流综合
-http://live2.rxip.sc96655.com/live/slgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="松潘" tvg-name="松潘" tvg-logo="https://live.404003.xyz/LOGO/松潘.png" group-title="其他",松潘
-http://live2.rxip.sc96655.com/live/spxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="遂宁综合" tvg-name="遂宁综合" tvg-logo="https://live.404003.xyz/LOGO/遂宁综合.png" group-title="其他",遂宁综合
-http://live2.rxip.sc96655.com/live/snxwzhHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="天全新闻" tvg-name="天全新闻" tvg-logo="https://live.404003.xyz/LOGO/天全新闻.png" group-title="其他",天全新闻
-http://live2.rxip.sc96655.com/live/tqzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="通川区" tvg-name="通川区" tvg-logo="https://live.404003.xyz/LOGO/通川区.png" group-title="其他",通川区
-http://live2.rxip.sc96655.com/live/xcxwzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="通江综合" tvg-name="通江综合" tvg-logo="https://live.404003.xyz/LOGO/通江综合.png" group-title="其他",通江综合
-http://live2.rxip.sc96655.com/live/tjxwH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="万源" tvg-name="万源" tvg-logo="https://live.404003.xyz/LOGO/万源.png" group-title="其他",万源
-http://live2.rxip.sc96655.com/live/wyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="旺苍新闻综合" tvg-name="旺苍新闻综合" tvg-logo="https://live.404003.xyz/LOGO/旺苍新闻综合.png" group-title="其他",旺苍新闻综合
-http://live2.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="温江综合频道" tvg-name="温江综合频道" tvg-logo="https://live.404003.xyz/LOGO/温江综合.png" group-title="其他",温江综合频道
-http://live2.rxip.sc96655.com/live/wjytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="武胜综合" tvg-name="武胜综合" tvg-logo="https://live.404003.xyz/LOGO/武胜综合.png" group-title="其他",武胜综合
-http://live2.rxip.sc96655.com/live/wsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="五通桥" tvg-name="五通桥" tvg-logo="https://live.404003.xyz/LOGO/五通桥.png" group-title="其他",五通桥
-http://live2.rxip.sc96655.com/live/wtqxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="西昌" tvg-name="西昌" tvg-logo="https://live.404003.xyz/LOGO/西昌.png" group-title="其他",西昌
-http://live2.rxip.sc96655.com/live/xctHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="西充综合" tvg-name="西充综合" tvg-logo="https://live.404003.xyz/LOGO/西充综合.png" group-title="其他",西充综合
-http://live2.rxip.sc96655.com/live/xczh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="喜德" tvg-name="喜德" tvg-logo="https://live.404003.xyz/LOGO/喜德.png" group-title="其他",喜德
-http://live2.rxip.sc96655.com/live/xdxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="新都综合" tvg-name="新都综合" tvg-logo="https://live.404003.xyz/LOGO/新都综合.png" group-title="其他",新都综合
-http://live2.rxip.sc96655.com/live/xdzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="新津" tvg-name="新津" tvg-logo="https://live.404003.xyz/LOGO/新津.png" group-title="其他",新津
-http://live2.rxip.sc96655.com/live/xjzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="兴文电视台" tvg-name="兴文电视台" tvg-logo="https://live.404003.xyz/LOGO/兴文电视台.png" group-title="其他",兴文电视台
-http://live2.rxip.sc96655.com/live/xwt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="叙永电视台" tvg-name="叙永电视台" tvg-logo="https://live.404003.xyz/LOGO/叙永电视台.png" group-title="其他",叙永电视台
-http://live2.rxip.sc96655.com/live/xyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="叙州新闻综合" tvg-name="叙州新闻综合" tvg-logo="https://live.404003.xyz/LOGO/叙州新闻综合.png" group-title="其他",叙州新闻综合
-http://live2.rxip.sc96655.com/live/ybx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="宣汉综合" tvg-name="宣汉综合" tvg-logo="https://live.404003.xyz/LOGO/宣汉综合.png" group-title="其他",宣汉综合
-http://live2.rxip.sc96655.com/live/xhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="雅安公共" tvg-name="雅安公共" tvg-logo="https://live.404003.xyz/LOGO/雅安公共.png" group-title="其他",雅安公共
-http://live2.rxip.sc96655.com/live/yagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="雅安新闻综合" tvg-name="雅安新闻综合" tvg-logo="https://live.404003.xyz/LOGO/雅安新闻综合.png" group-title="其他",雅安新闻综合
-http://live2.rxip.sc96655.com/live/yazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="雅安雨城" tvg-name="雅安雨城" tvg-logo="https://live.404003.xyz/LOGO/雅安雨城.png" group-title="其他",雅安雨城
-http://live2.rxip.sc96655.com/live/ycpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="盐边电视台" tvg-name="盐边电视台" tvg-logo="https://live.404003.xyz/LOGO/盐边电视台.png" group-title="其他",盐边电视台
-http://live2.rxip.sc96655.com/live/ybtgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="盐亭1" tvg-name="盐亭1" tvg-logo="https://live.404003.xyz/LOGO/盐亭1.png" group-title="其他",盐亭1
-http://live2.rxip.sc96655.com/live/ytzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="雁江" tvg-name="雁江" tvg-logo="https://live.404003.xyz/LOGO/雁江.png" group-title="其他",雁江
-http://live2.rxip.sc96655.com/live/yjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="仪陇新闻综合" tvg-name="仪陇新闻综合" tvg-logo="https://live.404003.xyz/LOGO/仪陇新闻综合.png" group-title="其他",仪陇新闻综合
-http://live2.rxip.sc96655.com/live/ylxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="宜宾公共" tvg-name="宜宾公共" tvg-logo="https://live.404003.xyz/LOGO/宜宾公共.png" group-title="其他",宜宾公共
-http://live2.rxip.sc96655.com/live/ybetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="宜宾新闻综合" tvg-name="宜宾新闻综合" tvg-logo="https://live.404003.xyz/LOGO/宜宾新闻综合.png" group-title="其他",宜宾新闻综合
-http://live2.rxip.sc96655.com/live/ybytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="营山" tvg-name="营山" tvg-logo="https://live.404003.xyz/LOGO/营山.png" group-title="其他",营山
-http://live2.rxip.sc96655.com/live/ysxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="越西综合" tvg-name="越西综合" tvg-logo="https://live.404003.xyz/LOGO/越西综合.png" group-title="其他",越西综合
-http://live2.rxip.sc96655.com/live/yxt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="岳池" tvg-name="岳池" tvg-logo="https://live.404003.xyz/LOGO/岳池.png" group-title="其他",岳池
-http://live2.rxip.sc96655.com/live/ycxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="昭化综合" tvg-name="昭化综合" tvg-logo="https://live.404003.xyz/LOGO/昭化综合.png" group-title="其他",昭化综合
-http://live2.rxip.sc96655.com/live/zhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="中江新闻综合" tvg-name="中江新闻综合" tvg-logo="https://live.404003.xyz/LOGO/中江新闻综合.png" group-title="其他",中江新闻综合
-http://live2.rxip.sc96655.com/live/zjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="资阳新闻综合" tvg-name="资阳新闻综合" tvg-logo="https://live.404003.xyz/LOGO/资阳新闻综合.png" group-title="其他",资阳新闻综合
-http://live2.rxip.sc96655.com/live/zyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="资中综合" tvg-name="资中综合" tvg-logo="https://live.404003.xyz/LOGO/资中综合.png" group-title="其他",资中综合
-http://live2.rxip.sc96655.com/live/zzzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="自贡文化生活" tvg-name="自贡文化生活" tvg-logo="https://live.404003.xyz/LOGO/自贡文化生活.png" group-title="其他",自贡文化生活
-http://live2.rxip.sc96655.com/live/zggg_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://live.404003.xyz/LOGO/自贡综合.png" group-title="其他",自贡综合
-http://live2.rxip.sc96655.com/live/zgxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="郫县新闻综合" tvg-name="郫县新闻综合" tvg-logo="https://live.404003.xyz/LOGO/郫县新闻综合.png" group-title="其他",郫县新闻综合
-http://live2.rxip.sc96655.com/live/pxds1_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="荥经电视台" tvg-name="荥经电视台" tvg-logo="https://live.404003.xyz/LOGO/荥经电视台.png" group-title="其他",荥经电视台
-http://live2.rxip.sc96655.com/live/xjdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="阆中综合" tvg-name="阆中综合" tvg-logo="https://live.404003.xyz/LOGO/阆中综合.png" group-title="其他",阆中综合
-http://live2.rxip.sc96655.com/live/lzxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="沐川综合" tvg-name="沐川综合" tvg-logo="https://live.404003.xyz/LOGO/沐川综合.png" group-title="其他",沐川综合
-http://live2.rxip.sc96655.com/live/mcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="泸定综合频道" tvg-name="泸定综合频道" tvg-logo="https://live.404003.xyz/LOGO/泸定综合.png" group-title="其他",泸定综合频道
-http://live2.rxip.sc96655.com/live/ldxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="泸县综合" tvg-name="泸县综合" tvg-logo="https://live.404003.xyz/LOGO/泸县综合.png" group-title="其他",泸县综合
-http://live2.rxip.sc96655.com/live/lxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="泸州公共" tvg-name="泸州公共" tvg-logo="https://live.404003.xyz/LOGO/泸州公共.png" group-title="其他",泸州公共
-http://live2.rxip.sc96655.com/live/lzgg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="珙县新闻" tvg-name="珙县新闻" tvg-logo="https://live.404003.xyz/LOGO/珙县新闻.png" group-title="其他",珙县新闻
+#EXTINF:-1 tvg-name="珙县新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",珙县新闻
 http://live2.rxip.sc96655.com/live/gxzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="梓潼综合" tvg-name="梓潼综合" tvg-logo="https://live.404003.xyz/LOGO/梓潼综合.png" group-title="其他",梓潼综合
-http://live2.rxip.sc96655.com/live/ztgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="犍为新闻综合" tvg-name="犍为新闻综合" tvg-logo="https://live.404003.xyz/LOGO/犍为新闻综合.png" group-title="其他",犍为新闻综合
+#EXTINF:-1 tvg-name="古蔺新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",古蔺新闻综合
+http://live2.rxip.sc96655.com/live/glxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广安公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广安公共
+http://live2.rxip.sc96655.com/live/gagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广安区电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广安区电视台
+http://live2.rxip.sc96655.com/live/gaqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广汉综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广汉综合
+http://live2.rxip.sc96655.com/live/ghxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广元文化生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广元文化生活
+http://live2.rxip.sc96655.com/live/gyggH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广元综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广元综合
+http://live2.rxip.sc96655.com/live/gyzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="汉源综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",汉源综合
+http://live2.rxip.sc96655.com/live/hyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="合江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",合江新闻综合
+http://live2.rxip.sc96655.com/live/hjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="黑水" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",黑水
+http://live2.rxip.sc96655.com/live/hsxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="洪雅新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",洪雅新闻综合
+http://live2.rxip.sc96655.com/live/hyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="华蓥综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",华蓥综合
+http://live2.rxip.sc96655.com/live/hyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="会理新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",会理新闻
+http://live2.rxip.sc96655.com/live/hlyt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="夹江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",夹江新闻综合
+http://live2.rxip.sc96655.com/live/jjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="犍为新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",犍为新闻综合
 http://live2.rxip.sc96655.com/live/qwxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="筠连TV" tvg-name="筠连TV" tvg-logo="https://live.404003.xyz/LOGO/筠连TV.png" group-title="其他",筠连TV
+#EXTINF:-1 tvg-name="简阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",简阳新闻综合
+http://live2.rxip.sc96655.com/live/jyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="剑阁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",剑阁综合
+http://live2.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="江安电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",江安电视台
+http://live2.rxip.sc96655.com/live/jat_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="江油综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",江油综合
+http://live2.rxip.sc96655.com/live/jyxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金口河综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",金口河综合
+http://live2.rxip.sc96655.com/live/jkhdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金牛" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",金牛
+http://live2.rxip.sc96655.com/live/jnyx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金堂电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",金堂电视台
+http://live2.rxip.sc96655.com/live/jtzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="开江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",开江新闻综合
+http://live2.rxip.sc96655.com/live/kjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="阆中综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",阆中综合
+http://live2.rxip.sc96655.com/live/lzxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="乐山公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",乐山公共
+http://live2.rxip.sc96655.com/live/lsggpd_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",乐山新闻综合
+http://live2.rxip.sc96655.com/live/lsxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="利州综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",利州综合
+http://live2.rxip.sc96655.com/live/lzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",凉山新闻综合
+http://live2.rxip.sc96655.com/live/lsxwHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="凉山彝语综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",凉山彝语综合
+http://live2.rxip.sc96655.com/live/yyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="邻水" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",邻水
+http://live2.rxip.sc96655.com/live/lsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="龙泉综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",龙泉综合
+http://live2.rxip.sc96655.com/live/lqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="隆昌综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",隆昌综合
+http://live2.rxip.sc96655.com/live/lcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="芦山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",芦山综合频道
+http://live2.rxip.sc96655.com/live/lszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="泸定综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",泸定综合频道
+http://live2.rxip.sc96655.com/live/ldxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="泸县综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",泸县综合
+http://live2.rxip.sc96655.com/live/lxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="罗江" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",罗江
+http://live2.rxip.sc96655.com/live/ljxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="马边综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",马边综合
+http://live2.rxip.sc96655.com/live/mbxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="马尔康" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",马尔康
+http://live2.rxip.sc96655.com/live/mekxwzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",眉山综合
+http://live2.rxip.sc96655.com/live/msxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="米易综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",米易综合
+http://live2.rxip.sc96655.com/live/myxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="绵阳科技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",绵阳科技
+http://live2.rxip.sc96655.com/live/myetH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="绵阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",绵阳新闻综合
+http://live2.rxip.sc96655.com/live/myytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="绵竹" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",绵竹
+http://live2.rxip.sc96655.com/live/mzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="冕宁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",冕宁综合
+http://live2.rxip.sc96655.com/live/mnxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="名山电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",名山电视台
+http://live2.rxip.sc96655.com/live/msdstH265_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="木里" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",木里
+http://live2.rxip.sc96655.com/live/mltHD_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="沐川综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",沐川综合
+http://live2.rxip.sc96655.com/live/mcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="纳溪1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",纳溪-1
+http://live2.rxip.sc96655.com/live/nxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="南部综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",南部综合
+http://live2.rxip.sc96655.com/live/nbxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="南充综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",南充综合
+http://live2.rxip.sc96655.com/live/ncxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="南江电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",南江电视台
+http://live2.rxip.sc96655.com/live/njxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="南溪综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",南溪综合
+http://live2.rxip.sc96655.com/live/nxt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="内江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",内江综合
+http://live2.rxip.sc96655.com/live/njzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="宁南综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宁南综合
+http://live2.rxip.sc96655.com/live/nnt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="攀钢新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",攀钢新闻综合
+http://live2.rxip.sc96655.com/live/pgxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="攀枝花新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",攀枝花新闻综合
+http://live2.rxip.sc96655.com/live/pzhytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="彭山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",彭山综合
+http://live2.rxip.sc96655.com/live/pszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="彭州综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",彭州综合
+http://live2.rxip.sc96655.com/live/pzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="蓬安综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",蓬安综合
+http://live2.rxip.sc96655.com/live/pazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="蓬溪新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",蓬溪新闻综合
+http://live2.rxip.sc96655.com/live/pxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="郫县新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",郫县新闻综合
+http://live2.rxip.sc96655.com/live/pxds1_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="平昌综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",平昌综合
+http://live2.rxip.sc96655.com/live/pcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="平武综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",平武综合
+http://live2.rxip.sc96655.com/live/pwgq_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="屏山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",屏山综合
+http://live2.rxip.sc96655.com/live/psxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="蒲江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",蒲江综合
+http://live2.rxip.sc96655.com/live/pjxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="普格综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",普格综合
+http://live2.rxip.sc96655.com/live/pgt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",七彩戏剧
+http://live2.rxip.sc96655.com/live/qcxj_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="前锋" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",前锋
+http://live2.rxip.sc96655.com/live/qfxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="青白江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",青白江综合
+http://live2.rxip.sc96655.com/live/qbjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="青川综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",青川综合
+http://live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="青神综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",青神综合
+http://live2.rxip.sc96655.com/live/qszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="渠县新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",渠县新闻综合
+http://live2.rxip.sc96655.com/live/qxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="仁和新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",仁和新闻
+http://live2.rxip.sc96655.com/live/rhxwH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="荣县综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",荣县综合
+http://live2.rxip.sc96655.com/live/rxzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="三台TV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",三台TV
+http://live2.rxip.sc96655.com/live/stxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="沙湾融媒" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",沙湾融媒
+http://live2.rxip.sc96655.com/live/swxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="射洪综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",射洪综合
+http://live2.rxip.sc96655.com/live/shzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="石棉" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",石棉
+http://live2.rxip.sc96655.com/live/smxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="双流综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",双流综合
+http://live2.rxip.sc96655.com/live/slgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="松潘" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",松潘
+http://live2.rxip.sc96655.com/live/spxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="遂宁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",遂宁综合
+http://live2.rxip.sc96655.com/live/snxwzhHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="天全新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",天全新闻
+http://live2.rxip.sc96655.com/live/tqzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="通川区" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",通川区
+http://live2.rxip.sc96655.com/live/xcxwzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="通江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",通江综合
+http://live2.rxip.sc96655.com/live/tjxwH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="万源" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",万源
+http://live2.rxip.sc96655.com/live/wyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",旺苍新闻综合
+http://live2.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="温江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",温江综合频道
+http://live2.rxip.sc96655.com/live/wjytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="五通桥" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",五通桥
+http://live2.rxip.sc96655.com/live/wtqxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="武胜综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",武胜综合
+http://live2.rxip.sc96655.com/live/wsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="西昌" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",西昌
+http://live2.rxip.sc96655.com/live/xctHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="西充综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",西充综合
+http://live2.rxip.sc96655.com/live/xczh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="新都综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",新都综合
+http://live2.rxip.sc96655.com/live/xdzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="新津" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",新津
+http://live2.rxip.sc96655.com/live/xjzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="荥经电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",荥经电视台
+http://live2.rxip.sc96655.com/live/xjdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="兴文电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",兴文电视台
+http://live2.rxip.sc96655.com/live/xwt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="叙永电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",叙永电视台
+http://live2.rxip.sc96655.com/live/xyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="叙州新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",叙州新闻综合
+http://live2.rxip.sc96655.com/live/ybx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="宣汉综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宣汉综合
+http://live2.rxip.sc96655.com/live/xhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="雅安公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",雅安公共
+http://live2.rxip.sc96655.com/live/yagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",雅安新闻综合
+http://live2.rxip.sc96655.com/live/yazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="雅安雨城" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",雅安雨城
+http://live2.rxip.sc96655.com/live/ycpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="盐边电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",盐边电视台
+http://live2.rxip.sc96655.com/live/ybtgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="盐亭1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",盐亭1
+http://live2.rxip.sc96655.com/live/ytzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="雁江" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",雁江
+http://live2.rxip.sc96655.com/live/yjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="仪陇新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",仪陇新闻综合
+http://live2.rxip.sc96655.com/live/ylxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="宜宾公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宜宾公共
+http://live2.rxip.sc96655.com/live/ybetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="宜宾新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宜宾新闻综合
+http://live2.rxip.sc96655.com/live/ybytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="营山" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",营山
+http://live2.rxip.sc96655.com/live/ysxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="岳池" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",岳池
+http://live2.rxip.sc96655.com/live/ycxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="越西综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",越西综合
+http://live2.rxip.sc96655.com/live/yxt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="筠连TV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",筠连TV
 http://live2.rxip.sc96655.com/live/ylyt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.404003.xyz/LOGO/CGTN俄语.png" group-title="央视",CGTN-俄语
-http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.404003.xyz/LOGO/CGTN法语.png" group-title="央视",CGTN-法语
-http://live2.rxip.sc96655.com/live/fy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.404003.xyz/LOGO/CGTN西语.png" group-title="央视",CGTN-西语
-http://live2.rxip.sc96655.com/live/xbyy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="CGTN-英语" tvg-name="CGTN-英语" tvg-logo="https://live.404003.xyz/LOGO/CGTN英语.png" group-title="央视",CGTN-英语
-http://live2.rxip.sc96655.com/live/CGTN_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",长宁综合
+http://live2.rxip.sc96655.com/live/znzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="昭化综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",昭化综合
+http://live2.rxip.sc96655.com/live/zhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="中江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",中江新闻综合
+http://live2.rxip.sc96655.com/live/zjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="资阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",资阳新闻综合
+http://live2.rxip.sc96655.com/live/zyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="资中综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",资中综合
+http://live2.rxip.sc96655.com/live/zzzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="梓潼综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",梓潼综合
+http://live2.rxip.sc96655.com/live/ztgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="自贡文化生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",自贡文化生活
+http://live2.rxip.sc96655.com/live/zggg_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",自贡综合
+http://live2.rxip.sc96655.com/live/zgxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
+
+
+
 #EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="https://live.404003.xyz/LOGO/风尚购物.png" group-title="其他",风尚购物
 http://live2.rxip.sc96655.com/live/fsgw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="家家购物" tvg-name="家家购物" tvg-logo="https://live.404003.xyz/LOGO/家家购物.png" group-title="其他",家家购物
