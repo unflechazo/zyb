@@ -58,30 +58,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV-17(1080P)
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
-#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://live.404003.xyz/LOGO/卫生健康.png" group-title="CCTV",卫生健康(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000416@JSBC
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.404003.xyz/LOGO/电视指南.png" group-title="CCTV",电视指南(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000203@JSBC
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.404003.xyz/LOGO/风云足球.png" group-title="CCTV",风云足球(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000204@JSBC
-#EXTINF:-1 tvg-id="高尔夫·网球" tvg-name="高尔夫·网球" tvg-logo="https://live.404003.xyz/LOGO/高尔夫·网球.png" group-title="CCTV",高尔夫·网球(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000205@JSBC
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.404003.xyz/LOGO/世界地理.png" group-title="CCTV",世界地理(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000206@JSBC
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.404003.xyz/LOGO/兵器科技.png" group-title="CCTV",兵器科技(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000207@JSBC
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.404003.xyz/LOGO/风云剧场.png" group-title="CCTV",风云剧场(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000208@JSBC
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://live.404003.xyz/LOGO/央视文化精品.png" group-title="CCTV",央视文化精品(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000209@JSBC
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.404003.xyz/LOGO/怀旧剧场.png" group-title="CCTV",怀旧剧场(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000210@JSBC
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.404003.xyz/LOGO/风云音乐.png" group-title="CCTV",风云音乐(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000211@JSBC
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.404003.xyz/LOGO/女性时尚.png" group-title="CCTV",女性时尚(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000212@JSBC
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.404003.xyz/LOGO/央视台球.png" group-title="CCTV",央视台球(1080P)
-http://112.86.202.37:8112/JSBC_iptv/C10000217@JSBC
+
 
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视(1080P)
 http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
