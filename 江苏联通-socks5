@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
 #EXTINF:-1 group-title="4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV4K.png" tvg-name="CCTV4K",CCTV4K
 #EXTINF:-1 group-title="4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV8K.png" tvg-name="CCTV8K",CCTV8K
-http://112.86.202.37:8112/JSBC_iptv/C10000448@JSBC
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K",北京卫视(4K)
 http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="4K",广东卫视(4K)
