@@ -678,6 +678,14 @@ http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 http://110.153.180.106:55555/out_2/index.m3u8
 #EXTINF:-1 tvg-name="新疆TV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆哈语.png" group-title="📡新疆",新疆TV3
 http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 tvg-name="新疆TV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆汉语综艺.png" group-title="📡新疆",新疆TV4
+http://120.70.60.179:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="新疆TV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆维语影视.png" group-title="📡新疆",新疆TV5
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 tvg-name="新疆TV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆汉语影视.png" group-title="📡新疆",新疆TV6
+http://120.70.60.179:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="新疆TV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆体育健康.png" group-title="📡新疆",新疆TV7
+http://120.70.60.179:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="巴音综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆.png" group-title="📡新疆",巴音综合
 http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
 #EXTINF:-1 tvg-name="巴音郭楞" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆.png" group-title="📡新疆",巴音郭楞
@@ -930,6 +938,8 @@ http://192.151.150.154/live/tjtv4.m3u8
 http://192.151.150.154/live/tjtv5.m3u8
 #EXTINF:-1 tvg-name="天津教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/天津教育.png" group-title="🏖️地方台",天津教育
 http://192.151.150.154/live/tjtv6.m3u8
+#EXTINF:-1 tvg-name="西藏那曲电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/西藏卫视.png" group-title="🏖️地方台",西藏那曲电视台
+https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 
 
 
