@@ -656,6 +656,14 @@ http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/南京少儿.png" group-title="📡江苏",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+#EXTINF:0 CUID="215" tvg-name="扬州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州新闻.png" group-title="📡江苏",扬州新闻
+http://yztv-wshls.homecdn.com/live/8bb.m3u8#http://yztv-wshls.homecdn.com/live/8bb.flv#rtmp://yztv-wshls.homecdn.com/live/8bb
+#EXTINF:0 CUID="215" tvg-name="扬州民生" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州民生.png" group-title="📡江苏",扬州民生
+http://yztv-wshls.homecdn.com/live/8bd.m3u8#http://yztv-wshls.homecdn.com/live/8bd.flv#rtmp://yztv-wshls.homecdn.com/live/8bd
+#EXTINF:0 CUID="215" tvg-name="扬州邗江" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州邗江.png" group-title="📡江苏",扬州邗江
+http://yztv-wshls.homecdn.com/live/8c3.m3u8#http://yztv-wshls.homecdn.com/live/8c3.flv#rtmp://yztv-wshls.homecdn.com/live/8c3
+#EXTINF:0 CUID="215" tvg-name="扬州江都" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州江都.png" group-title="📡江苏",扬州江都
+http://yztv-wshls.homecdn.com/live/8c1.m3u8#http://yztv-wshls.homecdn.com/live/8c1.flv#rtmp://yztv-wshls.homecdn.com/live/8c1
 #EXTINF:-1 tvg-name="新疆TV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆.png" group-title="📡新疆",新疆TV1
 http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 #EXTINF:-1 tvg-name="新疆TV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆维语.png" group-title="📡新疆",新疆TV2
@@ -884,14 +892,6 @@ http://cg2.hunancatv.cn:9090/live/HNJS_8000.m3u8?deviceid=866265039837531&sid=Yp
 http://cg5.hunancatv.cn:9090/live/HNDSJ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295286036&srchost=172.16.22.158:8060&gid=Cn7yXpuiB9Edx4Fq9JhnJw%3D%3D
 #EXTINF:0 CUID="215" tvg-name="湖南电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/湖南电影.png" group-title="🏖️地方台",湖南电影
 http://cg6.hunancatv.cn:9090/live/XXDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295286048&srchost=172.16.22.158:8060&gid=iVMB8phldxRYlCt4m6fTXg%3D%3D
-#EXTINF:0 CUID="215" tvg-name="扬州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州新闻.png" group-title="🏖️地方台",扬州新闻
-http://yztv-wshls.homecdn.com/live/8bb.m3u8#http://yztv-wshls.homecdn.com/live/8bb.flv#rtmp://yztv-wshls.homecdn.com/live/8bb
-#EXTINF:0 CUID="215" tvg-name="扬州民生" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州民生.png" group-title="🏖️地方台",扬州民生
-http://yztv-wshls.homecdn.com/live/8bd.m3u8#http://yztv-wshls.homecdn.com/live/8bd.flv#rtmp://yztv-wshls.homecdn.com/live/8bd
-#EXTINF:0 CUID="215" tvg-name="扬州邗江" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州邗江.png" group-title="🏖️地方台",扬州邗江
-http://yztv-wshls.homecdn.com/live/8c3.m3u8#http://yztv-wshls.homecdn.com/live/8c3.flv#rtmp://yztv-wshls.homecdn.com/live/8c3
-#EXTINF:0 CUID="215" tvg-name="扬州江都" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州江都.png" group-title="🏖️地方台",扬州江都
-http://yztv-wshls.homecdn.com/live/8c1.m3u8#http://yztv-wshls.homecdn.com/live/8c1.flv#rtmp://yztv-wshls.homecdn.com/live/8c1
 #EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/东莞新闻综合.png" group-title="🏖️地方台",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 #EXTINF:-1 tvg-name="东莞生活资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/东莞生活资讯.png" group-title="🏖️地方台",东莞生活资讯
