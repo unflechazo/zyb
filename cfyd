@@ -798,6 +798,31 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:0 CUID="215" tvg-name="朝天综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川朝天综合.png" group-title="📡四川",朝天综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+#EXTINF:0  tvg-name="阆中综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川卫视.png" group-title="📡四川",阆中综合
+https://p2hs.vzan.com/slowlive/798833473879633259/live.m3u8
+http://pull-hsbj.vzan.com/v/slowlive_798833473879633259.flv
+#EXTINF:0  tvg-name="南溪综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川卫视.png" group-title="📡四川",南溪综合
+https://p2hs.vzan.com/slowlive/371673471833525863/live.m3u8
+http://pull-hsbj.vzan.com/v/slowlive_371673471833525863.flv
+#EXTINF:0  tvg-name="金堂电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川卫视.png" group-title="📡四川",金堂电视台
+http://p8.vzan.com/slowlive/188010566442385577/live.m3u8
+http://r8.vzan.com/v/slowlive_188010566442385577.m3u8
+#EXTINF:0  tvg-name="营山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川营山.png" group-title="📡四川",营山综合
+http://m3u8channel.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
+#EXTINF:0  tvg-name="宝兴综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川宝兴.png" group-title="📡四川",宝兴综合
+http://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
+#EXTINF:0  tvg-name="汉源综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川卫视.png" group-title="📡四川",汉源综合
+http://m3u8channel-hy.yunxya.com/nmip-media/channellive/channel104355/playlist.m3u8
+#EXTINF:0  tvg-name="名山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川名山.png" group-title="📡四川",名山综合
+http://m3u8channel-ms.yunxya.com/nmip-media/channellive/channel100249/playlist.m3u8
+#EXTINF:0  tvg-name="石棉综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川卫视.png" group-title="📡四川",石棉综合
+http://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
+#EXTINF:0  tvg-name="天全综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川天全.png" group-title="📡四川",天全综合
+http://m3u8channel-tq.yunxya.com/nmip-media/channellive/channel100634/playlist.m3u8
+#EXTINF:0  tvg-name="荥经综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川荥经.png" group-title="📡四川",荥经综合
+http://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+#EXTINF:0  tvg-name="德格综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/四川卫视.png" group-title="📡四川",德格综合
+http://m3u8channel.ganzitv.com/nmip-media/channellive/channel101955/playlist.m3u8
 #EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/iHOT/iHOT爱历史.png" group-title="📡四川",iHOT爱历史
 http://nas.yzs10000.com:17777/udp/239.94.1.135:5140
 #EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/iHOT/iHOT爱喜剧.png" group-title="📡四川",iHOT爱喜剧
@@ -998,6 +1023,20 @@ http://192.151.150.154/live/tjtv5.m3u8
 http://192.151.150.154/live/tjtv6.m3u8
 #EXTINF:-1 tvg-name="西藏那曲电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/西藏卫视.png" group-title="🏖️地方台",西藏那曲电视台
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
+#EXTINF:-1 tvg-name="长春新闻综合频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/长春新闻综合频道.png" group-title="🏖️地方台",长春新闻综合频道
+http://p2hs.vzan.com/slowlive/164981377219303011/live.m3u8
+http://pull-hsbj.vzan.com/v/slowlive_164981377219303011.flv
+#EXTINF:-1 tvg-name="长春市民生活频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/长春市民生活频道.png" group-title="🏖️地方台",长春市民生活频道
+http://p2hs.vzan.com/slowlive/448284006867552616/live.m3u8
+http://pull-hsbj.vzan.com/v/slowlive_448284006867552616.flv
+#EXTINF:-1 tvg-name="长春文旅体育频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/长春文旅体育频道.png" group-title="🏖️地方台",长春文旅体育频道
+http://p2hs.vzan.com/slowlive/899255696274582649/live.m3u8
+http://pull-hsbj.vzan.com/v/slowlive_899255696274582649.flv
+#EXTINF:-1 tvg-name="亚洲卫视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/亚洲卫视频道.png" group-title="🏖️地方台",亚洲卫视频道
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
+https://r8.vzan.com/v/slowlive_415983998730568937.flv
+#EXTINF:-1 tvg-name="七星关综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/贵州.png" group-title="🏖️地方台",七星关综合
+http://r8.vzan.com/v/slowlive_619332743506513871.flv
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/动漫秀场.png" group-title="🪁儿童",动漫秀场
 http://39.136.35.18:6610/000000001000/5000000011000031113/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="BesTV4K动画" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/BesTV-4K.png" group-title="🪁儿童",BesTV4K动画
