@@ -910,21 +910,21 @@ http://live.wuzhourm.cn:80/xwzh/index.m3u8
 #EXTINF:0  tvg-name="梧州教育生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/梧州教育生活.png" group-title="🏖️地方台",梧州教育生活
 http://live.wuzhourm.cn:80/jysh/index.m3u8
 #EXTINF:0  tvg-name="山东齐鲁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东齐鲁.png" group-title="🏖️地方台",山东齐鲁
-http://112.13.84.312:80/tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8
+http://182.100.45.149:80/tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8
 #EXTINF:0  tvg-name="山东文旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东文旅.png" group-title="🏖️地方台",山东文旅
-http://112.13.84.312:80/tstreamlive302.iqilu.com/291/71637943d1f841c78edd6abfa120bee2/playlist.m3u8 
+http://182.100.45.149:80/tstreamlive302.iqilu.com/291/71637943d1f841c78edd6abfa120bee2/playlist.m3u8 
 #EXTINF:0  tvg-name="山东生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东生活.png" group-title="🏖️地方台",山东生活
-http://112.13.84.312:80/tstreamlive302.iqilu.com/291/6e9efb8f95a543db8246f1cf06ba960b/playlist.m3u8
+http://182.100.45.149:80/tstreamlive302.iqilu.com/291/6e9efb8f95a543db8246f1cf06ba960b/playlist.m3u8
 #EXTINF:0  tvg-name="山东综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东综艺.png" group-title="🏖️地方台",山东综艺
-http://112.13.84.312:80/tstreamlive302.iqilu.com/291/dad8e4743fcf48ed925d01e64868cc7c/playlist.m3u8
+http://182.100.45.149:80/tstreamlive302.iqilu.com/291/dad8e4743fcf48ed925d01e64868cc7c/playlist.m3u8
 #EXTINF:0  tvg-name="山东体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东体育.png" group-title="🏖️地方台",山东体育
-http://112.13.84.312:80/tstreamlive302.iqilu.com/291/d9c0aba79a944b41a7f4f1ac422d9808/playlist.m3u8
+http://182.100.45.149:80/tstreamlive302.iqilu.com/291/d9c0aba79a944b41a7f4f1ac422d9808/playlist.m3u8
 #EXTINF:0  tvg-name="山东新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东新闻.png" group-title="🏖️地方台",山东新闻
-http://112.13.84.312:80/streamlive302.iqilu.com/21/ae3cd441fafb45f29168af2a3bf8e116/playlist.m3u8 
+http://182.100.45.149:80/streamlive302.iqilu.com/21/ae3cd441fafb45f29168af2a3bf8e116/playlist.m3u8 
 #EXTINF:0  tvg-name="山东农科" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东农科.png" group-title="🏖️地方台",山东农科
-http://112.13.84.312:80/tstreamlive302.iqilu.com/291/9664dd18b42b4b129a71fbfb68a80e3b/playlist.m3u8
+http://182.100.45.149:80/tstreamlive302.iqilu.com/291/9664dd18b42b4b129a71fbfb68a80e3b/playlist.m3u8
 #EXTINF:0  tvg-name="山东少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/山东少儿.png" group-title="🏖️地方台",山东少儿
-http://112.13.84.312:80/tstreamlive302.iqilu.com/21/990de3c3748848848daf5a96743f9c57/playlist.m3u8
+http://182.100.45.149:80/tstreamlive302.iqilu.com/21/990de3c3748848848daf5a96743f9c57/playlist.m3u8
 #EXTINF:0  tvg-name="安徽影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/安徽影视.png" group-title="🏖️地方台",安徽影视
 http://60.175.47.78:8480/hls/35/index.m3u8
 #EXTINF:0  tvg-name="安徽经济生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/安徽经济生活.png" group-title="🏖️地方台",安徽经济生活
