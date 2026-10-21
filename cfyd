@@ -13,12 +13,6 @@ http://8.155.43.98:35455/douyu/8970851
 http://8.155.43.98:35455/douyu/3186217
 #EXTINF:-1 tvg-name="音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/斗鱼直播.png" group-title="🎵音乐",点播6
 http://8.155.43.98:35455/douyu/9575463
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩竞技.png" group-title="🏀体育",睛彩竞技
-http://111.56.121.176/050000001888/5000000188800000106/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000106/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩篮球.png" group-title="🏀体育",睛彩篮球
-http://111.56.121.176/050000001888/5000000188800000107/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000107/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩青少.png" group-title="🏀体育",睛彩青少
-http://111.56.121.176/050000001888/5000000188800000109/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000109/index.m3u8
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/爱上4K测试体验.png" group-title="🎬电影",爱上4K
 http://nas.yzs10000.com:17777/rtp/239.94.0.021:5140
 #EXTINF:-1 tvg-name="4K乐享超清" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/纯享4K.png" group-title="🎬电影",4K乐享超清
@@ -43,12 +37,14 @@ http://60.175.47.78:8480/hls/50/index.m3u8
 http://home.airengine.net:9003/udp/228.1.1.237:8002
 #EXTINF:-1 tvg-name="Y+剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/Y+.png" group-title="🎬电影",Y+剧场  
 http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/1.m3u8?tenantId=8601&accountinfo=~~V2.0~SSxnh2gPZaV_9wZMz86ofwc38bf04ecfc078f584095a9c6e91b9e1~3twbaBwUaqzfkJ5qW9C0gp1C11OJXhanim-P8XrfoHFX-jV3R0FL2wbo-VR8pOhzd5938d01ed8f640cebb709a281e7b1d3~ExtInfo9W1qynAo8QtSBzK-JlHBbQ3bb1f3410d135b117fdf58086980a86d:20240603131532:UTC,c864060416ccf5986b3e5940417477879245774,117.148.130.144,20240603131532,4444444684,c864060416ccf5986b3e5940417477879245774,-1,0,1,,,2,1000000201,,,2,23,0,241,9ec0a2dcdcfd4259318d50a38cde552c,,,1,1,140151867,END&fbl=$超清
-#EXTINF:-1 tvg-name="动作电影轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/电影_轮播影院2.png" group-title="🎬电影",动作电影轮播台  
+#EXTINF:-1 tvg-name="动作电影轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/轮播.png" group-title="🎬电影",动作电影轮播台  
 http://111.56.121.176/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000190/index.m3u8
-#EXTINF:-1 tvg-name="古装神剧轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/古装剧.png" group-title="🎬电影",古装神剧轮播台  
+#EXTINF:-1 tvg-name="古装神剧轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/轮播.png" group-title="🎬电影",古装神剧轮播台  
 http://111.56.121.176/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000186/index.m3u8
-#EXTINF:-1 tvg-name="情感大剧轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/情感剧.png" group-title="🎬电影",情感大剧轮播台  
+#EXTINF:-1 tvg-name="情感大剧轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/轮播.png" group-title="🎬电影",情感大剧轮播台  
 http://111.56.121.176/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls#,http://39.136.35.159:8006/050000001888/5000000188800000189/index.m3u8
+#EXTINF:-1 tvg-name="综艺天地轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/轮播.png" group-title="🎬电影",综艺天地轮播台  
+http://111.56.121.176/050000001888/5000000188800000188/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="古装妖魔" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV古装剧场.png" group-title="🎬电影",古装妖魔 
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/NewTV/NewTV家庭剧场.png" group-title="🎬电影",家庭剧场 
@@ -1033,6 +1029,12 @@ http://liuwenxiaokevin.top:14044/rtp/233.18.204.54:5140
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225968/1.m3u8?fmt=ts2hls
 #EXTINF:0 tvg-name="优漫卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/优漫卡通.png" group-title="🪁儿童",优漫卡通
 http://lishui-tv-playing-t.cm.jstv.com/live/ymktpro.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩竞技.png" group-title="🏀体育",睛彩竞技
+http://111.56.121.176/050000001888/5000000188800000106/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000106/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩篮球.png" group-title="🏀体育",睛彩篮球
+http://111.56.121.176/050000001888/5000000188800000107/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000107/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/睛彩青少.png" group-title="🏀体育",睛彩青少
+http://111.56.121.176/050000001888/5000000188800000109/1.m3u8?fmt=ts2hls#http://39.136.35.159:8006/050000001888/5000000188800000109/index.m3u8
 #EXTINF:0  tvg-name="BesTV4K纪实" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/BesTV-4K.png" group-title="🌲其它",BesTV4K纪实
 http://nas.yzs10000.com:17777/rtp/239.94.1.69:5140
 #EXTINF:0  tvg-name="吉林纪录片轮播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/NewTV吉林.png" group-title="🌲其它",吉林纪录片轮播
