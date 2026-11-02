@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://zzf.new.tg/epg.xml" url-tvg="https://zzf.new.tg/epg.xml"
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/爱上4K测试体验.png" group-title="🎬电影",爱上4K
 http://nas.yzs10000.com:17777/rtp/239.94.0.021:5140
 #EXTINF:-1 tvg-name="4K乐享超清" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/纯享4K.png" group-title="🎬电影",4K乐享超清
