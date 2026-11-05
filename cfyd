@@ -14,7 +14,7 @@ http://114.242.62.109:888/hls/54/index.m3u8
 #EXTINF:-1 tvg-name="华数影院壹" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/华数TV.png" group-title="🎬电影",华数影院壹
 http://114.242.62.109:888/hls/100/index.m3u8
 #EXTINF:-1 tvg-name="重温经典频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/重温经典.png" group-title="🎬电影",重温经典
-http://183.129.255.66:8480/hls/50/index.m3u8
+http://8.138.7.223/tv/cwjd.php#http://183.129.255.66:8480/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="北京重温经典" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/北京重温经典.png" group-title="🎬电影",北京重温经典
 http://home.airengine.net:9003/udp/228.1.1.237:8002
 #EXTINF:-1 tvg-name="Y+剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/Y+.png" group-title="🎬电影",Y+剧场
