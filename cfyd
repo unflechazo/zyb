@@ -226,7 +226,7 @@ http://www.liangcl.top:8686/udp/233.50.202.35:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="📡卫视频道",凤凰资讯
 http://www.liangcl.top:8686/udp/233.50.202.36:5140
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/unflechazo/zyb/main/img/香港/凤凰香港.png" group-title="📡卫视频道",凤凰香港
-http://139.196.28.189:18888/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+http://183.239.248.218:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://39.136.35.18:6610/000000001000/5000000004000031556/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/东方卫视.png" group-title="📡卫视频道",东方卫视
