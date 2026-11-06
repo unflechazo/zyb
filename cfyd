@@ -391,8 +391,6 @@ http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225824/1.m3u8?fmt=ts2hls
 #EXTINF:0 tvg-name="通辽城市服务" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古通辽城市服务.png" group-title="📺内蒙古频道",通辽城市服务
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225823/1.m3u8?fmt=ts2hls
-#EXTINF:0 tvg-name="通辽库伦旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古.png" group-title="📺内蒙古频道",通辽库伦旗广播电视台
-http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225925/1.m3u8?fmt=ts2hls
 #EXTINF:0 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/鄂尔多斯新闻综合.png" group-title="📺内蒙古频道",鄂尔多斯新闻综合
 http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225835/1.m3u8?fmt=ts2hls
 #EXTINF:0 tvg-name="鄂尔多斯经济服务" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/鄂尔多斯经济服务.png" group-title="📺内蒙古频道",鄂尔多斯经济服务
@@ -415,8 +413,6 @@ http://gslb3-live-nmg-by.bestvcdn.com/wh7f454c46tw4129021068_-577849345/gslbserv
 http://gslb3-live-nmg-by.bestvcdn.com/wh7f454c46tw4128728494_324879314/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225789/10000100000000060000000000004352_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:0 tvg-name="锡林郭勒东乌旗" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古.png" group-title="📺内蒙古频道",内蒙古·锡林郭勒·东乌广播电视台
 http://gslb3-live-nmg-by.bestvcdn.com/wh7f454c46tw4129601312_840818814/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225792/10000100000000060000000000004362_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:0 tvg-name="锡林郭勒多伦" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古.png" group-title="📺内蒙古频道",内蒙古·锡林郭勒·多伦广播电视台
-http://gslb3-live-nmg-by.bestvcdn.com/wh7f454c46tw4185053439_-1207254960/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225880/10000100000000060000000000316829_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:0 tvg-name="锡林郭勒太仆寺旗" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古.png" group-title="📺内蒙古频道",内蒙古·锡林郭勒·太仆寺旗广播电视台
 http://gslb3-live-nmg-by.bestvcdn.com/wh7f454c46tw4128144674_-345031186/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225786/10000100000000060000000000004344_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:0 tvg-name="锡林郭勒正蓝旗" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/内蒙古/内蒙古.png" group-title="📺内蒙古频道",内蒙古·锡林郭勒·正蓝旗广播电视台
