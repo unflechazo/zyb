@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/sumingyd/xml/releases/latest/download/epg.xml,https://zzf.new.tg/epg.xml"
+#EXTM3U x-tvg-url="https://gh.con.sh/https://github.com/sumingyd/xml/releases/latest/download/epg.xml,https://zzf.new.tg/epg.xml"
 #EXTINF:-1 tvg-name="4K乐享超清" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/纯享4K.png" group-title="🎬电影",4K乐享超清
 http://nas.yzs10000.com:17777/udp/239.94.1.162:5140
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/精彩影视.png" group-title="🎬电影",精彩影视
