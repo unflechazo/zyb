@@ -912,6 +912,10 @@ https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 https://r8.vzan.com/v/slowlive_415983998730568937.flv
 #EXTINF:-1 tvg-name="七星关综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/贵州.png" group-title="🏖️地方台",七星关综合
 http://r8.vzan.com/v/slowlive_619332743506513871.flv
+#EXTINF:-1 tvg-name="中牟综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/中牟综合.png" group-title="🏖️地方台",中牟综合
+http://zmgd.zyrnet.com:8888/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="中牟生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/中牟生活.png" group-title="🏖️地方台",中牟生活
+http://zmgd.zyrnet.com:8888/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/动漫秀场.png" group-title="🪁儿童",动漫秀场
 http://39.136.35.18:6610/000000001000/5000000011000031113/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="4K少儿专区" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/ys/BesTV-4K.png" group-title="🪁儿童",BesTV4K动画
