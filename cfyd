@@ -571,10 +571,8 @@ http://jiawang-tv-playing-t.cm.jstv.com/live/jwxw.m3u8
 #EXTINF:0 tvg-name="贾汪旅游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/贾汪旅游频道.png" group-title="📡江苏",贾汪旅游
 http://jiawang-tv-playing-t.cm.jstv.com/live/jwly.m3u8
 #EXTINF:0 tvg-name="镇江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/镇江新闻综合.png" group-title="📡江苏",镇江新闻综合
-http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 tvg-name="镇江教育民生" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/镇江社会民生.png" group-title="📡江苏",镇江教育民生
-http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 tvg-name="泗阳综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/泗阳综合.png" group-title="📡江苏",泗阳综合
 http://siyang-tv-playing-t.cm.jstv.com/live/siyangzh.m3u8
 #EXTINF:-1 tvg-name="泗阳资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/泗阳资讯.png" group-title="📡江苏",泗阳资讯
@@ -591,7 +589,6 @@ http://gaoyou-tv-playing-t.cm.jstv.com/live/gaoyouxw.m3u8
 #EXTINF:0 tvg-name="宿豫综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/宿豫综合.png" group-title="📡江苏",宿豫综合
 http://suyu-tv-playing-t.cm.jstv.com/live/syzhpd.m3u8
 #EXTINF:0 tvg-name="宿迁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/宿迁综合.png" group-title="📡江苏",宿迁综合
-http://lishui-tv-playing-t.cm.jstv.com/live/suqian.m3u8
 #EXTINF:0 tvg-name="大丰综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/大丰新闻.png" group-title="📡江苏",大丰综合
 http://dafeng-tv-playing-t.cm.jstv.com/live/dafengyt.m3u8
 #EXTINF:0 tvg-name="大丰公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/大丰公共.png" group-title="📡江苏",大丰公共
@@ -599,7 +596,6 @@ http://dafeng-tv-playing-t.cm.jstv.com/live/dafenget.m3u8
 #EXTINF:0 tvg-name="东台综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/东台综合.png" group-title="📡江苏",东台综合
 http://dongtai-tv-playing-t.cm.jstv.com/live/dongtaizonghe.m3u8
 #EXTINF:0 tvg-name="响水综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/响水综合.png" group-title="📡江苏",响水综合
-http://yandu-tv-playing-t.cm.jstv.com/live/xiangshui.m3u8
 #EXTINF:0 tvg-name="宜兴新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",宜兴新闻综合
 http://yixing-tv-playing-t.cm.jstv.com/live/yxxw.m3u8
 #EXTINF:-1 tvg-name="溧阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",溧阳新闻综合
@@ -609,17 +605,70 @@ http://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 #EXTINF:-1 tvg-name="泗洪综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",泗洪综合
 http://sihong-tv-playing-t.cm.jstv.com/live/sihongxinwenzonghe.m3u8
 #EXTINF:-1 tvg-name="泰兴综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",泰兴综合
-http://yandu-tv-playing-t.cm.jstv.com/live/taixing.m3u8
 #EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",溧水新闻综合
-http://lishui-tv-playing-t.cm.jstv.com/live/lsxwzh.m3u8
 #EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",常熟综合
 http://cstvplay.21cs.cn/kcsapp/cstv1.m3u8
 #EXTINF:-1 tvg-name="句容新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",句容新闻综合
 http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
 #EXTINF:0 tvg-name="兴化新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",兴化新闻综合
-http://yandu-tv-playing-t.cm.jstv.com/live/xinghua.m3u8
+http://litchi-play-encrypted.jstv.com/live/xinghua.m3u8?txSecret=3361cd88e47c1534748fb70cf173016d&txTime=1757382519
 #EXTINF:0 tvg-name="泰州新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",泰州新闻综合
-http://lishui-tv-playing-t.cm.jstv.com/live/taizhou.m3u8
+http://litchi-play-encrypted.jstv.com/live/taixing.m3u8?txSecret=6e36a7638a59ef3c29f4eb1e7d9d7c8b&txTime=1757382486
+#EXTINF:0 tvg-name="江宁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",江宁综合
+http://jiangning-tv-playing-t.cm.jstv.com/live/jnxwzh.m3u8
+#EXTINF:0 tvg-name="宜兴新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",宜兴新闻综合
+http://yixing-tv-playing-t.cm.jstv.com/live/yxxw.m3u8
+#EXTINF:0 tvg-name="贾汪新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",贾汪新闻
+http://litchi-play-encrypted-site.jstv.com/applive/jiawang.m3u8?txSecret=6ca77b39f8af255d2d3f73cddbcae576&txTime=70db6800
+http://jiawang-tv-playing-t.cm.jstv.com/live/jwxw.m3u8
+#EXTINF:0 tvg-name="贾汪旅游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",贾汪旅游
+http://jiawang-tv-playing-t.cm.jstv.com/live/jwly.m3u8
+#EXTINF:0 tvg-name="沛县新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",沛县新闻综合
+http://peixian-tv-playing-t.cm.jstv.com/live/pxzh.m3u8,
+#EXTINF:0 tvg-name="如东综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",如东综合
+http://rudong-tv-playing-t.cm.jstv.com/live/rdxwzh.m3u8
+#EXTINF:0 tvg-name="东台综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",东台综合
+http://dongtai-tv-playing-t.cm.jstv.com/live/dongtaizonghe.m3u8
+#EXTINF:0 tvg-name="大丰综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",大丰综合
+http://dafeng-tv-playing-t.cm.jstv.com/live/dafengyt.m3u8
+#EXTINF:0 tvg-name="泗阳资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",泗阳资讯
+http://siyang-tv-playing-t.cm.jstv.com/live/siyangzx.m3u8
+#EXTINF:0 tvg-name="宿豫综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",宿豫综合
+http://suyu-tv-playing-t.cm.jstv.com/live/syzhpd.m3u8
+#EXTINF:0 tvg-name="沭阳综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",沭阳综合
+http://shuyang-tv-playing-t.cm.jstv.com/live/shuyangzh.m3u8
+#EXTINF:0 tvg-name="高邮综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",高邮综合
+http://gaoyou-tv-playing-t.cm.jstv.com/live/gaoyouxw.m3u8
+#EXTINF:0 tvg-name="丹阳新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",丹阳新闻
+http://danyang-tv-playing-t.cm.jstv.com/live/danyangtv.m3u8
+#EXTINF:0 tvg-name="盐城滨海新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",盐城滨海新闻综合
+https://binhai-tv-playing-t.cm.jstv.com/live/bhxw.m3u8
+#EXTINF:0 tvg-name="句容党建" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",句容党建
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
+#EXTINF:0 tvg-name="句容新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",句容新闻综合
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
+#EXTINF:0 tvg-name="武进生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",武进生活
+http://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:0 tvg-name="武进综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",武进综合
+http://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:0 tvg-name="溧阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",溧阳新闻综合
+http://tvlive.cxzly.com/live/tv.m3u8
+#EXTINF:0 tvg-name="常熟综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",常熟综合
+http://cstvplay.21cs.cn/kcsapp/cstv1.m3u8
+#EXTINF:0 tvg-name="吴江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",吴江新闻综合
+http://ctlive2.wjdaily.com/wjtv/ch1.m3u8
+#EXTINF:0 tvg-name="张家港民生" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",张家港民生
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo_app/playlist.m3u8
+#EXTINF:0 tvg-name="靖江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",靖江综合
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:0 tvg-name="邳州综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",邳州综合
+http://liveplus.pznews.com/pzxwpd/sd/live.m3u8
+#EXTINF:0 tvg-name="铜山1套" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",铜山1套
+http://litchi-play-encrypted.jstv.com/live/tongshan.m3u8?txSecret=97d2ca3f24b87f2aead484a62053902b&txTime=1757382653
+#EXTINF:0 tvg-name="盱眙综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",盱眙综合
+http://litchi-play-encrypted.jstv.com/live/xuyi.m3u8?txSecret=ad31b1eab3a443a805b0073c5b40803d&txTime=1757382579
+#EXTINF:0 tvg-name="洪泽综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/江苏.png" group-title="📡江苏",洪泽综合
+http://litchi-play-encrypted.jstv.com/live/hongze.m3u8?txSecret=a5839dab11fcfbd3b07ce4a6b06f4afc&txTime=1757382557
 #EXTINF:-1 tvg-name="新疆TV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆.png" group-title="📡新疆",新疆TV1
 http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 #EXTINF:-1 tvg-name="新疆TV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/新疆维语.png" group-title="📡新疆",新疆TV2
