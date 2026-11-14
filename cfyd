@@ -559,13 +559,13 @@ http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/南京少儿.png" group-title="📡江苏",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 #EXTINF:-1 tvg-name="扬州新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州新闻.png" group-title="📡江苏",扬州新闻
-http://yztv-wshls.homecdn.com/live/8bb.m3u8#http://yztv-wshls.homecdn.com/live/8bb.flv#rtmp://yztv-wshls.homecdn.com/live/8bb
+http://yztv-wshls.homecdn.com/live/8bb.m3u8
 #EXTINF:-1 tvg-name="扬州民生" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州民生.png" group-title="📡江苏",扬州民生
-http://yztv-wshls.homecdn.com/live/8bd.m3u8#http://yztv-wshls.homecdn.com/live/8bd.flv#rtmp://yztv-wshls.homecdn.com/live/8bd
+http://yztv-wshls.homecdn.com/live/8bd.m3u8
 #EXTINF:-1 tvg-name="扬州邗江" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州邗江.png" group-title="📡江苏",扬州邗江
-http://yztv-wshls.homecdn.com/live/8c3.m3u8#http://yztv-wshls.homecdn.com/live/8c3.flv#rtmp://yztv-wshls.homecdn.com/live/8c3
+http://yztv-wshls.homecdn.com/live/8c3.m3u8
 #EXTINF:-1 tvg-name="扬州江都" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/扬州江都.png" group-title="📡江苏",扬州江都
-http://yztv-wshls.homecdn.com/live/8c1.m3u8#http://yztv-wshls.homecdn.com/live/8c1.flv#rtmp://yztv-wshls.homecdn.com/live/8c1
+http://yztv-wshls.homecdn.com/live/8c1.m3u8
 #EXTINF:0 tvg-name="贾汪新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/贾汪新闻频道.png" group-title="📡江苏",贾汪新闻
 http://jiawang-tv-playing-t.cm.jstv.com/live/jwxw.m3u8
 #EXTINF:0 tvg-name="贾汪旅游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/unflechazo/zyb/main/img/logo/贾汪旅游频道.png" group-title="📡江苏",贾汪旅游
