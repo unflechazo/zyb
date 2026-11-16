@@ -1,219 +1,115 @@
-#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
-#EXTINF:-1 group-title="🔞台湾" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 group-title="🔞台湾" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 group-title="🔞台湾" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 group-title="🔞台湾" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 group-title="🔞台湾" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
-#EXTINF:-1 group-title="🔞台湾" tvg-id="456842" tvg-logo="https://live.404003.xyz/LOGO/惊艳台.png",惊艳台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+🔞台湾,#genre#
+松視1台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+香蕉台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+惊艳台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+惊艳台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+潘朵啦玩美台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+潘朵啦玩美台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 
-
-#EXTINF:-1  group-title="💞激情①_59",日本无限恶女
-https://s1.bfllvip.com/video/wuxianenvhongsefangjian/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本百合的雨声
-https://s1.bfllvip.com/video/baihedeyusheng/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本性灵猎人
-https://s1.bfllvip.com/video/xinglinglierenAKEBI/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本溺爱
-https://s1.bfllvip.com/video/niaidiaojiaojiyi/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本护士人妻
-https://s1.bfllvip.com/video/hushirenqisantiansanyedejiqing/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本朋友的妻子
-https://s1.bfllvip.com/video/pengyoudeqiziboduoyejieyi/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",韩国老婆的姐姐
-https://s1.bfllvip.com/video/laopodejiejie/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",韩国姐妹病毒
-https://s1.bfllvip.com/video/jiemeibingdu/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",韩国姐妹邻居
-https://s1.bfllvip.com/video/jiemeilinju/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本情色恐怖怪谈之骚灵
-https://s1.bfllvip.com/video/qingsekongbuguaitanzhisaoling/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本杀戮天使
-https://s1.bfllvip.com/video/nvqiuxiezishalutianshi/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本强奸男5
-https://s1.bfllvip.com/video/qiangjiannan5/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本强奸男7
-https://s1.bfllvip.com/video/qiangjiannan7/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本强奸男6
-https://s1.bfllvip.com/video/qiangjiannan6/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本富美子之足
-https://s1.bfllvip.com/video/fumeizizhizu/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本湿濡的情欲
-https://s1.bfllvip.com/video/shirudeqingyu/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本欲望酒店
-https://s1.bfllvip.com/video/yuwangjiudian/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本吉原炎上1987
-https://s1.bfllvip.com/video/jiyuanyanshang1987/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本敏感姬
-https://s1.bfllvip.com/video/minganji/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本定之爱
-https://s1.bfllvip.com/video/dingzhiai/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本魔性之诱惑
-https://s1.bfllvip.com/video/moxingzhiyouhuo/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本人妻悦缚之宴
-https://s1.bfllvip.com/video/tuanguiliurenqiyuefuzhiyan/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本疾风女人们
-https://s1.bfllvip.com/video/zhanguoluokejifengnvrenmen/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本腐花之雨
-https://s1.bfllvip.com/video/fuhuazhiyu/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本骷髅扮演1
-https://s1.bfllvip.com/video/kuloubanyan1/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本骷髅扮演2
-https://s1.bfllvip.com/video/kuloubanyan2/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本来自妻子的录像信
-https://s1.bfllvip.com/video/laiziqizideluxiangxin/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本闷绝
-https://s1.bfllvip.com/video/menjue/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本蜜恥母
-https://s1.bfllvip.com/video/michimu/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本奶油柠檬之出水芙蓉
-https://s1.bfllvip.com/video/naiyouningmengzhichushuifurong/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本母娘监禁
-https://s1.bfllvip.com/video/muniangjianjin/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",日本奶油柠檬之亚美的日记
-https://s1.bfllvip.com/video/naiyouningmengzhiyameideriji/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国姊妹情色
-https://s1.bfllvip.com/video/zimeiqingse/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国欲望之翼
-https://s1.bfllvip.com/video/yuwangzhiyi/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国偷月情
-https://s1.bfllvip.com/video/touyueqing/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国性和死亡101
-https://s1.bfllvip.com/video/xinghesiwang101/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国下流工作
-https://s1.bfllvip.com/video/xialiugongzuo/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国女巫1995
-https://s1.bfllvip.com/video/nvwu1995/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国强制措施
-https://s1.bfllvip.com/video/qiangzhicuoshi/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国女囚岛
-https://s1.bfllvip.com/video/nvqiudao/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国情迷六月花
-https://s1.bfllvip.com/video/qingmiliuyuehua/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国美的统治
-https://s1.bfllvip.com/video/meidetongzhi/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国六个瑞典女孩在阿尔卑斯山
-https://s1.bfllvip.com/video/liugeruidiannvhaizaiaerbeisishan/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国疯狂靓妹仔
-https://s1.bfllvip.com/video/fengkuangjingmeizi/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国胴体情迷
-https://s1.bfllvip.com/video/dongtiqingmi/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国戴安娜2018
-https://s1.bfllvip.com/video/daianna2018/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国布拉格之恋
-https://s1.bfllvip.com/video/bulagezhilian/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",美国爱你九周半
-https://s1.bfllvip.com/video/ainijiuzhouban/%E4%B8%AD%E5%AD%97/index.m3u8%E6%88%91%E8%A6%81%E6%8A%A5%E9%94%99
-#EXTINF:-1  group-title="💞激情①_59",美国银河女王
-https://s1.bfllvip.com/video/aimanniuyinhenvwangEmmanuelleQueenoftheGalaxy/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",欲火焚琴
-https://s1.bfllvip.com/video/yuhuofenqin/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",欲兽
-https://s1.bfllvip.com/video/yushou/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",欲望街车
-https://s1.bfllvip.com/video/yuwangjieche/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",愈穷愈见鬼
-https://s1.bfllvip.com/video/yuqiongyujiangui/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",鬼叫春
-https://s1.bfllvip.com/video/guijiaochun/HD%E9%AB%98%E6%B8%85/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",云雨生死恋
-https://s1.bfllvip.com/video/yunyushengsilian/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",暂时停止做爱
-https://s1.bfllvip.com/video/zanshitingzhizuoai/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",占有欲强的女人
-https://s1.bfllvip.com/video/zhanyouyuqiangdenvren/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",早熟情人
-https://s1.bfllvip.com/video/zaoshuqingren/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",终极猎杀
-https://s1.bfllvip.com/video/zhongjiliesha/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",中国O记之血腥情人
-https://s1.bfllvip.com/video/zhongguoOjizhixuexingqingren/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",致命的外遇
-https://s1.bfllvip.com/video/zhimingdewaiyu/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",制服的挑逗
-https://s1.bfllvip.com/video/zhifudetiaodou/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",整容1995
-https://s1.bfllvip.com/video/zhengrong/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",正牌韦小宝之奉旨沟女1993
-https://s1.bfllvip.com/video/zhengpaiweixiaobaozhifengzhigounv1993/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",枕边物语
-https://s1.bfllvip.com/video/zhenbianwuyu/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",终极强奸2原始兽性
-https://s1.bfllvip.com/video/zhongjiqiangjian2yuanshishouxing/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",纵欲聊斋
-https://s1.bfllvip.com/video/zongyuliaozhai/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",新倾国倾城
-https://s1.bfllvip.com/video/xinqingguoqingcheng/%E5%9B%BD%E8%AF%AD%E6%97%A0%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",私钟真面目
-https://s1.bfllvip.com/video/sizhongzhenmianmu/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",素女经之挑情宝鉴
-https://s1.bfllvip.com/video/sunvjingzhitiaoqingbaojian/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",94应召女郎
-https://s1.bfllvip.com/video/94yingzhaonvlang/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",烈火女警花
-https://s1.bfllvip.com/video/liehuonvjinghua/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",兽性难驯
-https://s1.bfllvip.com/video/shouxingnanxun/HD%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",猛鬼咒
-https://s1.bfllvip.com/video/mengguizhou/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",劫杀爱美神
-https://s1.bfllvip.com/video/jieshaaimeishen/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",古灵精怪东南亚
-https://s1.bfllvip.com/video/gulingjingguaidongnanya3/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",古灵精怪东南亚2
-https://s1.bfllvip.com/video/gulingjingguaidongnanya/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",古灵精怪东南亚 3
-https://s1.bfllvip.com/video/gulingjingguaidongnanya4/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",半暹降
-https://s1.bfllvip.com/video/banxianjiang/%E4%B8%AD%E5%AD%97/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",强奸男3
-https://s1.bfllvip.com/video/qiangjiannan3/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",女高报告夕子的白胸
-https://s1.bfllvip.com/video/nvgaobaogaoxizidebaixiong/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",忍者女杀手2
-https://s1.bfllvip.com/video/renzhenvshashou2/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",陶醉灰姑娘黑瞳的诱惑
-https://s1.bfllvip.com/video/taozuihuiguniangheitongdeyouhuo/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",鬼六异常的季节
-https://s1.bfllvip.com/video/tuanguiliuyichangdejijie/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",团鬼六夕颜夫人
-https://s1.bfllvip.com/video/tuanguiliuxiyanfuren/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",强暴
-https://s1.bfllvip.com/video/heisezhiaiqiangbao/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",拘禁高校教师
-https://s1.bfllvip.com/video/jujingaoxiaojiaoshi/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",痴汉电车 快点去吧
-https://s1.bfllvip.com/video/chihandianchekuaidianquba/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",大奥外伝淫薬おんな狂乱
-https://s1.bfllvip.com/video/midaaowaiyunyinyaokuangluan/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",轻轻揉下半身
-https://s1.bfllvip.com/video/qingqingrouxiabanshende20suiXaidadang/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",绯闻III
-https://s1.bfllvip.com/video/feiwenIII/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",肉感十足的姐姐
-https://s1.bfllvip.com/video/rouganshizudejiejie/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",隔壁房间里有个日本女孩很开放
-https://s1.bfllvip.com/video/gebifangjianliyougeribennvhaihenkaifang/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",分享你的娇妻
-https://s1.bfllvip.com/video/fenxiangnidejiaoqi/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",小姑子的味道
-https://s1.bfllvip.com/video/xiaoguzideweidao/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",小妓女法外之徒
-https://s1.bfllvip.com/video/xiaojinvfawaizhitu/HD/index.m3u8
-#EXTINF:-1  group-title="💞激情①_59",颜色2017
-https://s1.bfllvip.com/video/yanse2017/HD/index.m3u8
-
+💞激情①,#genre#
+日本无限恶女,https://s1.bfllvip.com/video/wuxianenvhongsefangjian/%E4%B8%AD%E5%AD%97/index.m3u8
+日本百合的雨声,https://s1.bfllvip.com/video/baihedeyusheng/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本性灵猎人,https://s1.bfllvip.com/video/xinglinglierenAKEBI/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本溺爱,https://s1.bfllvip.com/video/niaidiaojiaojiyi/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本护士人妻,https://s1.bfllvip.com/video/hushirenqisantiansanyedejiqing/HD/index.m3u8
+日本朋友的妻子,https://s1.bfllvip.com/video/pengyoudeqiziboduoyejieyi/HD%E4%B8%AD%E5%AD%97/index.m3u8
+韩国老婆的姐姐,https://s1.bfllvip.com/video/laopodejiejie/HD/index.m3u8
+韩国姐妹病毒,https://s1.bfllvip.com/video/jiemeibingdu/HD/index.m3u8
+韩国姐妹邻居,https://s1.bfllvip.com/video/jiemeilinju/HD/index.m3u8
+日本情色恐怖怪谈之骚灵,https://s1.bfllvip.com/video/qingsekongbuguaitanzhisaoling/HD/index.m3u8
+日本杀戮天使,https://s1.bfllvip.com/video/nvqiuxiezishalutianshi/HD/index.m3u8
+日本强奸男5,https://s1.bfllvip.com/video/qiangjiannan5/HD/index.m3u8
+日本强奸男7,https://s1.bfllvip.com/video/qiangjiannan7/HD/index.m3u8
+日本强奸男6,https://s1.bfllvip.com/video/qiangjiannan6/HD/index.m3u8
+日本富美子之足,https://s1.bfllvip.com/video/fumeizizhizu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本湿濡的情欲,https://s1.bfllvip.com/video/shirudeqingyu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本欲望酒店,https://s1.bfllvip.com/video/yuwangjiudian/%E4%B8%AD%E5%AD%97/index.m3u8
+日本吉原炎上1987,https://s1.bfllvip.com/video/jiyuanyanshang1987/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本敏感姬,https://s1.bfllvip.com/video/minganji/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本定之爱,https://s1.bfllvip.com/video/dingzhiai/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本魔性之诱惑,https://s1.bfllvip.com/video/moxingzhiyouhuo/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本人妻悦缚之宴,https://s1.bfllvip.com/video/tuanguiliurenqiyuefuzhiyan/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本疾风女人们,https://s1.bfllvip.com/video/zhanguoluokejifengnvrenmen/HD%E4%B8%AD%E5%AD%97/index.m3u8
+日本腐花之雨,https://s1.bfllvip.com/video/fuhuazhiyu/HD/index.m3u8
+日本骷髅扮演1,https://s1.bfllvip.com/video/kuloubanyan1/HD/index.m3u8
+日本骷髅扮演2,https://s1.bfllvip.com/video/kuloubanyan2/HD/index.m3u8
+日本来自妻子的录像信,https://s1.bfllvip.com/video/laiziqizideluxiangxin/HD/index.m3u8
+日本闷绝,https://s1.bfllvip.com/video/menjue/HD/index.m3u8
+日本蜜恥母,https://s1.bfllvip.com/video/michimu/HD/index.m3u8
+日本奶油柠檬之出水芙蓉,https://s1.bfllvip.com/video/naiyouningmengzhichushuifurong/HD/index.m3u8
+日本母娘监禁,https://s1.bfllvip.com/video/muniangjianjin/HD/index.m3u8
+日本奶油柠檬之亚美的日记,https://s1.bfllvip.com/video/naiyouningmengzhiyameideriji/HD/index.m3u8
+美国姊妹情色,https://s1.bfllvip.com/video/zimeiqingse/%E4%B8%AD%E5%AD%97/index.m3u8
+美国欲望之翼,https://s1.bfllvip.com/video/yuwangzhiyi/%E4%B8%AD%E5%AD%97/index.m3u8
+美国偷月情,https://s1.bfllvip.com/video/touyueqing/%E4%B8%AD%E5%AD%97/index.m3u8
+美国性和死亡101,https://s1.bfllvip.com/video/xinghesiwang101/%E4%B8%AD%E5%AD%97/index.m3u8
+美国下流工作,https://s1.bfllvip.com/video/xialiugongzuo/%E4%B8%AD%E5%AD%97/index.m3u8
+美国女巫1995,https://s1.bfllvip.com/video/nvwu1995/%E4%B8%AD%E5%AD%97/index.m3u8
+美国强制措施,https://s1.bfllvip.com/video/qiangzhicuoshi/%E4%B8%AD%E5%AD%97/index.m3u8
+美国女囚岛,https://s1.bfllvip.com/video/nvqiudao/%E4%B8%AD%E5%AD%97/index.m3u8
+美国情迷六月花,https://s1.bfllvip.com/video/qingmiliuyuehua/%E4%B8%AD%E5%AD%97/index.m3u8
+美国美的统治,https://s1.bfllvip.com/video/meidetongzhi/%E4%B8%AD%E5%AD%97/index.m3u8
+美国六个瑞典女孩在阿尔卑斯山,https://s1.bfllvip.com/video/liugeruidiannvhaizaiaerbeisishan/%E4%B8%AD%E5%AD%97/index.m3u8
+美国疯狂靓妹仔,https://s1.bfllvip.com/video/fengkuangjingmeizi/%E4%B8%AD%E5%AD%97/index.m3u8
+美国胴体情迷,https://s1.bfllvip.com/video/dongtiqingmi/%E4%B8%AD%E5%AD%97/index.m3u8
+美国戴安娜2018,https://s1.bfllvip.com/video/daianna2018/%E4%B8%AD%E5%AD%97/index.m3u8
+美国布拉格之恋,https://s1.bfllvip.com/video/bulagezhilian/%E4%B8%AD%E5%AD%97/index.m3u8
+美国爱你九周半,https://s1.bfllvip.com/video/ainijiuzhouban/%E4%B8%AD%E5%AD%97/index.m3u8%E6%88%91%E8%A6%81%E6%8A%A5%E9%94%99
+美国银河女王,https://s1.bfllvip.com/video/aimanniuyinhenvwangEmmanuelleQueenoftheGalaxy/%E4%B8%AD%E5%AD%97/index.m3u8
+欲火焚琴,https://s1.bfllvip.com/video/yuhuofenqin/%E4%B8%AD%E5%AD%97/index.m3u8
+欲兽,https://s1.bfllvip.com/video/yushou/%E4%B8%AD%E5%AD%97/index.m3u8
+欲望街车,https://s1.bfllvip.com/video/yuwangjieche/%E4%B8%AD%E5%AD%97/index.m3u8
+愈穷愈见鬼,https://s1.bfllvip.com/video/yuqiongyujiangui/%E4%B8%AD%E5%AD%97/index.m3u8
+鬼叫春,https://s1.bfllvip.com/video/guijiaochun/HD%E9%AB%98%E6%B8%85/index.m3u8
+云雨生死恋,https://s1.bfllvip.com/video/yunyushengsilian/%E4%B8%AD%E5%AD%97/index.m3u8
+暂时停止做爱,https://s1.bfllvip.com/video/zanshitingzhizuoai/%E4%B8%AD%E5%AD%97/index.m3u8
+占有欲强的女人,https://s1.bfllvip.com/video/zhanyouyuqiangdenvren/%E4%B8%AD%E5%AD%97/index.m3u8
+早熟情人,https://s1.bfllvip.com/video/zaoshuqingren/HD/index.m3u8
+终极猎杀,https://s1.bfllvip.com/video/zhongjiliesha/%E4%B8%AD%E5%AD%97/index.m3u8
+中国O记之血腥情人,https://s1.bfllvip.com/video/zhongguoOjizhixuexingqingren/%E4%B8%AD%E5%AD%97/index.m3u8
+致命的外遇,https://s1.bfllvip.com/video/zhimingdewaiyu/%E4%B8%AD%E5%AD%97/index.m3u8
+制服的挑逗,https://s1.bfllvip.com/video/zhifudetiaodou/%E4%B8%AD%E5%AD%97/index.m3u8
+整容1995,https://s1.bfllvip.com/video/zhengrong/%E4%B8%AD%E5%AD%97/index.m3u8
+正牌韦小宝之奉旨沟女1993,https://s1.bfllvip.com/video/zhengpaiweixiaobaozhifengzhigounv1993/%E4%B8%AD%E5%AD%97/index.m3u8
+枕边物语,https://s1.bfllvip.com/video/zhenbianwuyu/%E4%B8%AD%E5%AD%97/index.m3u8
+终极强奸2原始兽性,https://s1.bfllvip.com/video/zhongjiqiangjian2yuanshishouxing/%E4%B8%AD%E5%AD%97/index.m3u8
+纵欲聊斋,https://s1.bfllvip.com/video/zongyuliaozhai/%E4%B8%AD%E5%AD%97/index.m3u8
+新倾国倾城,https://s1.bfllvip.com/video/xinqingguoqingcheng/%E5%9B%BD%E8%AF%AD%E6%97%A0%E5%AD%97/index.m3u8
+私钟真面目,https://s1.bfllvip.com/video/sizhongzhenmianmu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+素女经之挑情宝鉴,https://s1.bfllvip.com/video/sunvjingzhitiaoqingbaojian/HD%E4%B8%AD%E5%AD%97/index.m3u8
+94应召女郎,https://s1.bfllvip.com/video/94yingzhaonvlang/HD%E4%B8%AD%E5%AD%97/index.m3u8
+烈火女警花,https://s1.bfllvip.com/video/liehuonvjinghua/HD%E4%B8%AD%E5%AD%97/index.m3u8
+兽性难驯,https://s1.bfllvip.com/video/shouxingnanxun/HD%E4%B8%AD%E5%AD%97/index.m3u8
+猛鬼咒,https://s1.bfllvip.com/video/mengguizhou/%E4%B8%AD%E5%AD%97/index.m3u8
+劫杀爱美神,https://s1.bfllvip.com/video/jieshaaimeishen/%E4%B8%AD%E5%AD%97/index.m3u8
+古灵精怪东南亚,https://s1.bfllvip.com/video/gulingjingguaidongnanya3/%E4%B8%AD%E5%AD%97/index.m3u8
+古灵精怪东南亚2,https://s1.bfllvip.com/video/gulingjingguaidongnanya/%E4%B8%AD%E5%AD%97/index.m3u8
+古灵精怪东南亚 3,https://s1.bfllvip.com/video/gulingjingguaidongnanya4/HD/index.m3u8
+半暹降,https://s1.bfllvip.com/video/banxianjiang/%E4%B8%AD%E5%AD%97/index.m3u8
+强奸男3,https://s1.bfllvip.com/video/qiangjiannan3/HD/index.m3u8
+女高报告夕子的白胸,https://s1.bfllvip.com/video/nvgaobaogaoxizidebaixiong/HD/index.m3u8
+忍者女杀手2,https://s1.bfllvip.com/video/renzhenvshashou2/HD/index.m3u8
+陶醉灰姑娘黑瞳的诱惑,https://s1.bfllvip.com/video/taozuihuiguniangheitongdeyouhuo/HD/index.m3u8
+鬼六异常的季节,https://s1.bfllvip.com/video/tuanguiliuyichangdejijie/HD/index.m3u8
+团鬼六夕颜夫人,https://s1.bfllvip.com/video/tuanguiliuxiyanfuren/HD/index.m3u8
+强暴,https://s1.bfllvip.com/video/heisezhiaiqiangbao/HD/index.m3u8
+拘禁高校教师,https://s1.bfllvip.com/video/jujingaoxiaojiaoshi/HD/index.m3u8
+痴汉电车 快点去吧,https://s1.bfllvip.com/video/chihandianchekuaidianquba/HD/index.m3u8
+大奥外伝淫薬おんな狂乱,https://s1.bfllvip.com/video/midaaowaiyunyinyaokuangluan/HD/index.m3u8
+轻轻揉下半身,https://s1.bfllvip.com/video/qingqingrouxiabanshende20suiXaidadang/HD/index.m3u8
+绯闻III,https://s1.bfllvip.com/video/feiwenIII/HD/index.m3u8
+肉感十足的姐姐,https://s1.bfllvip.com/video/rouganshizudejiejie/HD/index.m3u8
+隔壁房间里有个日本女孩很开放,https://s1.bfllvip.com/video/gebifangjianliyougeribennvhaihenkaifang/HD/index.m3u8
+分享你的娇妻,https://s1.bfllvip.com/video/fenxiangnidejiaoqi/HD/index.m3u8
+小姑子的味道,https://s1.bfllvip.com/video/xiaoguzideweidao/HD/index.m3u8
+小妓女法外之徒,https://s1.bfllvip.com/video/xiaojinvfawaizhitu/HD/index.m3u8
+颜色2017,https://s1.bfllvip.com/video/yanse2017/HD/index.m3u8
 
 
 🇨🇳肾虚💫,#genre#
