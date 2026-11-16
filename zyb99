@@ -1,16 +1,222 @@
 🔞台湾18+,#genre#
-惊艳台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-惊艳台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
-潘多拉粉红,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-潘多拉粉红,http://45.11.92.170/play/smart/xziptv.php?id=410
-松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-杨贵妃,https://v8.zuidazym3u8.com/yyv8/202310/12/zpkcFHwuh81/video/index.m3u8
-陈圆圆,https://v8.zuidazym3u8.com/yyv8/202310/12/hMdYw26sRe1/video/index.m3u8
-王昭君,https://v8.zuidazym3u8.com/yyv8/202310/12/95FL3iZAvU1/video/index.m3u8
-西施,https://v8.zuidazym3u8.com/yyv8/202310/12/kH0yRZ2F5H1/video/index.m3u8
+#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
+
+#EXTINF:-1 group-title="A" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 group-title="A" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 group-title="A" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="A" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 group-title="A" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+#EXTINF:-1 group-title="A" tvg-id="456842" tvg-logo="https://live.404003.xyz/LOGO/惊艳台.png",惊艳台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+
+
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本无限恶女
+https://s1.bfllvip.com/video/wuxianenvhongsefangjian/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本百合的雨声
+https://s1.bfllvip.com/video/baihedeyusheng/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本性灵猎人
+https://s1.bfllvip.com/video/xinglinglierenAKEBI/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本溺爱
+https://s1.bfllvip.com/video/niaidiaojiaojiyi/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本护士人妻
+https://s1.bfllvip.com/video/hushirenqisantiansanyedejiqing/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本朋友的妻子
+https://s1.bfllvip.com/video/pengyoudeqiziboduoyejieyi/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",韩国老婆的姐姐
+https://s1.bfllvip.com/video/laopodejiejie/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",韩国姐妹病毒
+https://s1.bfllvip.com/video/jiemeibingdu/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",韩国姐妹邻居
+https://s1.bfllvip.com/video/jiemeilinju/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本情色恐怖怪谈之骚灵
+https://s1.bfllvip.com/video/qingsekongbuguaitanzhisaoling/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本杀戮天使
+https://s1.bfllvip.com/video/nvqiuxiezishalutianshi/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本强奸男5
+https://s1.bfllvip.com/video/qiangjiannan5/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本强奸男7
+https://s1.bfllvip.com/video/qiangjiannan7/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本强奸男6
+https://s1.bfllvip.com/video/qiangjiannan6/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本富美子之足
+https://s1.bfllvip.com/video/fumeizizhizu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本湿濡的情欲
+https://s1.bfllvip.com/video/shirudeqingyu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本欲望酒店
+https://s1.bfllvip.com/video/yuwangjiudian/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本吉原炎上1987
+https://s1.bfllvip.com/video/jiyuanyanshang1987/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本敏感姬
+https://s1.bfllvip.com/video/minganji/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本定之爱
+https://s1.bfllvip.com/video/dingzhiai/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本魔性之诱惑
+https://s1.bfllvip.com/video/moxingzhiyouhuo/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本人妻悦缚之宴
+https://s1.bfllvip.com/video/tuanguiliurenqiyuefuzhiyan/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本疾风女人们
+https://s1.bfllvip.com/video/zhanguoluokejifengnvrenmen/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本腐花之雨
+https://s1.bfllvip.com/video/fuhuazhiyu/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本骷髅扮演1
+https://s1.bfllvip.com/video/kuloubanyan1/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本骷髅扮演2
+https://s1.bfllvip.com/video/kuloubanyan2/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本来自妻子的录像信
+https://s1.bfllvip.com/video/laiziqizideluxiangxin/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本闷绝
+https://s1.bfllvip.com/video/menjue/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本蜜恥母
+https://s1.bfllvip.com/video/michimu/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本奶油柠檬之出水芙蓉
+https://s1.bfllvip.com/video/naiyouningmengzhichushuifurong/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本母娘监禁
+https://s1.bfllvip.com/video/muniangjianjin/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",日本奶油柠檬之亚美的日记
+https://s1.bfllvip.com/video/naiyouningmengzhiyameideriji/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国姊妹情色
+https://s1.bfllvip.com/video/zimeiqingse/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国欲望之翼
+https://s1.bfllvip.com/video/yuwangzhiyi/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国偷月情
+https://s1.bfllvip.com/video/touyueqing/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国性和死亡101
+https://s1.bfllvip.com/video/xinghesiwang101/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国下流工作
+https://s1.bfllvip.com/video/xialiugongzuo/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国女巫1995
+https://s1.bfllvip.com/video/nvwu1995/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国强制措施
+https://s1.bfllvip.com/video/qiangzhicuoshi/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国女囚岛
+https://s1.bfllvip.com/video/nvqiudao/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国情迷六月花
+https://s1.bfllvip.com/video/qingmiliuyuehua/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国美的统治
+https://s1.bfllvip.com/video/meidetongzhi/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国六个瑞典女孩在阿尔卑斯山
+https://s1.bfllvip.com/video/liugeruidiannvhaizaiaerbeisishan/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国疯狂靓妹仔
+https://s1.bfllvip.com/video/fengkuangjingmeizi/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国胴体情迷
+https://s1.bfllvip.com/video/dongtiqingmi/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国戴安娜2018
+https://s1.bfllvip.com/video/daianna2018/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国布拉格之恋
+https://s1.bfllvip.com/video/bulagezhilian/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国爱你九周半
+https://s1.bfllvip.com/video/ainijiuzhouban/%E4%B8%AD%E5%AD%97/index.m3u8%E6%88%91%E8%A6%81%E6%8A%A5%E9%94%99
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",美国银河女王
+https://s1.bfllvip.com/video/aimanniuyinhenvwangEmmanuelleQueenoftheGalaxy/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",欲火焚琴
+https://s1.bfllvip.com/video/yuhuofenqin/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",欲兽
+https://s1.bfllvip.com/video/yushou/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",欲望街车
+https://s1.bfllvip.com/video/yuwangjieche/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",愈穷愈见鬼
+https://s1.bfllvip.com/video/yuqiongyujiangui/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",鬼叫春
+https://s1.bfllvip.com/video/guijiaochun/HD%E9%AB%98%E6%B8%85/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",云雨生死恋
+https://s1.bfllvip.com/video/yunyushengsilian/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",暂时停止做爱
+https://s1.bfllvip.com/video/zanshitingzhizuoai/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",占有欲强的女人
+https://s1.bfllvip.com/video/zhanyouyuqiangdenvren/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",早熟情人
+https://s1.bfllvip.com/video/zaoshuqingren/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",终极猎杀
+https://s1.bfllvip.com/video/zhongjiliesha/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",中国O记之血腥情人
+https://s1.bfllvip.com/video/zhongguoOjizhixuexingqingren/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",致命的外遇
+https://s1.bfllvip.com/video/zhimingdewaiyu/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",制服的挑逗
+https://s1.bfllvip.com/video/zhifudetiaodou/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",整容1995
+https://s1.bfllvip.com/video/zhengrong/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",正牌韦小宝之奉旨沟女1993
+https://s1.bfllvip.com/video/zhengpaiweixiaobaozhifengzhigounv1993/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",枕边物语
+https://s1.bfllvip.com/video/zhenbianwuyu/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",终极强奸2原始兽性
+https://s1.bfllvip.com/video/zhongjiqiangjian2yuanshishouxing/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",纵欲聊斋
+https://s1.bfllvip.com/video/zongyuliaozhai/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",新倾国倾城
+https://s1.bfllvip.com/video/xinqingguoqingcheng/%E5%9B%BD%E8%AF%AD%E6%97%A0%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",私钟真面目
+https://s1.bfllvip.com/video/sizhongzhenmianmu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",素女经之挑情宝鉴
+https://s1.bfllvip.com/video/sunvjingzhitiaoqingbaojian/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",94应召女郎
+https://s1.bfllvip.com/video/94yingzhaonvlang/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",烈火女警花
+https://s1.bfllvip.com/video/liehuonvjinghua/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",兽性难驯
+https://s1.bfllvip.com/video/shouxingnanxun/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",猛鬼咒
+https://s1.bfllvip.com/video/mengguizhou/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",劫杀爱美神
+https://s1.bfllvip.com/video/jieshaaimeishen/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",古灵精怪东南亚
+https://s1.bfllvip.com/video/gulingjingguaidongnanya3/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",古灵精怪东南亚2
+https://s1.bfllvip.com/video/gulingjingguaidongnanya/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",古灵精怪东南亚 3
+https://s1.bfllvip.com/video/gulingjingguaidongnanya4/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",半暹降
+https://s1.bfllvip.com/video/banxianjiang/%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",强奸男3
+https://s1.bfllvip.com/video/qiangjiannan3/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",女高报告夕子的白胸
+https://s1.bfllvip.com/video/nvgaobaogaoxizidebaixiong/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",忍者女杀手2
+https://s1.bfllvip.com/video/renzhenvshashou2/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",陶醉灰姑娘黑瞳的诱惑
+https://s1.bfllvip.com/video/taozuihuiguniangheitongdeyouhuo/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",鬼六异常的季节
+https://s1.bfllvip.com/video/tuanguiliuyichangdejijie/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",团鬼六夕颜夫人
+https://s1.bfllvip.com/video/tuanguiliuxiyanfuren/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",强暴
+https://s1.bfllvip.com/video/heisezhiaiqiangbao/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",拘禁高校教师
+https://s1.bfllvip.com/video/jujingaoxiaojiaoshi/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",痴汉电车 快点去吧
+https://s1.bfllvip.com/video/chihandianchekuaidianquba/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",大奥外伝淫薬おんな狂乱
+https://s1.bfllvip.com/video/midaaowaiyunyinyaokuangluan/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",轻轻揉下半身
+https://s1.bfllvip.com/video/qingqingrouxiabanshende20suiXaidadang/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",绯闻III
+https://s1.bfllvip.com/video/feiwenIII/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",肉感十足的姐姐
+https://s1.bfllvip.com/video/rouganshizudejiejie/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",隔壁房间里有个日本女孩很开放
+https://s1.bfllvip.com/video/gebifangjianliyougeribennvhaihenkaifang/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",分享你的娇妻
+https://s1.bfllvip.com/video/fenxiangnidejiaoqi/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",小姑子的味道
+https://s1.bfllvip.com/video/xiaoguzideweidao/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",小妓女法外之徒
+https://s1.bfllvip.com/video/xiaojinvfawaizhitu/HD/index.m3u8
+#EXTINF:-1 http-user-agent="QTP/2.2.57.3.1" group-title="💞激情①_59",颜色2017
+https://s1.bfllvip.com/video/yanse2017/HD/index.m3u8
+
+
 
 🇨🇳肾虚💫,#genre#
 
@@ -824,185 +1030,10 @@ ou8台,http://live.adultiptv.net/anal.m3u8
 
 
 🔞台湾频道,#genre#
-情欲陷阱.强制换伴,https://t0.97img.com/a1000244/a.m3u8
-淫乱复健绝顶深喉,https://t0.97img.com/a1000233/a.m3u8
-醉夜难逃.暗欲侵扰,https://t0.97img.com/a1000224/a.m3u8
-一湿足成千屌含,https://t0.97img.com/a1000318/a.m3u8
-采访我的女闺蜜,https://t0.97img.com/a1000315/a.m3u8
-纯情男酒吧遇海后,https://t0.97img.com/a1000294/a.m3u8
-性感暗黑国民学姊,https://t0.97img.com/a1000214/a.m3u8
-麻豆活泼可爱担当,https://t0.97img.com/a1000213/a.m3u8
-性感可爱首席女神,https://t0.97img.com/a1000211/a.m3u8
-最甜暗黑性爱教主,https://t0.97img.com/a1000210/a.m3u8
-老婆爱上巨屌黑人同事,https://t0.97img.com/a1000271/a.m3u8
-操爆骚话女仆,https://t0.97img.com/a1000329/a.m3u8
-无法忍受裸露酮体的诱惑,https://t0.97img.com/a1000326/a.m3u8
-席捲全美日裔女神,https://t0.97img.com/a1000238/a.m3u8
-在天桥上的享乐者,https://t0.97img.com/a1000237/a.m3u8
-最清纯小隻马萝莉,https://t0.97img.com/a1000235/a.m3u8
-专吃学生的补教淫师,https://t0.97img.com/a1000234/a.m3u8
-性犯罪者强制凌辱女球迷,https://t0.97img.com/a1000200/a.m3u8
-强制操翻黑丝女上司骚逼,https://t0.97img.com/a1000255/a.m3u8
-用肉棒教训骚媳妇,https://t0.97img.com/a1000252/a.m3u8
-献身大女儿给爹爹解咒,https://t0.97img.com/a1000449/a.m3u8
-课后福利淫才教育,https://t0.97img.com/a1000529/a.m3u8
-地下精液兑换钱庄,https://t0.97img.com/a1000522/a.m3u8
-好色妹妹趁哥哥醉酒玩弄肉棒,https://t0.97img.com/a1000520/a.m3u8
-房东是个萌妹子催租肉体缴付,https://t0.97img.com/a1000510/a.m3u8
-探询真理神秘女子,https://t0.97img.com/a1000511/a.m3u8
-未亡人在灵堂偷情,https://t0.97img.com/a1000557/a.m3u8
-直播间狂操沫沫,https://t0.97img.com/a1000548/a.m3u8
-女学生沉溺性侵爱液狂滴,https://t0.97img.com/a1000375/a.m3u8
-青春时代的巨根阴影,https://t0.97img.com/a1000285/a.m3u8
-性感女神为金钱献身,https://t0.97img.com/a1000692/a.m3u8
-报复村霸疯狂榨精,https://t0.97img.com/a1000684/a.m3u8
-为绿帽奴出轨的美人妻,https://t0.97img.com/a1000604/a.m3u8
-妩媚妖娆奶美容师帮我服务,https://t0.97img.com/a1000594/a.m3u8
-情欲游戏一试上淫,https://t0.97img.com/a1000590/a.m3u8
-淫荡女儿父母洞房前夕换妻,https://t0.97img.com/a1000632/a.m3u8
-性爱巡游的旅行者,https://t0.97img.com/a1000625/a.m3u8
-宅男恋上地雷系外送女,https://t0.97img.com/a1000583/a.m3u8
-送妻子的生日礼物,https://t0.97img.com/a1000577/a.m3u8
-为夫色诱讨债大哥,https://t0.97img.com/a1000558/a.m3u8
-制服诱惑被老公狠狠灌满,https://t0.97img.com/a1000704/a.m3u8
-饥渴少妇勾引穷医生,https://t0.97img.com/a1000682/a.m3u8
-射满骚货淫水直流的小穴,https://t0.97img.com/a1000681/a.m3u8
-前后夹击操爽小骚货,https://t0.97img.com/a1000680/a.m3u8
-巨根哥哥猛操妹妹骚穴,https://t0.97img.com/a1000664/a.m3u8
-狼父利诱蹂躏娇妻,https://t0.97img.com/a1000659/a.m3u8
-女体喷泉潮吹女王,https://t0.97img.com/a1000652/a.m3u8
-报复性狠操黑丝小淫娃,https://t0.97img.com/a1000756/a.m3u8
-性感老板娘勾引汁男,https://t0.97img.com/a1000751/a.m3u8
-稚嫩肉体的诱惑,https://t0.97img.com/a1000688/a.m3u8
-无德老板下药迷奸黑丝秘书,https://t30.cdn2020.com/video/m3u8/2025/01/23/fb9346b6/index.m3u8
-快递小哥约炮黑丝少妇,https://t30.cdn2020.com/video/m3u8/2025/01/23/00403f7c/index.m3u8
-高考结束萝莉妹妹放飞自我,https://t30.cdn2020.com/video/m3u8/2025/01/21/29a78a9f/index.m3u8
-菜摊老板厕所奸淫娇妻,https://t0.97img.com/a1000722/a.m3u8
-巨乳白虎骚穴被大鸡巴塞满,https://t0.97img.com/a1000731/a.m3u8
-痴呆傻子操了大胸美少女,https://t0.97img.com/a1000715/a.m3u8
-乱伦淫娃勾引富姐夫,https://t0.97img.com/a1000717/a.m3u8
-乱伦儿媳被公公借种,https://t0.97img.com/a1000706/a.m3u8
-饥渴少妇勾引穷医生,https://t0.97img.com/a1000682/a.m3u8
-玩弄清纯拜金女上司.,https://t0.97img.com/a1000681/a.m3u8
 
 🔞港台三级(112部),#genre#
-1色降2之血玫瑰,https://vip1.lz-cdn1.com/20220331/733_58b741b7/index.m3u8
-2新七擒七纵七色狼,https://jkunnzyx.com/20250426/uToXhon9/index.m3u8
-3倩女幽魂,https://jkunnzyx.com/20250423/nU0wWqCw/2000kb/hls/index.m3u8
-4艳降勾魂,https://jkunnzyx.com/20250422/QZeJpxSo/2000kb/hls/index.m3u8
-5唐朝禁宫秘史,https://jkunnzyx.com/20250422/IzZnh5aN/2000kb/hls/index.m3u8
-6唐朝豪放女,https://jkunnzyx.com/20250422/ACOOZ77D/2000kb/hls/index.m3u8?t=1759862410098
-7禁春,https://jkunnzyx.com/20250420/C6pNQeJa/2000kb/hls/index.m3u8
-8聊斋画皮,https://vip1.lz-cdn1.com/20220602/7244_b84ad9e5/1200k/hls/mixed.m3u8
-9惊变,https://jkunnzyx.com/20250216/DcmNwFCD/2000kb/hls/index.m3u8
-10玉蒲团之偷情宝鉴,https://sex8sex811.com/20250726/gyeUh9IH/3000kb/hls/index.m3u8
-11鸭王,https://vip1.lz-cdn.com/20220917/33110_558f97e4/1200k/hls/mixed.m3u8
-12鸭王2：鸡同鸭恋,https://sex8sex811.com/20250720/ZVJOiFu6/3000kb/hls/index.m3u8
-13玉蒲团之玉女心经,https://vip.lzcdn2.com/20220525/7634_7f4228f1/1200k/hls/mixed.m3u8
-14聊斋艳谭之玉女聊斋,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867035188432818176/790a397180e94e118b85f278941e42e7.m3u8?t=69804c9d&us=2018211537592377352&sign=808603d3bb0c4ee38c9652b745f55a5629fb07d1
-15聊斋艳谭之月宫宝盒,https://vip1.lz-cdn1.com/20220602/7246_8dec3f14/1200k/hls/mixed.m3u8
-16聊斋婴宁,https://vip1.lz-cdn1.com/20220602/7243_6ac4f584/1200k/hls/mixed.m3u8
-17聊斋荷花三娘子,https://vip1.lz-cdn1.com/20220602/7247_71485294/1200k/hls/mixed.m3u8
-18金瓶梅,https://vip1.lz-cdn1.com/20220516/5775_36eacadc/1200k/hls/mixed.m3u8
-19金瓶梅2,https://vip1.lz-cdn1.com/20220516/5774_3b77c66d/1200k/hls/mixed.m3u8
-20.3D肉蒲团之极乐宝鉴,https://vip1.lz-cdn.com/20220917/33091_abc5295d/1200k/hls/mixed.m3u8
-21血恋,https://play.subokk.com/play/BeXoMrvd/index.m3u8
-22血恋2,https://1.mysqldata3202s4l.com/20220906/vTtXOZiJ/index.m3u8
-23鸭之一族,https://vip.lz15uu.com/20221016/425_d50261a1/index.m3u8
-24五月樱唇,https://vostrely.com/20230510/TmmcwJpA/index.m3u8?t=1764471414752
-25青楼十二房,https://yzzy.play-cdn7.com/20220701/2057_5582dfdc/index.m3u8?t=1764471518907
-26现代情欲篇之换妻档案,https://v8.yuglf.com/202310/16/4j17Meq1LR1/video/index.m3u8?t=1764471651631
-27舞男情未了,https://v.huosucdn.com/20251012/4HbI8O9k/index.m3u8
-28桃色香居,https://yzzy.play-cdn14.com/20230728/30714_4c69114e/index.m3u8?t=1764472133794
-29花街狂奔,https://svip.high23-playback.com/20240730/25025_60d99e11/index.m3u8?t=1764472224721
-30三度诱惑,https://yzzy.play-cdn8.com/20220705/1308_6ed1e7c5/index.m3u8?t=1764472324424
-31三夫,https://play.subokk.com/play/hls/QeZwkB5a/index.m3u8
-32不文女学堂,https://v1.1bbffvip.com/20240714/r8cPwT4f/index.m3u8?t=1764489799259
-33挡不住的风情,https://yzzy.play-cdn7.com/20220629/1259_f08bbff3/index.m3u8?t=1764490077323
-34爱的精灵(李丽珍),https://s1.bfllvip.com/video/aidejingling/HD%E4%B8%AD%E5%AD%97/index.m3u8?t=1764490232892
-35酱爆泡沫天国,https://play.subokk.com/play/mepgDM2d/index.m3u8
-36蜜桃成熟时,https://play.phimgood.com/20250829/25929_0283ed0e/index.m3u8
-37蜜桃成熟时2同居关系,https://vostrely.com/20230509/IpkC7qSA/index.m3u8?t=1764490590670
-38蜜桃成熟时3蜜桃仙子,https://ukzyll.ukubf6.com/20220527/NIgfOdhM/index.m3u8?t=1764490721765
-39蜜桃成熟时33D,https://play.subokk.com/play/NbW4Q7Ed/index.m3u8
-40兽性诱惑之赤裸性游戏,https://yzzy.play-cdn6.com/20220805/8742_21203fa9/index.m3u8?t=1764490892225
-41满清十大酷刑之杨乃武与小白菜,https://bfikuncdn.com/20240423/i3VnccSZ/index.m3u8?t=1764491034766
-42满清十大酷刑之赤裸凌迟,https://play.phimgood.com/20250831/25950_ca8a2575/index.m3u8?t=1764510632070
-43big波诱惑,https://play.subokk.com/play/1aMp7ReW/index.m3u8
-44玉蒲团笑传之大內密探零零性,https://jpzy01.com/20240514/EK0sDhFi/index.m3u8?t=1764491437668
-45爱很烂(无码),https://jpzy01.com/20211123/ds6ASR5i/index.m3u8?t=1764491676709
-46苹果,https://play.subokk.com/play/1aMj09Pb/index.m3u8
-47天浴,https://v.cdnlz2.com/20230918/26240_a6b81ab0/index.m3u8?t=1764492072297
-48色戒,https://1080p.huyall.com/play/0dNxgO8a/index.m3u8?t=1764492136224
-49聊斋志异之孽欲孤鬼,https://play.subokk.com/play/Xe0gMZvd/index.m3u8?t=1764492414384
-50兽性新人类,https://yzzy.play-cdn7.com/20220701/2384_e248cbb9/index.m3u8?t=1764492497766
-51兽性新人类2失忆性行为,https://yzzy.play-cdn9.com/20220927/20_5a5a0b21/index.m3u8?t=1764492490362
-52聊斋艳奇之陆判性经,https://vip.lz15uu.com/20221003/329_2b99c463/index.m3u8?t=1764492625082
-53制服的挑逗,https://s1.bfllvip.com/video/zhifudetiaodou/%E4%B8%AD%E5%AD%97/index.m3u8?t=1764492746431
-54色欲城市之赤裸姐妹花,https://yzzy.play-cdn8.com/20220911/19276_b0e6b068/index.m3u8?t=1764492809683
-55男偷情女出墙(无码),https://vostrely.com/20241229/12ADicu1/index.m3u8
-56风情小姨子(无码),https://svip.yyzy-play.vip/20240317/174_daf88a54/2000k/hls/mixed.m3u8
-57辣妹交友记(无码),https://jpzy01.com/20230428/4s3zmkMH/1000kb/hls/index.m3u8
-58齐天大性之大闹女儿国,https://1080p.huyall.com/play/vbmyq3pb/index.m3u8?t=1764510081766
-59齐天大性II之大破盘丝洞,https://v8.yuglf.com/202310/10/swE3mnY9Ku1/video/index.m3u8?t=1764508812894
-60偷窥无罪,https://vostrely.com/20230308/EMnvvLhN/index.m3u8?t=1764508955434
-61偷窥无罪2,https://ukzyll.ukubf6.com/20220716/eZrqMx1k/index.m3u8?t=1764509022015
-62偷窥无罪3绝色网吧,https://1080p.huyall.com/play/QbYvWAWd/index.m3u8?t=1764509692549
-63偷窥无罪4淫人师表,https://jpzy01.com/20240502/Kj7kl0YI/index.m3u8?t=1764492332227
-64百分百挑逗,https://vip1.lz-cdn1.com/20220327/585_779ead1d/index.m3u8?t=1764509360291
-65愈穷愈见鬼,https://play.maoyanplay.top/20250812/Slj5aYnl/index.m3u8?t=1764509464562
-66灯草和尚1素女经,https://yzzy.play-cdn8.com/20220725/10441_09d2bd57/index.m3u8
-67灯草和尚2之白蛇前传,https://1080p.huyall.com/play/6dB58Wb7/index.m3u8
-68水浒传之英雄好色,https://v1.1bbffvip.com/20240730/wItixYZR/index.m3u8?t=1764509613876
-69还枝格格,https://v.huosucdn.com/20250727/yLcU5Ndf/index.m3u8?t=1764510211129
-70痛爱,https://v.huosucdn.com/20250803/hexR0pwM/index.m3u8
-71魔鬼屠夫,https://v.huosucdn.com/20251010/ImQTD2zi/1000kb/hls/index.m3u8
-72淫欲女飞贼,https://jpzy01.com/20221110/GXVKQnTp/index.m3u8?t=1764509220668
-73杀人渡假屋,https://yzzy.play-cdn6.com/20220805/8739_99bc78cf/index.m3u8?t=1764510789614
-74灭门惨案之孽杀,https://vip15.play-cdn15.com/20230822/24186_583600ea/index.m3u8?t=1764510914696
-75灭门惨案2:借种,https://jpzy01.com/20211114/UfyaRYxm/index.m3u8?t=1764512016004
-76魔鬼天使(徐若瑄),https://vip3.bfbfhao.com/20240725/rYmDY49x/index.m3u8?t=1764511291834
-77换妻换上瘾,https://v.huosucdn.com/20251007/lxVO5L3h/index.m3u8
-78情难自制,https://v.huosucdn.com/20250803/GpgKkhWw/index.m3u8
-79卿本佳人,https://s1.bfllvip.com/video/qingbenjiaren/HD%E4%B8%AD%E5%AD%97/index.m3u8?t=1764511707426
-80偷情男女,https://jpzy01.com/20240617/Qd37CNBE/index.m3u8?t=1764511768674
-81她来自胡志明市,https://yzzy.play-cdn6.com/20220805/8741_da7facbf/index.m3u8
-82聊斋花弄月,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/11/1867042462354198528/f89996191a544861b8efb255ef2c4b90.m3u8?t=69946eb0&us=2023745681546121216&sign=5631a42952ca7aab98f993ad3a251b25dde33934
-83三级蔷薇之恋,https://play.maoyanplay.top/20250808/PRcJMxaX/1000kb/hls/index.m3u8
-84赶尸艳谈(无码),https://vip2.bfbfhao.com/20210804/cSob3iZH/index.m3u8?t=1764512218153
-85不扣纽的女孩(李丽珍),https://ukzyll.ukubf6.com/20220525/ghXe6urh/index.m3u8?t=1764512564766
-86终极猎杀(徐若瑄),https://s1.bfllvip.com/video/zhongjiliesha/%E4%B8%AD%E5%AD%97/index.m3u8?t=1764513248213
-87杨贵妃淫史(无码),https://m3u8.cdn202511.com/videos/202411/21/673e60403276de039d31a373/a812fa/index.m3u8
-88赤裸天使(徐若瑄),https://jpzy01.com/20221218/KTysPP0x/index.m3u8?t=1764514037260
-89人间炼狱之淫间道,https://v8.yuglf.com/202310/12/qr2n0j9v221/video/2000k_1080/hls/index.m3u8
-90灵与欲,https://yzzy.play-cdn14.com/20230704/28364_7df0314a/index.m3u8?t=1764515771766
-91聊斋艳谭1艳魔大战,https://www.bfbfhao.com/20200705/JGbeLEEV/index.m3u8
-92聊斋艳谭2五通神,https://play.hhuus.com/play/hls/qaQLol5e/index.m3u8
-93聊斋艳谭3灯草和尚,https://s1.bfllvip.com/video/liaozhaiyantan3dengcaoheshang/HD%E4%B8%AD%E5%AD%97/index.m3u8?t=1765002177856
-94喜爱夜蒲1,https://1080p.huyall.com/play/PdRoOxVe/index.m3u8?t=1765002471430
-95喜爱夜蒲2,https://vod.guoluche.com/20230717/bTXqJQi7/index.m3u8?t=1765002769803
-96喜爱夜蒲3,https://play.hhuus.com/play/hls/qaQXm7Ze/index.m3u8
-97极欲燃烧,https://vip2.bfbfhao.com/20210804/AtIQMhnH/index.m3u8?t=1765003494739
-98性爱韦小宝之玩女大王,https://yzzy.play-cdn8.com/20220911/19278_871cc3d0/index.m3u8?t=1764511171817
-99蜜桃成熟時李丽珍版,https://vip.lz-cdn16.com/20221222/1040_850899a7/index.m3u8
-100军阀趣史,https://play.xluuss.com/play/DdwjD9wb/index.m3u8
-101一路向西,https://vip1.lz-cdn.com/20220917/33114_9987901b/index.m3u8
-102蜜桃成熟时2005之三人同眠,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867036766392897536/3b2a6369b27f4d49be6b0f10c152e327.m3u8?t=69804e1c&us=2018213141343232006&sign=7417cb428419a3e8ce5594666c8731e958365e86
-103烈火女警花,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867037278479667200/9f72e93e91b94855963d28fc48a98b3d.m3u8?t=69804e1c&us=2018213141355814916&sign=f05db463cea5239f6c6c019e232f5aa229aea60a
-104南洋十大邪术,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867038772058738688/8dc63a01aa8c44088aacb2373a40aa24.m3u8?t=69804e5f&us=2018213425328009224&sign=1d515f4cba29f6ade68379ec5c3bc4ade638478e
-105老泥妹,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867041341103493120/c26aad750baf43c89b803b8833dc3aad.m3u8?t=69804f3a&us=2018214343088881666&sign=78adf93efff187f36038a6e4aa495eff9312e111
-106绝种贱男之小男人小周记,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/11/1867044289808257024/9a2a0daa9cba41f0a490dbc2e64c8aaf.m3u8?t=69804f7e&us=2018214626121551874&sign=b7bea9f934f523d414e5dd8e245e22421bc6e48a
-107绝种贱男之爱在三级的日子,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/11/1867044436608897024/34831761ace54cbc84d26c63f5cb97ed.m3u8?t=69804f7e&us=2018214626121551880&sign=8df08f1b8a100229baff695262d3bb8337e22379
-108性劫兰桂芳,https://d6ii9agw2wrlt.cloudfront.net/video/2023-05-11/10/1656488518979301376/fb6874f539de4ef789285256fb6e0604.m3u8?t=69805006&us=2018215199511232512&sign=1cc5281cee9c08713a6b1636f65d5c7539536c3a
-109田螺艳鬼(无码),https://d6ii9agw2wrlt.cloudfront.net/video/2023-05-11/10/1656489245583749120/fd135318be3c451e898fb51cbdd738b0.m3u8?t=69805006&us=2018215199544786944&sign=b893b2639332257ed49d0d3783a09c460435e4e2
-110蜜桃来偷欢,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867036575765975040/2541d930d308453f94096b4271edf82a.m3u8?t=69946da2&us=2023744550815154180&sign=57103168c515c87b69ee7e70e30cea3733650364
-111聊斋惊艳,https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/11/1867042198452785152/8b6cf7c5f91a46c2828cdf366754c3d1.m3u8?t=69946eb0&us=2023745681537732610&sign=5e1e3e9ccb471f68ff2863139a64276ddbb58205
 
-
-💞无码,#genre#
-
-
-☀激情①_58,#genre#
+💞激情①_58,#genre#
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
 大陆2,https://vip4.ddyunbo.com/20210220/9CcKySuz/index.m3u8?skipl=1
 大陆3,https://vip4.ddyunbo.com/20210220/U7alv33Q/index.m3u8?skipl=1
@@ -1027,69 +1058,3 @@ ou8台,http://live.adultiptv.net/anal.m3u8
 
 
 
-☀激情②_58,#genre#
-
-三级电影-肉蒲团之极乐宝鉴,http://sekihfde.com/api/index.m3u8?m3u8=https://nxxplayurl.com/20230309/xuQp5HmI/500kb/hls/index.m3u8
-三级玉蒲团之偷情宝鉴,https://server17.535fs.com/video/m3u8/202505/21/6de202632347/playlist.m3u8
-三级催情宝鑑之性癖,https://server17.535fs.com/video/m3u8/202503/14/e89f50ae9cec/playlist.m3u8
-三級肉蒲團,https://server10.sxpgb.com/video/m3u8/202308/30/e181d0df2e39/playlist.m3u8
-三级电影-禧秘密生活,http://sekihfde.com/api/index.m3u8?m3u8=https://vip7.newljlj.com/20240707/9o6sFAOU/hls/index.m3u8
-三级电影-新红楼梦,http://sekihfde.com/api/index.m3u8?m3u8=https://vip7.newljlj.com/20240707/qp5oobkV/hls/index.m3u8
-三级电影-少女潘金莲,http://sekihfde.com/api/index.m3u8?m3u8=https://player.hgplayer00.com/20221209/Ur2JGtXZ/1000kb/hls/index.m3u8
-三级金瓶梅,https://server17.535fs.com/video/m3u8/202503/17/f7e2c5f094e7/playlist.m3u8
-三级金瓶梅2,https://server17.535fs.com/video/m3u8/202503/17/bea6d29fb917/playlist.m3u8
-三级金瓶梅,https://server16.8b0o0g.com/video/m3u8/202409/03/f8150097a285/playlist.m3u8
-三级金瓶梅四,https://server13.2000cms.com/video/m3u8/202403/01/eb45b1293eeb/playlist.m3u8
-三级电影-玉女心经,http://sekihfde.com/api/index.m3u8?m3u8=https://player.cl9987.com:188/20230222/0xWY8d4u/1000kb/hls/index.m3u8
-三级电影-人肉叉烧包II,http://sekihfde.com/api/index.m3u8?m3u8=https://bfnxxcdn.com/20230316/3za24H42/1000kb/hls/index.m3u8
-三级电影-大内密探,http://sekihfde.com/api/index.m3u8?m3u8=https://vip1.slbfsl.com/20221231/aS3o0oNR/2000kb/hls/index.m3u8
-三级电影-艳降勾魂,http://sekihfde.com/api/index.m3u8?m3u8=https://vip1.slbfsl.com/20220906/5Vu7vBNZ/1000kb/hls/index.m3u8
-三级电影-艳降勾魂,http://sekihfde.com/api/index.m3u8?m3u8=https://bfnxxcdn.com/20230325/QMaaQu5R/1000kb/hls/index.m3u8
-三级电影-色降II万里驱魔,http://sekihfde.com/api/index.m3u8?m3u8=https://player.huangguazyw.com/20221209/q6D4z8TD/1000kb/hls/index.m3u8
-三级电影-狐仙,http://sekihfde.com/api/index.m3u8?m3u8=https://player.hgplayer00.com/20221209/F0ePVVTW/1000kb/hls/index.m3u8
-三级电影-人猿泰山成人版,http://sekihfde.com/api/index.m3u8?m3u8=https://vip8.3sybf.com/20240910/UgFATYko/2000kb/hls/index.m3u8
-三级风月宝鉴之淫乱,https://server17.535fs.com/video/m3u8/202505/18/2e5b6f07a6bd/playlist.m3u8
-三级人肉叉烧包2,https://server17.535fs.com/video/m3u8/202504/11/9302cee20ada/playlist.m3u8
-三级满清禁宫奇案,https://server17.535fs.com/video/m3u8/202504/06/03bacc174fb5/playlist.m3u8
-三级剑奴血契约,https://server17.535fs.com/video/m3u8/202504/03/c9e8fbd3bf9f/playlist.m3u8
-三级伊波拉病毒,https://server17.535fs.com/video/m3u8/202503/18/b7b96e07752a/playlist.m3u8
-三級西廂艷譚,https://server10.sxpgb.com/video/m3u8/202308/30/5c0e7e38b4f8/playlist.m3u8
-人体蜈蚣-HD中字,https://vip.lz-cdn.com/20220831/30775_59881a65/index.m3u8
-人体蜈蚣2-HD中字,https://vip.lz-cdn.com/20220831/30776_9440cd4a/index.m3u8
-人体蜈蚣3-HD中字,https://vip.lz-cdn.com/20220831/30777_ea5821af/index.m3u8
-19禁：别人的目的,https://v5.slv525627.com/20250815/UqZ6cmK2/index.m3u8
-三级】岳母羞耻姿态,https://v5.slv525627.com/20250619/ZdmOR9V6/index.m3u8
-三级电影人头肉骨茶面,http://sekihfde.com/api/index.m3u8?m3u8=https://vip7.newljlj.com/20240707/LQPMqn2m/hls/index.m3u8
-三级电影官人我要,http://sekihfde.com/api/index.m3u8?m3u8=https://vip7.newljlj.com/20240707/dfvWgLWr/hls/index.m3u8
-三级电影新红楼梦,http://sekihfde.com/api/index.m3u8?m3u8=https://vip7.newljlj.com/20240707/qp5oobkV/hls/index.m3u8
-三级电影娇妻艳鬼,http://sekihfde.com/api/index.m3u8?m3u8=https://nxxplayurl.com/20230818/aMKJtJcN/2000kb/hls/index.m3u8
-三级电影鬼叫春,http://sekihfde.com/api/index.m3u8?m3u8=https://nxxplayurl.com/20230309/PsZFPMkm/500kb/hls/index.m3u8
-三级电影大内密探之零零性性,http://sekihfde.com/api/index.m3u8?m3u8=https://vip1.slbfsl.com/20221231/aS3o0oNR/2000kb/hls/index.m3u8
-四大美人之王绍君,https://hd.ijycnd.com/play/QdJQ1Plb/index.m3u8
-超淫特工队,https://hd.ijycnd.com/play/QbYy4kWb/index.m3u8
-唐朝艳妃,https://hd.ijycnd.com/play/zbqlgJra/index.m3u8
-喜爱夜蒲2,https://vip8.3sybf.com/20240831/R9mTq20g/2000kb/hls/index.m3u8
-东京监狱1,https://v5.lbv325627.com/20250922/9sRKjtEg/index.m3u8
-东京监狱3,https://v5.lbv325627.com/20250922/9NFbibzC/index.m3u8
-东京狂野战,https://v5.lbv325627.com/20250920/6QEzKfuF/index.m3u8
-东京肉搏战场,https://v5.lbv325627.com/20250920/2pI48qgI/index.m3u8
-☀国产①_58,#genre#
-金瓶梅(楊思敏版)1,https://play.hhuus.com/play/Rb4vYB7e/index.m3u8
-金瓶梅(楊思敏版)2,https://play.hhuus.com/play/RdGXQlKe/index.m3u8
-金瓶梅(楊思敏版)3,https://play.hhuus.com/play/PdyAJ36d/index.m3u8
-金瓶梅(楊思敏版)4,https://play.hhuus.com/play/DdwyR3ra/index.m3u8
-金瓶梅(楊思敏版)5,https://play.hhuus.com/play/9b6xzEOe/index.m3u8
-新紅樓夢1,https://play.hhuus.com/play/Pdy7JlWa/index.m3u8
-新紅樓夢2,https://play.hhuus.com/play/mepBXw6b/index.m3u8
-新紅樓夢3,https://play.hhuus.com/play/lej5OQ5d/index.m3u8
-新紅樓夢4,https://play.hhuus.com/play/YerBMZEe/index.m3u8
-新紅樓夢5,https://play.hhuus.com/play/pen7NQRa/index.m3u8
-新紅樓夢6,https://play.hhuus.com/play/nelXMQ5e/index.m3u8
-新紅樓夢7,https://play.hhuus.com/play/Xe0EAvva/index.m3u8
-新紅樓夢8,https://play.hhuus.com/play/rb22GzKb/index.m3u8
-新紅樓夢9,https://play.hhuus.com/play/5eVoJgMa/index.m3u8
-新紅樓夢10,https://play.hhuus.com/play/YaOLJVpb/index.m3u8
-新金瓶梅1,https://yzzy.play-cdn7.com/20220629/1290_1b966e11/1000k/hls/index.m3u8
-新金瓶梅2,https://yzzy.play-cdn7.com/20220629/1291_728b1d46/1000k/hls/index.m3u8
-新金瓶梅4,https://yzzy.play-cdn7.com/20220629/1293_a82f88e2/1000k/hls/index.m3u8
-新金瓶梅5,https://yzzy.play-cdn7.com/20220629/1294_8f00052a/1000k/hls/index.m3u8
